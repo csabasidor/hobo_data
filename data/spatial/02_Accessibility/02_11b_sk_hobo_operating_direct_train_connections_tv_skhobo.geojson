@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "02_11b_sk_hobo_operating_direct_train_connections_tv_skhobo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Trebišov", "to_b": "Kysak", "route_time": "1 hod 56 min", "route_km": "69 km", "operating": "true", "dur_min": 116.0, "sector": "SK HOBO CORE", "inner_sector": "nw" }, "geometry": { "type": "Point", "coordinates": [ 21.224381, 48.85285 ] } },
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Trebišov", "to_b": "Košice", "route_time": "47 min", "route_km": "53 km", "operating": "true", "dur_min": 47.0, "sector": null, "inner_sector": null }, "geometry": { "type": "Point", "coordinates": [ 21.2677787, 48.7226797 ] } },
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Trebišov", "to_b": "Čeľovce", "route_time": "7 min", "route_km": "8 km", "operating": "true", "dur_min": 7.0, "sector": "SK HOBO CORE", "inner_sector": "se" }, "geometry": { "type": "Point", "coordinates": [ 21.6298181, 48.6126484 ] } },
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Trebišov", "to_b": "Lastovce", "route_time": "26 min", "route_km": "19 km", "operating": "true", "dur_min": 26.0, "sector": "SK HOBO CORE", "inner_sector": "se" }, "geometry": { "type": "Point", "coordinates": [ 21.6224797, 48.5334572 ] } },
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Trebišov", "to_b": "Stanča", "route_time": "13 min", "route_km": "9 km", "operating": "true", "dur_min": 13.0, "sector": "SK HOBO CORE", "inner_sector": "se" }, "geometry": { "type": "Point", "coordinates": [ 21.6582362, 48.565655899999989 ] } },
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Trebišov", "to_b": "Veľaty", "route_time": "21 min", "route_km": "15 km", "operating": "true", "dur_min": 21.0, "sector": "SK HOBO CORE", "inner_sector": "se" }, "geometry": { "type": "Point", "coordinates": [ 21.65455, 48.5287983 ] } },
+{ "type": "Feature", "properties": { "index": 0, "from_a": "Trebišov", "to_b": "Michaľany", "route_time": "30 min", "route_km": "20 km", "operating": "true", "dur_min": 30.0, "sector": "SK HOBO CORE", "inner_sector": "se" }, "geometry": { "type": "Point", "coordinates": [ 21.6263554, 48.5212836 ] } }
+]
+}
