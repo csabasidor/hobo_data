@@ -1,0 +1,49 @@
+﻿index,from_a,to_b,route_time,route_km,operating,alter_from_a,alter_to_b,uo_from_ke,km,mini,rank_dur_ke,uo_duration,rank_abc_tv,sector,inner_sector,district,geopark,tvc,sector_from_hex,json_sector,json_sector_to,inner_sector_to,to_district,to_geopark
+0,"Trebišov,,AS 3","Čerhov,,pož.zbroj. 1",38 min,22 km,TRUE,Trebišov,Čerhov,NULL,22,38,NULL,over 30 under 45 min,9,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True
+0,"Trebišov,,AS","Černochov,,rázc.",45 min,28 km,TRUE,Trebišov,Černochov,NULL,28,45,NULL,over 30 under 45 min,10,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True
+0,"Trebišov,,AS","Košice,,AS",1 hod,48 km,TRUE,Trebišov,Košice,NULL,48,60,NULL,over 45 under 60 min,17,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,KE,KE,NULL,NULL
+0,"Trebišov,,AS 3","Veľká Tŕňa,,č.d.200 1",42 min,26 km,TRUE,Trebišov,Veľká Tŕňa,NULL,26,42,NULL,over 30 under 45 min,40,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True
+0,"Trebišov,,AS 2","Malý Kamenec,,č.d.6 1",1 hod 7 min,48 km,TRUE,Trebišov,Malý Kamenec,NULL,48,67,NULL,over 60 under 75 min,23,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 2","Michaľany,,OcÚ 1",30 min,25 km,TRUE,Trebišov,Michaľany,NULL,25,30,NULL,over 15 under 30 min,24,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 2","Brezina,,č.d.175",1 hod 4 min,41 km,TRUE,Trebišov,Brezina,NULL,41,64,NULL,over 60 under 75 min,5,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 2",Kašov,40 min,25 km,TRUE,Trebišov,Kašov,NULL,25,40,NULL,over 30 under 45 min,15,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 2","Veľký Kamenec,,pošta 1 D",1 hod 8 min,50 km,TRUE,Trebišov,Veľký Kamenec,NULL,50,68,NULL,over 60 under 75 min,41,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 3","Luhyňa,,rázc. 1",22 min,19 km,TRUE,Trebišov,Luhyňa,NULL,19,22,NULL,over 15 under 30 min,21,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 2","Hrčeľ,,č.d.202 1",22 min,17 km,TRUE,Trebišov,Hrčeľ,NULL,17,22,NULL,over 15 under 30 min,13,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS","Novosad,,nákup.stred.",21 min,15 km,TRUE,Trebišov,Novosad,NULL,15,21,NULL,over 15 under 30 min,27,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 2",Kysta 1,27 min,19 km,TRUE,Trebišov,Kysta,NULL,19,27,NULL,over 15 under 30 min,19,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS","Brehov,,rázc.Biňov",36 min,24 km,TRUE,Trebišov,Brehov,NULL,24,36,NULL,over 30 under 45 min,4,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS","Cejkov,,Jednota",31 min,23 km,TRUE,Trebišov,Cejkov,NULL,23,31,NULL,over 30 under 45 min,7,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 9","Zemplín.Branč,,rázc.Komárov 2",42 min,22 km,TRUE,Trebišov,Zemplínsky Branč,NULL,22,42,NULL,over 30 under 45 min,48,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 9","Stanča,,Hrunok 1",32 min,17 km,TRUE,Trebišov,Stanča,NULL,17,32,NULL,over 30 under 45 min,36,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS","Zemplín.Hradište,,rázc.",11 min,7 km,TRUE,Trebišov,Zemplínske Hradište,NULL,7,11,NULL,under 15 min,46,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 2","Slovenské N.Mesto,,č.d.65/152 2",37 min,30 km,TRUE,Trebišov,Slovenské Nové Mesto,NULL,30,37,NULL,over 30 under 45 min,34,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True
+0,"Trebišov,,AS","Bara,Malá Bara",53 min,34 km,TRUE,Trebišov,Bara,NULL,34,53,NULL,over 45 under 60 min,1,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True
+0,"Trebišov,,AS","Ladmovce,,č.d.100 2",57 min,40 km,TRUE,Trebišov,Ladmovce,NULL,40,57,NULL,over 45 under 60 min,20,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True
+0,"Trebišov,,AS","Sirník,,Stredisko obce",41 min,23 km,TRUE,Trebišov,Sirník,NULL,23,41,NULL,over 30 under 45 min,30,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 9","Zemplín.Nová Ves,Úpor,závory 2",36 min,18 km,TRUE,Trebišov,Zemplínska Nová Ves,NULL,18,36,NULL,over 30 under 45 min,44,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 4","Plechotice,,Centrum 1",11 min,9 km,TRUE,Trebišov,Plechotice,NULL,9,11,NULL,under 15 min,28,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 4","Zemplín.Teplica,,ŠPP",26 min,19 km,TRUE,Trebišov,Zemplínska Teplica,NULL,19,26,NULL,over 15 under 30 min,45,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 2","Streda n.Bodrog.,,žel.st. 2",47 min,37 km,TRUE,Trebišov,Streda nad Bodrogom,NULL,37,47,NULL,over 45 under 60 min,37,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS","Zemplín,,Župný dom",50 min,35 km,TRUE,Trebišov,Zemplín,NULL,35,50,NULL,over 45 under 60 min,43,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True
+0,"Trebišov,,AS 4","Čeľovce,,č.d.117 3",15 min,12 km,TRUE,Trebišov,Čeľovce,NULL,12,15,NULL,under 15 min,8,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 2","Rad,Hrušov,č.d.35 2",1 hod 3 min,47 km,TRUE,Trebišov,Rad,NULL,47,63,NULL,over 60 under 75 min,29,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS","Zemplín.Jastrabie,,č.d.186",26 min,19 km,TRUE,Trebišov,Zemplínske Jastrabie,NULL,19,26,NULL,over 15 under 30 min,47,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 2","Kazimír,,Jednota 3",50 min,30 km,TRUE,Trebišov,Kazimír,NULL,30,50,NULL,over 45 under 60 min,16,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS","Kožuchov,,OcÚ",13 min,9 km,TRUE,Trebišov,Kožuchov,NULL,9,13,NULL,under 15 min,18,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 2","Viničky,,Centrum 2",45 min,35 km,TRUE,Trebišov,Viničky,NULL,35,45,NULL,over 30 under 45 min,42,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True
+0,"Trebišov,,AS 3",Malá Tŕňa,45 min,27 km,TRUE,Trebišov,Malá Tŕňa,NULL,27,45,NULL,over 30 under 45 min,22,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True
+0,"Trebišov,,AS 2","Svätá Mária,,č.d.86 2",1 hod,46 km,TRUE,Trebišov,Svätá Mária,NULL,46,60,NULL,over 45 under 60 min,38,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 3","Veľaty,,cintorín",17 min,14 km,TRUE,Trebišov,Veľaty,NULL,14,17,NULL,over 15 under 30 min,39,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS","Hraň,,č.d.146",36 min,20 km,TRUE,Trebišov,Hraň,NULL,20,36,NULL,over 30 under 45 min,12,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 9","Nižný Žipov,,kostol 1",26 min,15 km,TRUE,Trebišov,Nižný Žipov,NULL,15,26,NULL,over 15 under 30 min,26,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 4","Slivník,,č.d.96 1",35 min,21 km,TRUE,Trebišov,Slivník,NULL,21,35,NULL,over 30 under 45 min,33,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS","Slanec,,centrum",35 min,27 km,TRUE,Trebišov,Slanec,NULL,27,35,NULL,over 30 under 45 min,31,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,SE KS district,Košice - okolie,False
+0,"Trebišov,,AS 2",Nižná Hutka 1,1 hod 44 min,71 km,TRUE,Trebišov,Nižná Hutka,NULL,71,104,NULL,over 95 under 110 min,25,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,SE KS district,Košice - okolie,False
+0,"Trebišov,,AS",Slanské N.Mesto,32 min,24 km,TRUE,Trebišov,Slanské Nové Mesto,NULL,24,32,NULL,over 30 under 45 min,32,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,SE KS district,Košice - okolie,False
+0,"Trebišov,,AS 2","Kalša,,pož.zbroj. 1",1 hod 18 min,51 km,TRUE,Trebišov,Kalša,NULL,51,78,NULL,over 75 under 80 min,14,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,SE KS district,Košice - okolie,False
+0,"Trebišov,,AS","Bohdanovce,,rázc.Niž.Čaj",46 min,35 km,TRUE,Trebišov,Bohdanovce,NULL,35,46,NULL,over 45 under 60 min,2,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,SE KS district,Košice - okolie,False
+0,"Trebišov,,AS 4","Egreš,,pri parku 1",17 min,14 km,TRUE,Trebišov,Egreš,NULL,14,17,NULL,over 15 under 30 min,11,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of TV district,Trebišov,False
+0,"Trebišov,,AS 2","Somotor,Nová Vieska p.Bodr.,rázc. 2",57 min,44 km,TRUE,Trebišov,Somotor,NULL,44,57,NULL,over 45 under 60 min,35,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 2","Byšta,,č.d.62 1",54 min,34 km,TRUE,Trebišov,Byšta,NULL,34,54,NULL,over 45 under 60 min,6,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,Rest of geopark,Trebišov,True
+0,"Trebišov,,AS 2","Borša,,rázc.k žel.st. 2",41 min,33 km,TRUE,Trebišov,Borša,NULL,33,41,NULL,over 30 under 45 min,3,Trebišov,TV,Trebišov,FALSE,TRUE,#FFA500,TV,SK HOBO CORE,TVC,Trebišov,True

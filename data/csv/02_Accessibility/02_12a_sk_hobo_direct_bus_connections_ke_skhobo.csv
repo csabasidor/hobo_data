@@ -1,0 +1,68 @@
+﻿index,from_a,to_b,route_time,route_km,operating,alter_from_a,alter_to_b,km,mini,rank_dur_ke,uo_duration,rank_abc_tv,sector,inner_sector,district,geopark,tvc,sector_from_hex,json_sector,json_sector_to,inner_sector_to,to_district,to_geopark
+0,"Košice,,AS 15","Kysak,,most",28 min,21 km,TRUE,Košice,Kysak,21,28,24,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,NW,Košice - okolie,FALSE
+0,"Košice,,AS 15",Malá Lodina,50 min,31 km,TRUE,Košice,Malá Lodina,31,50,27,over 45 under 60 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,NW,Košice - okolie,FALSE
+0,"Košice,,AS 15","Kostoľany n.Hornádom,,centrum",17 min,11 km,TRUE,Košice,Kostoľany nad Hornádom,11,17,23,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,NW,Košice - okolie,FALSE
+0,"Košice,,AS 11","Slivník,,č.d.96",50 min,36 km,TRUE,Košice,Slivník,36,50,49,over 45 under 60 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of TV district,Trebišov,FALSE
+0,"Košice,,AS 10","Veľaty,,cintorín 1",1 hod 16 min,55 km,TRUE,Košice,Veľaty,55,76,57,over 75 under 80 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 10","Čeľovce,,č.d.117 1",56 min,42 km,TRUE,Košice,Čeľovce,42,56,10,over 45 under 60 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of TV district,Trebišov,FALSE
+0,"Košice,,AS 11","Byšta,,č.d.62",1 hod 8 min,50 km,TRUE,Košice,Byšta,50,68,7,over 60 under 75 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 11","Michaľany,,OcÚ 1",1 hod 3 min,51 km,TRUE,Košice,Michaľany,51,63,29,over 60 under 75 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 11","Luhyňa,,rázc. 4",1 hod 14 min,57 km,TRUE,Košice,Luhyňa,57,74,26,over 60 under 75 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 10","Hrčeľ,,č.d.202 1",1 hod 18 min,58 km,TRUE,Košice,Hrčeľ,58,78,17,over 75 under 80 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 10","Nižný Žipov,,kostol 1",1 hod 2 min,45 km,TRUE,Košice,Nižný Žipov,45,62,34,over 60 under 75 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of TV district,Trebišov,FALSE
+0,"Košice,,AS 11",Malá Tŕňa,1 hod 25 min,65 km,TRUE,Košice,Malá Tŕňa,65,85,28,over 80 under 95 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,TVC,Trebišov,TRUE
+0,"Košice,,AS 12","Zemplín.Teplica,,ZŠ",50 min,33 km,TRUE,Košice,Zemplínska Teplica,33,50,65,over 45 under 60 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of TV district,Trebišov,FALSE
+0,"Košice,,AS 10","Egreš,,pri parku 1",54 min,40 km,TRUE,Košice,Egreš,40,54,13,over 45 under 60 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of TV district,Trebišov,FALSE
+0,"Košice,,AS 30","Sokoľany,,čak.",21 min,16 km,TRUE,Košice,Sokoľany,16,21,51,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 29","Ždaňa,,Abovská",25 min,17 km,TRUE,Košice,Ždaňa,17,25,63,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 12","Vyšná Myšľa,,rázc.",20 min,14 km,TRUE,Košice,Vyšná Myšľa,14,20,61,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 13","Vyšný Čaj,,ihrisko",21 min,17 km,TRUE,Košice,Vyšný Čaj,17,21,62,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 13","Olšovany,,OcÚ",17 min,14 km,TRUE,Košice,Olšovany,14,17,38,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 28","Skároš,,konečná",38 min,21 km,TRUE,Košice,Skároš,21,38,44,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 10","Slanská Huta,,bytový dom",55 min,34 km,TRUE,Košice,Slanská Huta,34,55,47,over 45 under 60 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,Važecká",Nižná Hutka,6 min,5 km,TRUE,Košice,Nižná Hutka,5,6,31,under 15 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 12",Slanské N.Mesto,39 min,28 km,TRUE,Košice,Slanské Nové Mesto,28,39,48,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 31","Milhosť,,št.hr.",30 min,24 km,TRUE,Košice,Milhosť,24,30,30,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 11","Veľká Tŕňa,,č.d.200 1",1 hod 22 min,64 km,TRUE,Košice,Veľká Tŕňa,64,82,59,over 80 under 95 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,TVC,Trebišov,TRUE
+0,"Košice,,AS 29","Valaliky,Všechsvätých",16 min,11 km,TRUE,Košice,Valaliky,11,16,56,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,Važecká",Blažice,14 min,14 km,TRUE,Košice,Blažice,14,14,2,under 15 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 10","Stanča,,Hrunok 1",1 hod 7 min,47 km,TRUE,Košice,Stanča,47,67,52,over 60 under 75 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of TV district,Trebišov,FALSE
+0,"Košice,,AS 31","Seňa,,kostol",31 min,20 km,TRUE,Košice,Seňa,20,31,42,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 31","Belža,,rázc.",26 min,18 km,TRUE,Košice,Belža,18,26,1,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 29","Čaňa,,centrum",23 min,15 km,TRUE,Košice,Čaňa,15,23,8,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 11","Brezina,,č.d.175",59 min,43 km,TRUE,Košice,Brezina,43,59,6,over 45 under 60 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 10",Nový Salaš,47 min,31 km,TRUE,Košice,Nový Salaš,31,47,36,over 45 under 60 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 10","Cejkov,,Jednota",1 hod 43 min,70 km,TRUE,Košice,Cejkov,70,103,9,over 95 under 110 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 15",Obišovce,1 hod,30 km,TRUE,Košice,Obišovce,30,60,37,over 45 under 60 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,NW,Košice - okolie,FALSE
+0,"Košice,,AS 12","Sirník,,Stredisko obce",1 hod 36 min,66 km,TRUE,Košice,Sirník,66,96,43,over 95 under 110 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 10","Slančík,,Šoškut",45 min,31 km,TRUE,Košice,Slančík,31,45,45,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 10","Brehov,,kult.dom",1 hod 30 min,71 km,TRUE,Košice,Brehov,71,90,5,over 80 under 95 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,Važecká","Nižná Myšľa,,štadión",11 min,9 km,TRUE,Košice,Nižná Myšľa,9,11,32,under 15 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 29","Trstené pri Hornáde,,OcÚ",27 min,22 km,TRUE,Košice,Trstené pri Hornáde,22,27,55,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 12","Hraň,,č.d.146",1 hod 30 min,63 km,TRUE,Košice,Hraň,63,90,16,over 80 under 95 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 31","Kechnec,,č.d.147",32 min,21 km,TRUE,Košice,Kechnec,21,32,20,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 26","Kokšov-Bakša,,kostol",18 min,14 km,TRUE,Košice,Kokšov-Bakša,14,18,21,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 14","Košická Polianka,,obch.dom",14 min,10 km,TRUE,Košice,Košická Polianka,10,14,22,under 15 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 11","Plechotice,,Centrum 2",1 hod 17 min,48 km,TRUE,Košice,Plechotice,48,77,39,over 75 under 80 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of TV district,Trebišov,FALSE
+0,"Košice,,AS 11","Čerhov,,pož.zbroj. 1",1 hod 18 min,60 km,TRUE,Košice,Čerhov,60,78,11,over 75 under 80 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,TVC,Trebišov,TRUE
+0,"Košice,,AS 10","Zemplín.Branč,,rázc.Komárov 1",1 hod 14 min,52 km,TRUE,Košice,Zemplínsky Branč,52,74,67,over 60 under 75 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of TV district,Trebišov,FALSE
+0,"Košice,,AS 14","Sady n.Torysou,Byster,čak.",11 min,8 km,TRUE,Košice,Sady nad Torysou,8,11,41,under 15 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 13",Nižný Čaj,31 min,21 km,TRUE,Košice,Nižný Čaj,21,31,33,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 27",Gyňov,30 min,18 km,TRUE,Košice,Gyňov,18,30,15,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 11","Kalša,,pož.zbroj.",43 min,33 km,TRUE,Košice,Kalša,33,43,18,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 12","Slanec,,centrum",35 min,25 km,TRUE,Košice,Slanec,25,35,46,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,Važecká","Ruskov,,Jednota",19 min,17 km,TRUE,Košice,Ruskov,17,19,40,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 10","Zemplín.Jastrabie,,č.d.186 1",1 hod 35 min,66 km,TRUE,Košice,Zemplínske Jastrabie,66,95,66,over 80 under 95 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 11","Kazimír,,Jednota",1 hod 3 min,46 km,TRUE,Košice,Kazimír,46,63,19,over 60 under 75 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 15","Veľká Lodina,,OcÚ",45 min,28 km,TRUE,Košice,Veľká Lodina,28,45,58,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,NW,Košice - okolie,FALSE
+0,"Košice,,AS 15","Družstevná pri Hornáde,Malá Vieska,most",18 min,12 km,TRUE,Košice,Družstevná pri Hornáde,12,18,12,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,NW,Košice - okolie,FALSE
+0,"Košice,,AS 15","Trebejov,,ZŠ",25 min,18 km,TRUE,Košice,Trebejov,18,25,53,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,NW,Košice - okolie,FALSE
+0,"Košice,,AS 10","Novosad,,nákup.stred. 1",1 hod 31 min,62 km,TRUE,Košice,Novosad,62,91,35,over 80 under 95 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 10",Kysta 1,1 hod 23 min,60 km,TRUE,Košice,Kysta,60,83,25,over 80 under 95 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of geopark,Trebišov,TRUE
+0,"Košice,,AS 15",Sokoľ,25 min,14 km,TRUE,Košice,Sokoľ,14,25,50,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,NW,Košice - okolie,FALSE
+0,"Košice,,Važecká",Vyšná Hutka,24 min,15 km,TRUE,Košice,Vyšná Hutka,15,24,60,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 30","Bočiar,,čak.",24 min,18 km,TRUE,Košice,Bočiar,18,24,3,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 13","Bohdanovce,,rázc.Niž.Čaj",32 min,21 km,TRUE,Košice,Bohdanovce,21,32,4,over 30 under 45 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 10","Zemplín.Nová Ves,Úpor,závory 1",1 hod 9 min,48 km,TRUE,Košice,Zemplínska Nová Ves,48,69,64,over 60 under 75 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,Rest of TV district,Trebišov,FALSE
+0,"Košice,,AS 29","Geča,,Jednota",18 min,12 km,TRUE,Košice,Geča,12,18,14,over 15 under 30 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,SK HOBO CORE,SE KS district,Košice - okolie,FALSE
+0,"Košice,,AS 23","Trebišov,,AS",1 hod 8 min,51 km,TRUE,Košice,Trebišov,51,68,54,over 60 under 75 min,NULL,Košice,KE,NULL,NULL,NULL,#00FF00,KE,TV,TV,Trebišov,FALSE
