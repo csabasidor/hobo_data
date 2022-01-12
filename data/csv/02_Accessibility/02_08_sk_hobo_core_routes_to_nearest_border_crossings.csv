@@ -1,0 +1,88 @@
+﻿municipality,from_a,id_cb_longest,id_cb_shortest,shortest_km,shortest_min,id_crossing_shortest,longest_km,longest_min,id_crossing_longest,avg_min,avg_km,order_m
+Bara,"076 32 Bara, Slovakia",32,8,8.4 km,10.47,8 Slovenské Nové Mesto <-> Sátoraljaújhely,70.3 km,71.08,32 Milhosť <-> Tornyosnémeti,39.69,34.3,31
+Belža,"044 58 Belža, Slovakia",1,31,7.0 km,8.9,31 Milhosť <-> Tornyosnémeti,67.4 km,72.03,1 Veľký Kamenec <-> Pácin,37.54,33.7,26
+Borša,"076 32 Borša, Slovakia",32,8,3.0 km,3.73,8 Slovenské Nové Mesto <-> Sátoraljaújhely,65.0 km,64.35,32 Milhosť <-> Tornyosnémeti,32.93,29.39,9
+Brezina,"076 12 Brezina, Slovakia",29,12,6.6 km,6.77,12 Michaľany <-> Felsőregmec,30.0 km,50.57,29 Kechnec <-> Abaújvár,31.47,26.73,19
+Čerhov,"076 81 Čerhov, Slovakia",32,10,4.5 km,4.1,10 Slovenské Nové Mesto <-> Sátoraljaújhely,68.9 km,61.75,32 Milhosť <-> Tornyosnémeti,32.09,29.06,10
+Gyňov,"044 14 Gyňov, Slovakia",1,28,10.0 km,12.08,28 Trstené pri Hornáde <-> Kéked,61.0 km,66.25,1 Veľký Kamenec <-> Pácin,34.96,31.77,37
+Kechnec,"044 58 Kechnec, Slovakia",1,31,3.0 km,3.7,31 Milhosť <-> Tornyosnémeti,70.3 km,75.02,1 Veľký Kamenec <-> Pácin,38.33,34.8,8
+Kuzmice,"076 12 Kuzmice, Slovakia",29,12,9.6 km,9.05,12 Michaľany <-> Felsőregmec,45.9 km,45.47,29 Kechnec <-> Abaújvár,31.2,30.14,27
+Seňa,"044 58 Seňa, Slovakia",1,31,3.1 km,3.25,31 Milhosť <-> Tornyosnémeti,69.0 km,72.9,1 Veľký Kamenec <-> Pácin,36.78,33.97,6
+Skároš,"044 11 Skároš, Slovakia",1,25,3.5 km,4.5,25 Skároš <-> Hollóháza-Füzér,53.4 km,58,1 Veľký Kamenec <-> Pácin,30.12,26.48,12
+Slanská Huta,"044 17 Slanská Huta, Slovakia",1,20,7.2 km,15.05,20 Slanská Huta <-> Pusztafalu,59.7 km,58.13,1 Veľký Kamenec <-> Pácin,36.42,34.54,50
+Slovenské Nové Mesto,"076 33 Slovenské Nové Mesto, Slovakia",32,8,0.2 km,0.8,8 Slovenské Nové Mesto <-> Sátoraljaújhely,62.1 km,61.42,32 Milhosť <-> Tornyosnémeti,30.98,27.47,1
+Trstené pri Hornáde,"044 11 Trstené pri Hornáde, Slovakia",1,28,1.6 km,2.72,28 Trstené pri Hornáde <-> Kéked,60.3 km,65.08,1 Veľký Kamenec <-> Pácin,34.2,31.36,3
+Veľký Kamenec,"076 36 Veľký Kamenec, Slovakia",32,1,3.7 km,3.5,1 Veľký Kamenec <-> Pácin,77.0 km,75.45,32 Milhosť <-> Tornyosnémeti,41.3,38.46,7
+Blažice,"044 16 Blažice, Slovakia",1,25,16.6 km,18.07,25 Skároš <-> Hollóháza-Füzér,62.7 km,59.82,1 Veľký Kamenec <-> Pácin,34.6,33.1,66
+Bočiar,"044 57 Bočiar, Slovakia",1,31,14.2 km,14.13,31 Milhosť <-> Tornyosnémeti,67.7 km,72.77,1 Veľký Kamenec <-> Pácin,39.41,36.2,46
+Bohdanovce,"044 16 Bohdanovce, Slovakia",1,25,15.2 km,16.05,25 Skároš <-> Hollóháza-Füzér,60.9 km,57.23,1 Veľký Kamenec <-> Pácin,32.25,31.48,56
+Čaňa,"044 14 Čaňa, Slovakia",1,28,7.1 km,8.75,28 Trstené pri Hornáde <-> Kéked,58.2 km,62.92,1 Veľký Kamenec <-> Pácin,31.75,29.02,25
+Brehov,"076 05 Brehov, Slovakia",29,8,18.9 km,19.62,8 Slovenské Nové Mesto <-> Sátoraljaújhely,72.4 km,65.8,29 Kechnec <-> Abaújvár,42.21,42.88,70
+Byšta,"076 13 Byšta, Slovakia",32,12,6.6 km,8.02,12 Michaľany <-> Felsőregmec,50.4 km,55.82,32 Milhosť <-> Tornyosnémeti,33.33,26.05,22
+Cejkov,"076 05 Cejkov, Slovakia",32,8,13.8 km,14.43,8 Slovenské Nové Mesto <-> Sátoraljaújhely,78.4 km,66.02,32 Milhosť <-> Tornyosnémeti,40.46,39.5,47
+Čeľovce,"076 17 Čeľovce, Slovakia",29,12,12.1 km,13.25,12 Michaľany <-> Felsőregmec,50.0 km,47.62,29 Kechnec <-> Abaújvár,33.35,33.95,43
+Černochov,"076 32 Černochov, Slovakia",32,8,9.5 km,10.83,8 Slovenské Nové Mesto <-> Sátoraljaújhely,71.4 km,71.45,32 Milhosť <-> Tornyosnémeti,39.86,34.37,33
+Družstevná pri Hornáde,"044 31 Družstevná pri Hornáde, Slovakia",1,32,38.7 km,31.13,32 Milhosť <-> Tornyosnémeti,95.3 km,79.83,1 Veľký Kamenec <-> Pácin,51.61,57.28,81
+Egreš,"075 01 Egreš, Slovakia",29,12,16.4 km,15.82,12 Michaľany <-> Felsőregmec,47.9 km,45.35,29 Kechnec <-> Abaújvár,33.26,34.88,55
+Geča,"044 10 Geča, Slovakia",1,28,9.9 km,12.4,28 Trstené pri Hornáde <-> Kéked,60.9 km,66.57,1 Veľký Kamenec <-> Pácin,35.17,31.39,40
+Haniska,"044 57 Haniska, Slovakia",1,31,10.2 km,9.98,31 Milhosť <-> Tornyosnémeti,63.6 km,68.62,1 Veľký Kamenec <-> Pácin,35.26,32.15,29
+Hraň,"076 03 Hraň, Slovakia",29,12,19.8 km,20.53,12 Michaľany <-> Felsőregmec,69.3 km,64.92,29 Kechnec <-> Abaújvár,43.5,43.77,75
+Hrčeľ,"076 15 Hrčeľ, Slovakia",32,12,7.3 km,9.8,12 Michaľany <-> Felsőregmec,70.1 km,59.28,32 Milhosť <-> Tornyosnémeti,36.13,34.59,28
+Klin nad Bodrogom,"076 31 Klin nad Bodrogom, Slovakia",32,3,6.0 km,7.15,3 Streda nad Bodrogom <-> Káros,73.4 km,74.55,32 Milhosť <-> Tornyosnémeti,41.03,35.91,20
+Kalša,"044 18 Kalša, Slovakia",1,12,15.5 km,14.47,12 Michaľany <-> Felsőregmec,48.1 km,44.88,1 Veľký Kamenec <-> Pácin,31.53,31.23,48
+Kašov,"076 02 Kašov, Slovakia",29,12,15.3 km,17.3,12 Michaľany <-> Felsőregmec,67.6 km,62.2,29 Kechnec <-> Abaújvár,39.9,39.94,62
+Kazimír,"076 13 Kazimír, Slovakia",29,12,3.0 km,2.97,12 Michaľany <-> Felsőregmec,52.6 km,51.53,29 Kechnec <-> Abaújvár,31.14,30.1,5
+KokšovBakša,"044 13 Kokšov-Bakša, Slovakia",1,28,15.1 km,18.88,28 Trstené pri Hornáde <-> Kéked,66.1 km,73.05,1 Veľký Kamenec <-> Pácin,41.34,36.35,68
+Kožuchov,"076 01 Kožuchov, Slovakia",29,12,13.3 km,13.63,12 Michaľany <-> Felsőregmec,62.7 km,58.02,29 Kechnec <-> Abaújvár,38.07,39.34,44
+Košická Polianka,"044 41 Košická Polianka, Slovakia",1,25,20.7 km,24.03,25 Skároš <-> Hollóháza-Füzér,74.4 km,72.03,1 Veľký Kamenec <-> Pácin,43.07,40.52,78
+Luhyňa,"076 14 Luhyňa, Slovakia",32,12,3.7 km,4.4,12 Michaľany <-> Felsőregmec,65.5 km,57.75,32 Milhosť <-> Tornyosnémeti,31.72,29.7,11
+Kostoľany nad Hornádom,"044 31 Kostoľany nad Hornádom, Slovakia",1,32,35.1 km,31.13,32 Milhosť <-> Tornyosnémeti,96.2 km,81.02,1 Veľký Kamenec <-> Pácin,52.2,55.9,80
+Malý Kamenec,"076 36 Malý Kamenec, Slovakia",32,1,5.0 km,4.83,1 Veľký Kamenec <-> Pácin,74.5 km,74.6,32 Milhosť <-> Tornyosnémeti,40.51,36.36,14
+Kysak,"044 81 Kysak, Slovakia",1,32,46.5 km,35.28,32 Milhosť <-> Tornyosnémeti,102 km,82.8,1 Veľký Kamenec <-> Pácin,54.99,63.93,84
+Michaľany,"076 14 Michaľany, Slovakia",29,12,1.3 km,2.13,12 Michaľany <-> Felsőregmec,56.5 km,55.52,29 Kechnec <-> Abaújvár,32.43,30.85,2
+Milhosť,"044 58 Milhosť, Slovakia",1,31,1.8 km,2.93,31 Milhosť <-> Tornyosnémeti,71.7 km,76.35,1 Veľký Kamenec <-> Pácin,39.34,35.81,4
+Kysta,"076 02 Kysta, Slovakia",32,12,10.2 km,12.83,12 Michaľany <-> Felsőregmec,70.9 km,60.55,32 Milhosť <-> Tornyosnémeti,38.1,36.49,42
+Ladmovce,"076 34 Ladmovce, Slovakia",32,8,9.4 km,10.15,8 Slovenské Nové Mesto <-> Sátoraljaújhely,71.4 km,70.77,32 Milhosť <-> Tornyosnémeti,38.23,34.72,30
+Lastovce,"076 14 Lastovce, Slovakia",29,12,4.9 km,7.55,12 Michaľany <-> Felsőregmec,57.9 km,55.7,29 Kechnec <-> Abaújvár,35.7,33.92,21
+Malá Lodina,"044 32 Malá Lodina, Slovakia",1,32,60.2 km,61.1,32 Milhosť <-> Tornyosnémeti,114 km,117.5,1 Veľký Kamenec <-> Pácin,85.14,78.46,86
+Malá Tŕňa,"076 82 Malá Tŕňa, Slovakia",32,10,4.9 km,4.9,10 Slovenské Nové Mesto <-> Sátoraljaújhely,65.0 km,63.6,32 Milhosť <-> Tornyosnémeti,33.8,30.34,15
+Nižná Hutka,"040 18 Nižná Hutka, Slovakia",1,25,13.7 km,15.52,25 Skároš <-> Hollóháza-Füzér,67.3 km,63.5,1 Veľký Kamenec <-> Pácin,35.19,34.45,52
+Nižná Myšľa,"044 15 Nižná Myšľa, Slovakia",1,25,9.3 km,10.47,25 Skároš <-> Hollóháza-Füzér,66.9 km,62.93,1 Veľký Kamenec <-> Pácin,32.52,31.75,32
+Nižný Čaj,"044 16 Nižný Čaj, Slovakia",1,25,15.2 km,16.22,25 Skároš <-> Hollóháza-Füzér,67.8 km,63.75,1 Veľký Kamenec <-> Pácin,35.83,35.86,58
+Nižný Žipov,"076 17 Nižný Žipov, Slovakia",29,12,9.9 km,12.1,12 Michaľany <-> Felsőregmec,53.0 km,50.93,29 Kechnec <-> Abaújvár,34.8,34.79,38
+Novosad,"076 02 Novosad, Slovakia",29,12,15.2 km,15.48,12 Michaľany <-> Felsőregmec,64.7 km,59.87,29 Kechnec <-> Abaújvár,38.87,40.01,51
+Nový Salaš,"044 17 Nový Salaš, Slovakia",1,20,8.4 km,16.53,20 Slanská Huta <-> Pusztafalu,57.6 km,55.05,1 Veľký Kamenec <-> Pácin,34.09,33,60
+Obišovce,"044 81 Obišovce, Slovakia",1,32,44.8 km,32.62,32 Milhosť <-> Tornyosnémeti,100 km,80.13,1 Veľký Kamenec <-> Pácin,52.32,62.17,82
+Somotor,"076 35 Somotor, Slovakia",32,1,8.7 km,8.52,1 Veľký Kamenec <-> Pácin,74.1 km,72.35,32 Milhosť <-> Tornyosnémeti,39.14,36.52,24
+Olšovany,"044 19 Olšovany, Slovakia",1,25,20.0 km,20.7,25 Skároš <-> Hollóháza-Füzér,66.6 km,65.67,1 Veľký Kamenec <-> Pácin,39.09,37.67,76
+Plechotice,"075 01 Plechotice, Slovakia",29,12,15.1 km,16.55,12 Michaľany <-> Felsőregmec,51.8 km,49.48,29 Kechnec <-> Abaújvár,35.81,36.23,61
+Rad,"076 37 Rad, Slovakia",32,1,17.3 km,16.12,1 Veľký Kamenec <-> Pácin,82.6 km,79.95,32 Milhosť <-> Tornyosnémeti,46.74,45.1,57
+Rákoš,"044 16 Rákoš, Slovakia",1,25,17.7 km,18.2,25 Skároš <-> Hollóháza-Füzér,58.5 km,55.08,1 Veľký Kamenec <-> Pácin,31.89,31.07,67
+Zemplín,"076 34 Zemplín, Slovakia",32,8,13.6 km,13.9,8 Slovenské Nové Mesto <-> Sátoraljaújhely,83.9 km,70.77,32 Milhosť <-> Tornyosnémeti,41.36,40.28,45
+Ruskov,"044 19 Ruskov, Slovakia",1,25,19.1 km,20,25 Skároš <-> Hollóháza-Füzér,63.0 km,61.38,1 Veľký Kamenec <-> Pácin,36.38,34.66,72
+Sady nad Torysou,"044 41 Sady nad Torysou, Slovakia",1,25,21.6 km,23.7,25 Skároš <-> Hollóháza-Füzér,72.1 km,71.73,1 Veľký Kamenec <-> Pácin,42.19,40.27,77
+Sirník,"076 03 Sirník, Slovakia",29,12,21.1 km,19.85,12 Michaľany <-> Felsőregmec,70.6 km,64.23,29 Kechnec <-> Abaújvár,42.06,43.93,71
+Slančík,"044 17 Slančík, Slovakia",1,12,25.0 km,24.7,12 Michaľany <-> Felsőregmec,57.6 km,55.12,1 Veľký Kamenec <-> Pácin,35.45,33.79,79
+Slanec,"044 17 Slanec, Slovakia",1,12,21.5 km,20.37,12 Michaľany <-> Felsőregmec,54.1 km,50.78,1 Veľký Kamenec <-> Pácin,31.23,30.65,73
+Slanské Nové Mesto,"044 18 Slanské Nové Mesto, Slovakia",1,12,18.0 km,17.47,12 Michaľany <-> Felsőregmec,50.5 km,47.88,1 Veľký Kamenec <-> Pácin,31.49,31.23,64
+Slivník,"076 12 Slivník, Slovakia",29,12,12.3 km,11.55,12 Michaľany <-> Felsőregmec,43.3 km,42.8,29 Kechnec <-> Abaújvár,31.55,30.57,34
+Sokoľ,"044 31 Sokoľ, Slovakia",1,32,37.4 km,34.05,32 Milhosť <-> Tornyosnémeti,98.7 km,84.25,1 Veľký Kamenec <-> Pácin,55.28,58.36,83
+Sokoľany,"044 57 Sokoľany, Slovakia",1,31,12.2 km,11.83,31 Milhosť <-> Tornyosnémeti,65.6 km,70.47,1 Veľký Kamenec <-> Pácin,37.11,34.14,35
+Stanča,"076 16 Stanča, Slovakia",29,12,10.9 km,12.8,12 Michaľany <-> Felsőregmec,55.2 km,52.4,29 Kechnec <-> Abaújvár,35.37,35.61,41
+Streda nad Bodrogom,"076 31 Streda nad Bodrogom, Slovakia",32,3,3.8 km,4.8,3 Streda nad Bodrogom <-> Káros,70.3 km,70.95,32 Milhosť <-> Tornyosnémeti,37.53,32.85,13
+Svätá Mária,"076 35 Svätá Mária, Slovakia",32,1,13.0 km,12.38,1 Veľký Kamenec <-> Pácin,78.4 km,76.22,32 Milhosť <-> Tornyosnémeti,43.01,40.82,39
+Trebejov,"044 81 Trebejov, Slovakia",1,32,43.6 km,36.13,32 Milhosť <-> Tornyosnémeti,104 km,84.17,1 Veľký Kamenec <-> Pácin,56.14,63.92,85
+Valaliky,"044 13 Valaliky, Slovakia",1,28,12.1 km,15.63,28 Trstené pri Hornáde <-> Kéked,63.1 km,69.8,1 Veľký Kamenec <-> Pácin,38.09,33.41,53
+Veľaty,"076 15 Veľaty, Slovakia",32,12,5.9 km,8.02,12 Michaľany <-> Felsőregmec,68.6 km,57.18,32 Milhosť <-> Tornyosnémeti,33.66,32.78,23
+Veľká Lodina,"044 81 Veľká Lodina, Slovakia",1,32,63.4 km,64.57,32 Milhosť <-> Tornyosnémeti,117 km,120.97,1 Veľký Kamenec <-> Pácin,88.61,81.69,87
+Veľká Tŕňa,"076 82 Veľká Tŕňa, Slovakia",32,10,6.3 km,6.38,10 Slovenské Nové Mesto <-> Sátoraljaújhely,66.3 km,65.08,32 Milhosť <-> Tornyosnémeti,34.88,30.54,16
+Viničky,"076 31 Viničky, Slovakia",32,8,5.7 km,6.52,8 Slovenské Nové Mesto <-> Sátoraljaújhely,67.7 km,67.13,32 Milhosť <-> Tornyosnémeti,34.78,31.19,18
+Vyšná Hutka,"040 18 Vyšná Hutka, Slovakia",1,25,15.8 km,17.45,25 Skároš <-> Hollóháza-Füzér,69.5 km,65.43,1 Veľký Kamenec <-> Pácin,37.06,36.51,63
+Zemplínska Nová Ves,"076 16 Zemplínska Nová Ves, Slovakia",29,12,13.1 km,14.67,12 Michaľany <-> Felsőregmec,56.9 km,54.57,29 Kechnec <-> Abaújvár,36.99,36.75,49
+Vyšná Myšľa,"044 15 Vyšná Myšľa, Slovakia",1,25,13.6 km,15.8,25 Skároš <-> Hollóháza-Füzér,66.1 km,62.57,1 Veľký Kamenec <-> Pácin,35.03,34.15,54
+Vyšný Čaj,"044 16 Vyšný Čaj, Slovakia",1,25,17.9 km,19.32,25 Skároš <-> Hollóháza-Füzér,65.7 km,65.48,1 Veľký Kamenec <-> Pácin,38.34,36.35,69
+Ždaňa,"044 11 Ždaňa, Slovakia",1,28,5.2 km,6.5,28 Trstené pri Hornáde <-> Kéked,56.7 km,61.45,1 Veľký Kamenec <-> Pácin,31.18,28.37,17
+Zemplínska Teplica,"076 64 Zemplínska Teplica, Slovakia",1,12,21.2 km,20.43,12 Michaľany <-> Felsőregmec,51.7 km,45.73,1 Veľký Kamenec <-> Pácin,34.11,34.9,74
+Zemplínske Hradište,"076 01 Zemplínske Hradište, Slovakia",29,12,14.9 km,16.43,12 Michaľany <-> Felsőregmec,64.3 km,60.82,29 Kechnec <-> Abaújvár,40.91,41.12,59
+Zemplínske Jastrabie,"076 05 Zemplínske Jastrabie, Slovakia",29,8,17.6 km,18.07,8 Slovenské Nové Mesto <-> Sátoraljaújhely,68.1 km,62.52,29 Kechnec <-> Abaújvár,39.91,40.92,65
+Zemplínsky Branč,"076 02 Zemplínsky Branč, Slovakia",29,12,11.4 km,11.95,12 Michaľany <-> Felsőregmec,60.8 km,56.33,29 Kechnec <-> Abaújvár,36.22,37.28,36
