@@ -1,0 +1,52 @@
+﻿index,from_a,to_b,n_transfers,via_stations,start_date,start_time,route_time,route_km,sector_from,sector_to,inner_sector_from,inner_sector_to,district_from,district_to,tvc_from,tvc_to,geopark_from,geopark_to,id_inner_sector_from,id_inner_sector_to
+0,Trebišov,Bohdanovce,1,Košice,11.10. po,11.10. po,83,68,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Bohdanovce,1,Michaľany,11.10. po,11.10. po,64,49,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Bohdanovce,1,Košice,11.10. po,11.10. po,143,68,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Borša,1,Michaľany,11.10. po,11.10. po,60,38,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Tokaj Wine Route,Trebišov,Trebišov,TRUE,TRUE,FALSE,TRUE,2,4
+0,Trebišov,Borša,1,Michaľany,11.10. po,11.10. po,60,38,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Tokaj Wine Route,Trebišov,Trebišov,TRUE,TRUE,FALSE,TRUE,2,4
+0,Trebišov,Borša,1,Michaľany,11.10. po,11.10. po,60,38,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Tokaj Wine Route,Trebišov,Trebišov,TRUE,TRUE,FALSE,TRUE,2,4
+0,Trebišov,Čerhov,1,Michaľany,11.10. po,11.10. po,50,27,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Tokaj Wine Route,Trebišov,Trebišov,TRUE,TRUE,FALSE,TRUE,2,4
+0,Trebišov,Čerhov,1,Michaľany,11.10. po,11.10. po,50,27,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Tokaj Wine Route,Trebišov,Trebišov,TRUE,TRUE,FALSE,TRUE,2,4
+0,Trebišov,Čerhov,1,Michaľany,11.10. po,11.10. po,50,27,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Tokaj Wine Route,Trebišov,Trebišov,TRUE,TRUE,FALSE,TRUE,2,4
+0,Trebišov,Kalša,1,Michaľany,11.10. po,11.10. po,47,34,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Kalša,1,Michaľany,11.10. po,11.10. po,47,34,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Kalša,1,Michaľany,11.10. po,11.10. po,47,34,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Kostoľany nad Hornádom,2,"Michaľany, Košice",11.10. po,11.10. po,90,77,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Kostoľany nad Hornádom,1,Košice,11.10. po,11.10. po,74,62,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Kostoľany nad Hornádom,1,Košice,11.10. po,11.10. po,74,62,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Kuzmice,1,Michaľany,11.10. po,11.10. po,41,28,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Trebišov district),Trebišov,Trebišov,TRUE,FALSE,FALSE,FALSE,2,6
+0,Trebišov,Kuzmice,1,Michaľany,11.10. po,11.10. po,41,28,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Trebišov district),Trebišov,Trebišov,TRUE,FALSE,FALSE,FALSE,2,6
+0,Trebišov,Kuzmice,1,Michaľany,11.10. po,11.10. po,41,28,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Trebišov district),Trebišov,Trebišov,TRUE,FALSE,FALSE,FALSE,2,6
+0,Trebišov,Malá Lodina,1,Košice,11.10. po,11.10. po,91,79,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Malá Lodina,1,Košice,11.10. po,11.10. po,91,79,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Malá Lodina,1,Košice,11.10. po,11.10. po,91,79,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Nižná Myšľa,1,Michaľany,11.10. po,11.10. po,70,53,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Nižná Myšľa,1,Košice,11.10. po,11.10. po,137,64,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Nižná Myšľa,1,Košice,11.10. po,11.10. po,77,64,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Obišovce,1,Košice,11.10. po,11.10. po,104,71,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Obišovce,1,Košice,11.10. po,11.10. po,104,72,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Obišovce,2,"Michaľany, Košice",11.10. po,11.10. po,101,87,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Ruskov,1,Košice,11.10. po,11.10. po,147,71,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Ruskov,1,Košice,11.10. po,11.10. po,87,71,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Ruskov,1,Michaľany,11.10. po,11.10. po,59,46,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Slanec,1,Michaľany,11.10. po,11.10. po,53,39,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Slanec,1,Michaľany,11.10. po,11.10. po,53,39,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Slanec,1,Michaľany,11.10. po,11.10. po,53,39,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Slovenské Nové Mesto,1,Michaľany,11.10. po,11.10. po,56,34,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Tokaj Wine Route,Trebišov,Trebišov,TRUE,TRUE,FALSE,TRUE,2,4
+0,Trebišov,Slovenské Nové Mesto,1,Michaľany,11.10. po,11.10. po,56,34,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Tokaj Wine Route,Trebišov,Trebišov,TRUE,TRUE,FALSE,TRUE,2,4
+0,Trebišov,Slovenské Nové Mesto,1,Michaľany,11.10. po,11.10. po,56,34,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Tokaj Wine Route,Trebišov,Trebišov,TRUE,TRUE,FALSE,TRUE,2,4
+0,Trebišov,Somotor,1,Michaľany,11.10. po,11.10. po,68,45,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Zemplin geopark outside of Tokaj Wine Route,Trebišov,Trebišov,TRUE,FALSE,FALSE,TRUE,2,5
+0,Trebišov,Somotor,1,Michaľany,11.10. po,11.10. po,68,45,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Zemplin geopark outside of Tokaj Wine Route,Trebišov,Trebišov,TRUE,FALSE,FALSE,TRUE,2,5
+0,Trebišov,Somotor,1,Michaľany,11.10. po,11.10. po,68,45,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Zemplin geopark outside of Tokaj Wine Route,Trebišov,Trebišov,TRUE,FALSE,FALSE,TRUE,2,5
+0,Trebišov,Streda nad Bodrogom,1,Michaľany,11.10. po,11.10. po,64,42,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Zemplin geopark outside of Tokaj Wine Route,Trebišov,Trebišov,TRUE,FALSE,FALSE,TRUE,2,5
+0,Trebišov,Streda nad Bodrogom,1,Michaľany,11.10. po,11.10. po,64,42,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Zemplin geopark outside of Tokaj Wine Route,Trebišov,Trebišov,TRUE,FALSE,FALSE,TRUE,2,5
+0,Trebišov,Streda nad Bodrogom,1,Michaľany,11.10. po,11.10. po,64,42,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Zemplin geopark outside of Tokaj Wine Route,Trebišov,Trebišov,TRUE,FALSE,FALSE,TRUE,2,5
+0,Trebišov,Trebejov,1,Košice,11.10. po,11.10. po,79,67,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Trebejov,2,"Michaľany, Košice",11.10. po,11.10. po,94,82,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Trebejov,1,Košice,11.10. po,11.10. po,78,67,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Veľká Lodina,1,Košice,11.10. po,11.10. po,88,76,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Veľká Lodina,1,Košice,11.10. po,11.10. po,88,76,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Veľká Lodina,1,Košice,11.10. po,11.10. po,88,76,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Northwest sector,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,3
+0,Trebišov,Vyšná Myšľa,1,Michaľany,11.10. po,11.10. po,67,51,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Vyšná Myšľa,1,Košice,11.10. po,11.10. po,140,66,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7
+0,Trebišov,Vyšná Myšľa,1,Košice,11.10. po,11.10. po,80,66,Trebišov,SK HOBO CORE,Trebišov,SK HOBO CORE Rest of southeast sector in Košice - vicinity district,Trebišov,Košice - okolie,TRUE,FALSE,FALSE,FALSE,2,7

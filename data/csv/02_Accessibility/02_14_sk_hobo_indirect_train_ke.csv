@@ -1,0 +1,10 @@
+﻿index,from_a,to_b,n_transfers,via_stations,start_date,start_time,route_time,route_km,sector_from,sector_to,inner_sector_from,inner_sector_to,district_from,district_to,tvc_from,tvc_to,geopark_from,geopark_to,id_inner_sector_from,id_inner_sector_to
+0,Košice,Lastovce,1,Michaľany,11.10. po,11.10. po,56,49,Košice,SK HOBO CORE,Košice,SK HOBO CORE Rest of southeast sector in Trebišov district),Košice,Trebišov,NULL,FALSE,NULL,FALSE,1,6
+0,Košice,Lastovce,1,Trebišov,11.10. po,11.10. po,104,72,Košice,SK HOBO CORE,Košice,SK HOBO CORE Rest of southeast sector in Trebišov district),Košice,Trebišov,NULL,FALSE,NULL,FALSE,1,6
+0,Košice,Lastovce,1,Michaľany,11.10. po,11.10. po,60,49,Košice,SK HOBO CORE,Košice,SK HOBO CORE Rest of southeast sector in Trebišov district),Košice,Trebišov,NULL,FALSE,NULL,FALSE,1,6
+0,Košice,Stanča,1,Michaľany,11.10. po,11.10. po,68,59,Košice,SK HOBO CORE,Košice,SK HOBO CORE Rest of southeast sector in Trebišov district),Košice,Trebišov,NULL,FALSE,NULL,FALSE,1,6
+0,Košice,Stanča,1,Michaľany,11.10. po,11.10. po,72,59,Košice,SK HOBO CORE,Košice,SK HOBO CORE Rest of southeast sector in Trebišov district),Košice,Trebišov,NULL,FALSE,NULL,FALSE,1,6
+0,Košice,Stanča,1,Trebišov,11.10. po,11.10. po,91,62,Košice,SK HOBO CORE,Košice,SK HOBO CORE Rest of southeast sector in Trebišov district),Košice,Trebišov,NULL,FALSE,NULL,FALSE,1,6
+0,Košice,Veľaty,1,Michaľany,11.10. po,11.10. po,65,53,Košice,SK HOBO CORE,Košice,SK HOBO CORE Zemplin geopark outside of Tokaj Wine Route,Košice,Trebišov,NULL,FALSE,NULL,TRUE,1,5
+0,Košice,Veľaty,1,Michaľany,11.10. po,11.10. po,61,53,Košice,SK HOBO CORE,Košice,SK HOBO CORE Zemplin geopark outside of Tokaj Wine Route,Košice,Trebišov,NULL,FALSE,NULL,TRUE,1,5
+0,Košice,Veľaty,1,Trebišov,11.10. po,11.10. po,99,68,Košice,SK HOBO CORE,Košice,SK HOBO CORE Zemplin geopark outside of Tokaj Wine Route,Košice,Trebišov,NULL,FALSE,NULL,TRUE,1,5
