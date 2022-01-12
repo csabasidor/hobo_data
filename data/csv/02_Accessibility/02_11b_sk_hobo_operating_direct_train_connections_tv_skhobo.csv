@@ -1,0 +1,8 @@
+﻿index,from_a,to_b,route_time,route_km,operating,dur_min,sector,inner_sector
+0,Trebišov,Kysak,1 hod 56 min,69 km,TRUE,116,SK HOBO CORE,nw
+0,Trebišov,Košice,47 min,53 km,TRUE,47,NULL,NULL
+0,Trebišov,Čeľovce,7 min,8 km,TRUE,7,SK HOBO CORE,se
+0,Trebišov,Lastovce,26 min,19 km,TRUE,26,SK HOBO CORE,se
+0,Trebišov,Stanča,13 min,9 km,TRUE,13,SK HOBO CORE,se
+0,Trebišov,Veľaty,21 min,15 km,TRUE,21,SK HOBO CORE,se
+0,Trebišov,Michaľany,30 min,20 km,TRUE,30,SK HOBO CORE,se

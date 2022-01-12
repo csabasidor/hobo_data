@@ -1,0 +1,22 @@
+﻿index,from_a,to_b,route_time,route_km,operating,dur_min,sector,inner_sector
+0,Košice,Kostoľany nad Hornádom,9 min,9 km,TRUE,9,SK HOBO CORE,nw
+0,Košice,Kysak,17 min,16 km,TRUE,17,SK HOBO CORE,nw
+0,Košice,Malá Lodina,26 min,26 km,TRUE,26,SK HOBO CORE,nw
+0,Košice,Bohdanovce,22 min,19 km,TRUE,22,SK HOBO CORE,se
+0,Košice,Trebišov,44 min,53 km,TRUE,44,NULL,NULL
+0,Košice,Borša,1 hod 7 min,66 km,TRUE,67,SK HOBO CORE,se
+0,Košice,Čeľovce,40 min,45 km,TRUE,40,SK HOBO CORE,se
+0,Košice,Čerhov,57 min,55 km,TRUE,57,SK HOBO CORE,se
+0,Košice,Kalša,38 min,34 km,TRUE,38,SK HOBO CORE,se
+0,Košice,Kuzmice,43 min,40 km,TRUE,43,SK HOBO CORE,se
+0,Košice,Nižná Myšľa,15 min,15 km,TRUE,15,SK HOBO CORE,se
+0,Košice,Obišovce,20 min,19 km,TRUE,20,SK HOBO CORE,se
+0,Košice,Ruskov,26 min,22 km,TRUE,26,SK HOBO CORE,se
+0,Košice,Slanec,32 min,29 km,TRUE,32,SK HOBO CORE,se
+0,Košice,Slovenské Nové Mesto,1 hod 3 min,62 km,TRUE,63,SK HOBO CORE,se
+0,Košice,Trebejov,14 min,14 km,TRUE,14,SK HOBO CORE,nw
+0,Košice,Veľká Lodina,23 min,23 km,TRUE,23,SK HOBO CORE,nw
+0,Košice,Streda nad Bodrogom,1 hod 11 min,70 km,TRUE,71,SK HOBO CORE,se
+0,Košice,Vyšná Myšľa,18 min,17 km,TRUE,18,SK HOBO CORE,se
+0,Košice,Somotor,1 hod 15 min,73 km,TRUE,75,SK HOBO CORE,se
+0,Košice,Michaľany,50 min,48 km,TRUE,50,SK HOBO CORE,se
