@@ -1,0 +1,28 @@
+﻿sector,cat_en,shp_len,km,pct_of_whole_area,pct
+Kosice,Class I. roads,0.896244183,82.18956218,54.41,NULL
+North West sector,Class I. roads,0.01276828,1.280896498,0.85,NULL
+South East sector,Class I. roads,0.704817872,54.14354812,35.84,NULL
+Trebisov,Class I. roads,0.137326499,13.44313522,8.9,NULL
+sk_hobo_municiaplties,Class I. roads,0.717586152,55.42444462,36.69,NULL
+Kosice,Class II. roads,0.329029539,27.49929694,32.88,NULL
+South East sector,Class II. roads,0.789772619,56.14800311,67.12,NULL
+sk_hobo_municiaplties,Class II. roads,0.789772619,56.14800311,67.12,NULL
+Kosice,Class III. roads,0.451955044,38.90918274,10.99,NULL
+North West sector,Class III. roads,0.536365685,40.18790617,11.35,NULL
+South East sector,Class III. roads,3.453568655,263.0396004,74.27,NULL
+Trebisov,Class III. roads,0.139248651,12.04914081,3.4,NULL
+sk_hobo_municiaplties,Class III. roads,3.98993434,303.2275066,85.61,NULL
+Kosice,Highways,0.007046001,0.128570172,0.39,NULL
+North West sector,Highways,0.046979934,2.905314148,8.83,NULL
+South East sector,Highways,0.450094253,29.87227588,90.78,NULL
+sk_hobo_municiaplties,Highways,0.497074187,32.77759002,99.61,NULL
+Kosice,Other without ID,13.96091546,1221.148456,32.6,NULL
+North West sector,Other without ID,4.070646951,324.3246216,8.66,NULL
+South East sector,Other without ID,27.13581549,2018.426112,53.88,NULL
+Trebisov,Other without ID,2.128418965,181.9587541,4.86,NULL
+sk_hobo_municiaplties,Other without ID,31.20646244,2342.750734,62.54,NULL
+whole area,Class I. roads,1.618334468,151.057142,100,3.46
+whole area,Class II. roads,0.988344325,83.64730004,100,1.92
+whole area,Class III. roads,3.962941973,354.1858301,100,8.11
+whole area,Highways,0.357217841,32.9061602,100,0.75
+whole area,Other without ID,42.70346437,3745.857944,100,85.76
