@@ -1,0 +1,1515 @@
+﻿nace_root_code,nace_root_name,municipality_id,district_id,region_id,municipality,district_name,region_name,tvc_network,zemp_geopark,se,nw,n,min_emp,max_emp
+A,"Agriculture, forestry and fishing",581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,6,6,6
+A,"Agriculture, forestry and fishing",526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,2,2,2
+A,"Agriculture, forestry and fishing",599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,2,2,2
+A,"Agriculture, forestry and fishing",598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,6,5,5
+A,"Agriculture, forestry and fishing",598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,46,27,27
+A,"Agriculture, forestry and fishing",598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,67,55,66
+A,"Agriculture, forestry and fishing",598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,4,2,2
+A,"Agriculture, forestry and fishing",599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+A,"Agriculture, forestry and fishing",598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,11,9,9
+A,"Agriculture, forestry and fishing",598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,5,9
+A,"Agriculture, forestry and fishing",599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,0,0
+A,"Agriculture, forestry and fishing",599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,15,15,19
+A,"Agriculture, forestry and fishing",599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,28,31,44
+A,"Agriculture, forestry and fishing",598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,52,45,49
+A,"Agriculture, forestry and fishing",599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,26,20,20
+A,"Agriculture, forestry and fishing",599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,56,92,153
+A,"Agriculture, forestry and fishing",599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,16,13,13
+A,"Agriculture, forestry and fishing",599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,28,22,23
+A,"Agriculture, forestry and fishing",599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,5,21,25
+A,"Agriculture, forestry and fishing",599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,10,9,9
+A,"Agriculture, forestry and fishing",521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+A,"Agriculture, forestry and fishing",521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+A,"Agriculture, forestry and fishing",559831,806,8,Bočiar,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+A,"Agriculture, forestry and fishing",521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,2,0,0
+A,"Agriculture, forestry and fishing",521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,14,23,36
+A,"Agriculture, forestry and fishing",521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,9,28,52
+A,"Agriculture, forestry and fishing",521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,2,0,0
+A,"Agriculture, forestry and fishing",521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,7,17,30
+A,"Agriculture, forestry and fishing",521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,6,5,5
+A,"Agriculture, forestry and fishing",521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,11,12,12
+A,"Agriculture, forestry and fishing",559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+A,"Agriculture, forestry and fishing",521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+A,"Agriculture, forestry and fishing",521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+A,"Agriculture, forestry and fishing",582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,2,0,0
+A,"Agriculture, forestry and fishing",521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,12,10,10
+A,"Agriculture, forestry and fishing",521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,4,6,10
+A,"Agriculture, forestry and fishing",580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+A,"Agriculture, forestry and fishing",518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+A,"Agriculture, forestry and fishing",521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,12,4,4
+A,"Agriculture, forestry and fishing",521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+A,"Agriculture, forestry and fishing",521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+A,"Agriculture, forestry and fishing",521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,6,5,5
+A,"Agriculture, forestry and fishing",521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+A,"Agriculture, forestry and fishing",521906,806,8,Rákoš,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+A,"Agriculture, forestry and fishing",521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,11,13,17
+A,"Agriculture, forestry and fishing",521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,9,3,3
+A,"Agriculture, forestry and fishing",521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,10,9,9
+A,"Agriculture, forestry and fishing",521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,5,7,11
+A,"Agriculture, forestry and fishing",522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,9,15,24
+A,"Agriculture, forestry and fishing",522015,806,8,Slanská Huta,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+A,"Agriculture, forestry and fishing",522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+A,"Agriculture, forestry and fishing",522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,9,11,15
+A,"Agriculture, forestry and fishing",559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+A,"Agriculture, forestry and fishing",522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,1,0,0
+A,"Agriculture, forestry and fishing",522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,6,4,4
+A,"Agriculture, forestry and fishing",522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,8,6,6
+A,"Agriculture, forestry and fishing",522155,806,8,Veľká Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,3,1,1
+A,"Agriculture, forestry and fishing",522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,3,4
+A,"Agriculture, forestry and fishing",522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,5,2,2
+A,"Agriculture, forestry and fishing",522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,9,19,28
+A,"Agriculture, forestry and fishing",528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,2,2,2
+A,"Agriculture, forestry and fishing",528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,10,9,10
+A,"Agriculture, forestry and fishing",528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,4,12,20
+A,"Agriculture, forestry and fishing",528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,8,7,7
+A,"Agriculture, forestry and fishing",528226,811,8,Byšta,Trebišov,Košický kraj,False,True,True,NULL,3,2,2
+A,"Agriculture, forestry and fishing",528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,5,4,4
+A,"Agriculture, forestry and fishing",528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,6,15,24
+A,"Agriculture, forestry and fishing",528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,5,5,5
+A,"Agriculture, forestry and fishing",528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+A,"Agriculture, forestry and fishing",528358,811,8,Egreš,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+A,"Agriculture, forestry and fishing",528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,17,20,21
+A,"Agriculture, forestry and fishing",528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,3,2,2
+A,"Agriculture, forestry and fishing",528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,3,1,1
+A,"Agriculture, forestry and fishing",528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,11,34,58
+A,"Agriculture, forestry and fishing",528439,811,8,Kožuchov,Trebišov,Košický kraj,False,False,True,NULL,11,9,9
+A,"Agriculture, forestry and fishing",528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,9,9,9
+A,"Agriculture, forestry and fishing",528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,8,4,4
+A,"Agriculture, forestry and fishing",528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,4,3,3
+A,"Agriculture, forestry and fishing",528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+A,"Agriculture, forestry and fishing",528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,3,2,2
+A,"Agriculture, forestry and fishing",513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,7,7,8
+A,"Agriculture, forestry and fishing",528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,9,8,8
+A,"Agriculture, forestry and fishing",528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,13,37,61
+A,"Agriculture, forestry and fishing",528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,14,18,19
+A,"Agriculture, forestry and fishing",528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,15,13,13
+A,"Agriculture, forestry and fishing",528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,10,10,10
+A,"Agriculture, forestry and fishing",528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,3,3,3
+A,"Agriculture, forestry and fishing",543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,5,3,3
+A,"Agriculture, forestry and fishing",543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,9,6,6
+A,"Agriculture, forestry and fishing",543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,16,16,16
+A,"Agriculture, forestry and fishing",543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,9,7,7
+A,"Agriculture, forestry and fishing",513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,10,12,13
+A,"Agriculture, forestry and fishing",543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,20,63,93
+A,"Agriculture, forestry and fishing",528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,10,18,27
+A,"Agriculture, forestry and fishing",528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,87,145,215
+A,"Agriculture, forestry and fishing",543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,11,16,24
+A,"Agriculture, forestry and fishing",513806,811,8,Veľká Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,2,2,2
+A,"Agriculture, forestry and fishing",543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,9,16,24
+A,"Agriculture, forestry and fishing",543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,3,2,2
+A,"Agriculture, forestry and fishing",543993,811,8,Zemplín,Trebišov,Košický kraj,True,True,True,NULL,2,4,5
+A,"Agriculture, forestry and fishing",544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,18,23,29
+A,"Agriculture, forestry and fishing",544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,8,56,105
+A,"Agriculture, forestry and fishing",544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,7,9,10
+A,"Agriculture, forestry and fishing",544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,5,7,8
+A,"Agriculture, forestry and fishing",544043,811,8,Zemplínsky Branč,Trebišov,Košický kraj,False,False,True,NULL,2,11,20
+B,Mining and quarrying,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,3,20,24
+B,Mining and quarrying,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,2,25,49
+B,Mining and quarrying,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,1,0,0
+B,Mining and quarrying,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,2,26,50
+B,Mining and quarrying,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,0,0
+B,Mining and quarrying,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,2,0,0
+B,Mining and quarrying,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,50,99
+B,Mining and quarrying,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,4,75,148
+B,Mining and quarrying,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+B,Mining and quarrying,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,2,0,0
+B,Mining and quarrying,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,1,2,2
+B,Mining and quarrying,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+B,Mining and quarrying,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+B,Mining and quarrying,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,1,1,1
+B,Mining and quarrying,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+B,Mining and quarrying,528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,1,10,19
+B,Mining and quarrying,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+B,Mining and quarrying,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,2,10,19
+C,Manufacturing,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,14,18,22
+C,Manufacturing,526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,2,2,2
+C,Manufacturing,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,9,18,27
+C,Manufacturing,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,18,16,17
+C,Manufacturing,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,331,550,770
+C,Manufacturing,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,527,1142,1843
+C,Manufacturing,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,51,317,591
+C,Manufacturing,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,14,16,18
+C,Manufacturing,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,4,4,4
+C,Manufacturing,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,56,75,108
+C,Manufacturing,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,33,42,47
+C,Manufacturing,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,18,19,20
+C,Manufacturing,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,105,5916,11618
+C,Manufacturing,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,319,333,408
+C,Manufacturing,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,514,604,804
+C,Manufacturing,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,82,1668,3269
+C,Manufacturing,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,528,1796,2902
+C,Manufacturing,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,90,281,387
+C,Manufacturing,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,280,1011,1606
+C,Manufacturing,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,8,20,33
+C,Manufacturing,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,55,63,81
+C,Manufacturing,521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,7,11,15
+C,Manufacturing,559831,806,8,Bočiar,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+C,Manufacturing,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,14,15,15
+C,Manufacturing,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,74,179,269
+C,Manufacturing,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,27,27,31
+C,Manufacturing,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,22,22,23
+C,Manufacturing,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+C,Manufacturing,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,18,40,68
+C,Manufacturing,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,5,3,3
+C,Manufacturing,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,26,2112,4005
+C,Manufacturing,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,11,11,11
+C,Manufacturing,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,13,11,11
+C,Manufacturing,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,16,12,12
+C,Manufacturing,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,19,15,15
+C,Manufacturing,521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,5,5,5
+C,Manufacturing,580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,6,7,8
+C,Manufacturing,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,12,12,13
+C,Manufacturing,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,16,37,45
+C,Manufacturing,521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+C,Manufacturing,521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,5,14,23
+C,Manufacturing,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,5,5,5
+C,Manufacturing,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,7,10,14
+C,Manufacturing,521906,806,8,Rákoš,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+C,Manufacturing,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,24,33,46
+C,Manufacturing,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,28,26,32
+C,Manufacturing,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,29,277,527
+C,Manufacturing,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,13,15,17
+C,Manufacturing,518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,3,5,6
+C,Manufacturing,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,20,18,18
+C,Manufacturing,522015,806,8,Slanská Huta,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+C,Manufacturing,522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,11,13,17
+C,Manufacturing,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,11,11,11
+C,Manufacturing,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,10,10,10
+C,Manufacturing,522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,3,6,7
+C,Manufacturing,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,23,18,18
+C,Manufacturing,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,51,54,57
+C,Manufacturing,522155,806,8,Veľká Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,3,3,3
+C,Manufacturing,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,8,9,9
+C,Manufacturing,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,6,7,8
+C,Manufacturing,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,10,9,9
+C,Manufacturing,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,15,21,30
+C,Manufacturing,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,5,4,5
+C,Manufacturing,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,9,19,29
+C,Manufacturing,528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,8,10,11
+C,Manufacturing,528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,4,4,4
+C,Manufacturing,528226,811,8,Byšta,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+C,Manufacturing,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,22,19,19
+C,Manufacturing,528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,21,20,20
+C,Manufacturing,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,14,10,10
+C,Manufacturing,528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+C,Manufacturing,528358,811,8,Egreš,Trebišov,Košický kraj,False,False,True,NULL,13,13,13
+C,Manufacturing,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,43,43,44
+C,Manufacturing,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,9,12,16
+C,Manufacturing,528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,6,6,6
+C,Manufacturing,528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,16,16,16
+C,Manufacturing,513831,811,8,Klin nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+C,Manufacturing,528439,811,8,Kožuchov,Trebišov,Košický kraj,False,False,True,NULL,4,4,4
+C,Manufacturing,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,24,35,46
+C,Manufacturing,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,5,9,13
+C,Manufacturing,528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,11,5,9
+C,Manufacturing,528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,14,24,33
+C,Manufacturing,528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,5,5,5
+C,Manufacturing,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,9,43,80
+C,Manufacturing,528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+C,Manufacturing,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,23,17,17
+C,Manufacturing,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,46,53,61
+C,Manufacturing,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,29,56,89
+C,Manufacturing,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,9,8,8
+C,Manufacturing,528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,3,5,6
+C,Manufacturing,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,11,11,11
+C,Manufacturing,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,10,19,28
+C,Manufacturing,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,22,28,32
+C,Manufacturing,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,8,12,14
+C,Manufacturing,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,11,12,12
+C,Manufacturing,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,45,112,184
+C,Manufacturing,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,3,26,50
+C,Manufacturing,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,380,984,1557
+C,Manufacturing,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,13,14,15
+C,Manufacturing,513806,811,8,Veľká Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,5,28,52
+C,Manufacturing,543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,9,34,58
+C,Manufacturing,543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,7,14,23
+C,Manufacturing,543993,811,8,Zemplín,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+C,Manufacturing,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,9,9,9
+C,Manufacturing,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,24,25,25
+C,Manufacturing,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,19,18,18
+C,Manufacturing,544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,6,6,6
+C,Manufacturing,544043,811,8,Zemplínsky Branč,Trebišov,Košický kraj,False,False,True,NULL,6,4,4
+D,"Electricity, gas, steam and air conditioning supply",598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,4,0,0
+D,"Electricity, gas, steam and air conditioning supply",598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,16,1422,2723
+D,"Electricity, gas, steam and air conditioning supply",598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,3,0,0
+D,"Electricity, gas, steam and air conditioning supply",598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+D,"Electricity, gas, steam and air conditioning supply",599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,2,200,249
+D,"Electricity, gas, steam and air conditioning supply",599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,3,4
+D,"Electricity, gas, steam and air conditioning supply",598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,4,1,1
+D,"Electricity, gas, steam and air conditioning supply",599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,3,4
+D,"Electricity, gas, steam and air conditioning supply",599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,14,293,579
+D,"Electricity, gas, steam and air conditioning supply",599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+D,"Electricity, gas, steam and air conditioning supply",599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,2,2
+D,"Electricity, gas, steam and air conditioning supply",599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,2,2,2
+D,"Electricity, gas, steam and air conditioning supply",521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+D,"Electricity, gas, steam and air conditioning supply",521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,2,1,1
+D,"Electricity, gas, steam and air conditioning supply",528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,1,0,0
+E,Water supply; sewerage; waste managment and remediation activities,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,15,2009,3008
+E,Water supply; sewerage; waste managment and remediation activities,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,28,21,25
+E,Water supply; sewerage; waste managment and remediation activities,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,2,0,0
+E,Water supply; sewerage; waste managment and remediation activities,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,2,2
+E,Water supply; sewerage; waste managment and remediation activities,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,10,125,196
+E,Water supply; sewerage; waste managment and remediation activities,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,6,5,5
+E,Water supply; sewerage; waste managment and remediation activities,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,21,35,51
+E,Water supply; sewerage; waste managment and remediation activities,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,5,6,7
+E,Water supply; sewerage; waste managment and remediation activities,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,66,667,1286
+E,Water supply; sewerage; waste managment and remediation activities,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,3,17,30
+E,Water supply; sewerage; waste managment and remediation activities,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,15,22,32
+E,Water supply; sewerage; waste managment and remediation activities,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+E,Water supply; sewerage; waste managment and remediation activities,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+E,Water supply; sewerage; waste managment and remediation activities,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+E,Water supply; sewerage; waste managment and remediation activities,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,1,1,1
+E,Water supply; sewerage; waste managment and remediation activities,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+E,Water supply; sewerage; waste managment and remediation activities,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+E,Water supply; sewerage; waste managment and remediation activities,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+E,Water supply; sewerage; waste managment and remediation activities,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,1,0,0
+E,Water supply; sewerage; waste managment and remediation activities,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+E,Water supply; sewerage; waste managment and remediation activities,521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+E,Water supply; sewerage; waste managment and remediation activities,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,2,3,4
+E,Water supply; sewerage; waste managment and remediation activities,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+E,Water supply; sewerage; waste managment and remediation activities,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+E,Water supply; sewerage; waste managment and remediation activities,528358,811,8,Egreš,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+E,Water supply; sewerage; waste managment and remediation activities,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+E,Water supply; sewerage; waste managment and remediation activities,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,1,20,24
+E,Water supply; sewerage; waste managment and remediation activities,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+E,Water supply; sewerage; waste managment and remediation activities,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,8,107,157
+E,Water supply; sewerage; waste managment and remediation activities,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+F,Construction,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,28,27,27
+F,Construction,526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,6,6,6
+F,Construction,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,22,37,56
+F,Construction,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,15,18,22
+F,Construction,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,328,558,782
+F,Construction,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,521,1444,2376
+F,Construction,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,42,44,53
+F,Construction,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,7,6,6
+F,Construction,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,8,8,8
+F,Construction,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,30,47,63
+F,Construction,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,41,59,85
+F,Construction,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,18,19,23
+F,Construction,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,94,260,389
+F,Construction,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,371,357,397
+F,Construction,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,522,567,676
+F,Construction,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,75,763,1415
+F,Construction,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,658,1116,1604
+F,Construction,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,106,147,197
+F,Construction,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,398,430,500
+F,Construction,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,6,5,5
+F,Construction,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,55,128,210
+F,Construction,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+F,Construction,521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,8,6,6
+F,Construction,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,22,20,20
+F,Construction,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,70,95,125
+F,Construction,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,40,39,40
+F,Construction,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,19,20,20
+F,Construction,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,10,10,11
+F,Construction,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,12,21,31
+F,Construction,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,5,5,5
+F,Construction,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,9,9,9
+F,Construction,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,19,19,19
+F,Construction,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,14,16,20
+F,Construction,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,18,23,24
+F,Construction,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,23,32,41
+F,Construction,521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,2,2,2
+F,Construction,580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+F,Construction,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,11,14,18
+F,Construction,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,24,32,39
+F,Construction,521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,5,7,8
+F,Construction,521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,5,5,5
+F,Construction,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,9,12,14
+F,Construction,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,15,14,14
+F,Construction,521906,806,8,Rákoš,Košice - okolie,Košický kraj,False,False,True,NULL,8,9,9
+F,Construction,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,36,38,42
+F,Construction,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,37,38,39
+F,Construction,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,17,17,18
+F,Construction,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,8,6,6
+F,Construction,518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+F,Construction,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,23,49,62
+F,Construction,522015,806,8,Slanská Huta,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+F,Construction,522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,9,10,11
+F,Construction,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,25,31,36
+F,Construction,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,15,23,32
+F,Construction,522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,1,3,4
+F,Construction,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,21,23,24
+F,Construction,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,78,91,106
+F,Construction,522155,806,8,Veľká Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,3,4,4
+F,Construction,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+F,Construction,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,15,16,17
+F,Construction,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,9,10,11
+F,Construction,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,11,15,19
+F,Construction,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,4,4,4
+F,Construction,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,11,10,10
+F,Construction,528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,6,4,4
+F,Construction,528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,9,9,9
+F,Construction,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,14,12,12
+F,Construction,528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,7,7,7
+F,Construction,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,6,4,4
+F,Construction,528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+F,Construction,528358,811,8,Egreš,Trebišov,Košický kraj,False,False,True,NULL,5,5,5
+F,Construction,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,21,19,19
+F,Construction,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,13,17,21
+F,Construction,528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+F,Construction,528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,17,17,17
+F,Construction,513831,811,8,Klin nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,4,4,4
+F,Construction,528439,811,8,Kožuchov,Trebišov,Košický kraj,False,False,True,NULL,2,1,1
+F,Construction,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,10,9,9
+F,Construction,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,6,30,54
+F,Construction,528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,6,11,15
+F,Construction,528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,17,17,17
+F,Construction,528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,7,6,6
+F,Construction,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,3,2,2
+F,Construction,528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,4,4,4
+F,Construction,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,26,28,30
+F,Construction,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,16,12,12
+F,Construction,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,15,18,22
+F,Construction,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,22,47,56
+F,Construction,528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,1,10,19
+F,Construction,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,6,6,6
+F,Construction,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,9,31,55
+F,Construction,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,8,8,8
+F,Construction,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,4,5,6
+F,Construction,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,6,7,8
+F,Construction,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,18,22,27
+F,Construction,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,5,5,5
+F,Construction,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,241,330,443
+F,Construction,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,15,11,11
+F,Construction,513806,811,8,Veľká Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,3,3,3
+F,Construction,543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,5,5,5
+F,Construction,543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,3,2,2
+F,Construction,543993,811,8,Zemplín,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+F,Construction,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,7,7,7
+F,Construction,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,12,11,11
+F,Construction,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,12,11,11
+F,Construction,544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,9,9,9
+F,Construction,544043,811,8,Zemplínsky Branč,Trebišov,Košický kraj,False,False,True,NULL,4,8,12
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,20,18,18
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,5,5,5
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,33,43,59
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,35,47,61
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,807,952,1245
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,1592,1964,2720
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,72,159,242
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,20,34,48
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,17,14,14
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,88,141,207
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,64,201,291
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,17,37,56
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,146,197,287
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,738,858,1042
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1405,1600,2041
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,202,441,660
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1876,3873,6071
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,166,206,254
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,646,1783,2971
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,21,31,41
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,118,276,356
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,5,5,5
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,559831,806,8,Bočiar,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,30,28,28
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,101,230,318
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,40,45,50
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,26,33,39
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,5,7,11
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,25,38,51
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,16,22,28
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,22,31,43
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,15,13,13
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,14,9,9
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,14,13,13
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,23,26,32
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,3,3,3
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,8,6,6
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,11,12,13
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,25,25,29
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,2,3,3
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,7,17,26
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,12,11,11
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521906,806,8,Rákoš,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,47,47,54
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,37,49,66
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,42,63,90
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,14,12,12
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,28,48,76
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,11,10,10
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,18,18,19
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,12,22,35
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,7,6,6
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,17,19,23
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,79,91,104
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522155,806,8,Veľká Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,2,1,1
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,6,10,14
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,14,19,23
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,3,4,4
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,17,23,27
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,17,8,8
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,18,15,15
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,4,4,4
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,3,2,2
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528226,811,8,Byšta,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,2,1,1
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,16,15,15
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,2,6,10
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528358,811,8,Egreš,Trebišov,Košický kraj,False,False,True,NULL,4,3,3
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,25,25,26
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,6,9,10
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,3,5,6
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,513831,811,8,Klin nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528439,811,8,Kožuchov,Trebišov,Košický kraj,False,False,True,NULL,4,1,1
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,19,20,24
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,9,14,19
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,7,9,13
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,3,7,11
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,6,9,13
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,8,3,3
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,9,5,5
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,20,26,30
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,13,14,15
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,15,16,17
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,10,21,31
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,5,4,4
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,14,18,22
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,12,10,10
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,19,19,23
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,31,33,43
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,9,9,9
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,66,96,115
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,8,8,8
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,576,854,1159
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,10,12,16
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,513806,811,8,Veľká Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,2,1,1
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,9,18,26
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,26,34,46
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,543993,811,8,Zemplín,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,13,35,59
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,22,40,58
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,19,22,26
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,8,5,5
+G,Wholesale and retail trade; repair of motor vehicles and motorcycles,544043,811,8,Zemplínsky Branč,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+H,Transporting and storage,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,3,2,2
+H,Transporting and storage,526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,1,1,1
+H,Transporting and storage,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,2,11,20
+H,Transporting and storage,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,4,4,4
+H,Transporting and storage,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,106,130,182
+H,Transporting and storage,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,174,858,1496
+H,Transporting and storage,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,25,33,47
+H,Transporting and storage,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,3,4,4
+H,Transporting and storage,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,7,7,7
+H,Transporting and storage,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,5,4,4
+H,Transporting and storage,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,7,6,6
+H,Transporting and storage,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,3,4,5
+H,Transporting and storage,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,56,52,56
+H,Transporting and storage,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,132,215,293
+H,Transporting and storage,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,172,672,1200
+H,Transporting and storage,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,44,237,391
+H,Transporting and storage,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,225,701,1150
+H,Transporting and storage,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,29,34,42
+H,Transporting and storage,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,131,171,220
+H,Transporting and storage,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,7,10,14
+H,Transporting and storage,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,18,76,135
+H,Transporting and storage,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+H,Transporting and storage,521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+H,Transporting and storage,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+H,Transporting and storage,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,23,38,56
+H,Transporting and storage,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,8,11,15
+H,Transporting and storage,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,12,18,27
+H,Transporting and storage,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,5,13,22
+H,Transporting and storage,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,13,55,67
+H,Transporting and storage,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+H,Transporting and storage,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,8,11,12
+H,Transporting and storage,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,4,9,13
+H,Transporting and storage,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,11,10,10
+H,Transporting and storage,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,9,11,12
+H,Transporting and storage,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,6,5,5
+H,Transporting and storage,521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,2,1,1
+H,Transporting and storage,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,5,5,6
+H,Transporting and storage,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,6,6,6
+H,Transporting and storage,521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+H,Transporting and storage,521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+H,Transporting and storage,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,2,2,2
+H,Transporting and storage,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+H,Transporting and storage,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,6,4,4
+H,Transporting and storage,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,10,8,8
+H,Transporting and storage,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,7,6,6
+H,Transporting and storage,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+H,Transporting and storage,518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+H,Transporting and storage,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,6,5,5
+H,Transporting and storage,522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,3,6,10
+H,Transporting and storage,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,7,8,9
+H,Transporting and storage,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+H,Transporting and storage,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+H,Transporting and storage,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,20,23,23
+H,Transporting and storage,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+H,Transporting and storage,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,7,10,12
+H,Transporting and storage,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,3,4,4
+H,Transporting and storage,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,8,9,9
+H,Transporting and storage,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+H,Transporting and storage,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,3,6,10
+H,Transporting and storage,528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,2,6,10
+H,Transporting and storage,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+H,Transporting and storage,528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,5,5,5
+H,Transporting and storage,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,2,2,2
+H,Transporting and storage,528358,811,8,Egreš,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+H,Transporting and storage,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+H,Transporting and storage,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+H,Transporting and storage,528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+H,Transporting and storage,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,4,4,4
+H,Transporting and storage,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,5,5,5
+H,Transporting and storage,528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+H,Transporting and storage,528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+H,Transporting and storage,528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+H,Transporting and storage,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,7,9,10
+H,Transporting and storage,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,7,26,44
+H,Transporting and storage,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,5,4,4
+H,Transporting and storage,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+H,Transporting and storage,528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+H,Transporting and storage,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+H,Transporting and storage,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+H,Transporting and storage,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,11,10,11
+H,Transporting and storage,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,5,5,5
+H,Transporting and storage,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,12,10,10
+H,Transporting and storage,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+H,Transporting and storage,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,98,249,407
+H,Transporting and storage,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,6,8,12
+H,Transporting and storage,513806,811,8,Veľká Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+H,Transporting and storage,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,6,12,17
+H,Transporting and storage,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,8,9,13
+H,Transporting and storage,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,3,5,6
+H,Transporting and storage,544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+H,Transporting and storage,544043,811,8,Zemplínsky Branč,Trebišov,Košický kraj,False,False,True,NULL,2,1,1
+I,Accommodation and food service activities,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,4,2,2
+I,Accommodation and food service activities,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,4,5,6
+I,Accommodation and food service activities,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+I,Accommodation and food service activities,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,142,312,471
+I,Accommodation and food service activities,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,355,1010,1656
+I,Accommodation and food service activities,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,12,42,53
+I,Accommodation and food service activities,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+I,Accommodation and food service activities,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,2,1,1
+I,Accommodation and food service activities,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,7,18,29
+I,Accommodation and food service activities,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,14,43,76
+I,Accommodation and food service activities,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,2,1,1
+I,Accommodation and food service activities,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,22,28,42
+I,Accommodation and food service activities,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,92,120,157
+I,Accommodation and food service activities,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,185,415,669
+I,Accommodation and food service activities,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,23,51,80
+I,Accommodation and food service activities,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,178,422,675
+I,Accommodation and food service activities,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,30,68,103
+I,Accommodation and food service activities,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,77,108,152
+I,Accommodation and food service activities,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,6,21,39
+I,Accommodation and food service activities,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,6,15,24
+I,Accommodation and food service activities,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,1,3,4
+I,Accommodation and food service activities,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,14,15,15
+I,Accommodation and food service activities,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,5,4,4
+I,Accommodation and food service activities,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+I,Accommodation and food service activities,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,3,4,5
+I,Accommodation and food service activities,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+I,Accommodation and food service activities,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+I,Accommodation and food service activities,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,2,2,2
+I,Accommodation and food service activities,521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,3,4,5
+I,Accommodation and food service activities,580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,6,15,25
+I,Accommodation and food service activities,521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,1,1,1
+I,Accommodation and food service activities,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,2,4,5
+I,Accommodation and food service activities,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,5,13,22
+I,Accommodation and food service activities,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,7,6,6
+I,Accommodation and food service activities,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,2,3,3
+I,Accommodation and food service activities,518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,7,7,8
+I,Accommodation and food service activities,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,3,7,11
+I,Accommodation and food service activities,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,5,29,53
+I,Accommodation and food service activities,522155,806,8,Veľká Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,1,1,1
+I,Accommodation and food service activities,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+I,Accommodation and food service activities,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+I,Accommodation and food service activities,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,7,5,5
+I,Accommodation and food service activities,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+I,Accommodation and food service activities,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,1,3,4
+I,Accommodation and food service activities,528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+I,Accommodation and food service activities,528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+I,Accommodation and food service activities,528226,811,8,Byšta,Trebišov,Košický kraj,False,True,True,NULL,2,0,0
+I,Accommodation and food service activities,528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+I,Accommodation and food service activities,528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+I,Accommodation and food service activities,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+I,Accommodation and food service activities,528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+I,Accommodation and food service activities,528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,3,5,6
+I,Accommodation and food service activities,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,3,2,2
+I,Accommodation and food service activities,528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+I,Accommodation and food service activities,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,6,11,13
+I,Accommodation and food service activities,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,3,3,3
+I,Accommodation and food service activities,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,4,6,7
+I,Accommodation and food service activities,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,2,7,11
+I,Accommodation and food service activities,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+I,Accommodation and food service activities,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,2,2,2
+I,Accommodation and food service activities,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,5,15,25
+I,Accommodation and food service activities,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+I,Accommodation and food service activities,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,8,16,21
+I,Accommodation and food service activities,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,46,90,143
+I,Accommodation and food service activities,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,4,18,32
+I,Accommodation and food service activities,543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+I,Accommodation and food service activities,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,2,3,3
+J,Information and communication,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,3,2,2
+J,Information and communication,526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,1,1,1
+J,Information and communication,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,4,2,2
+J,Information and communication,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,8,4,4
+J,Information and communication,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,216,473,607
+J,Information and communication,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,389,4893,8428
+J,Information and communication,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,13,11,11
+J,Information and communication,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,5,3,3
+J,Information and communication,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,8,6,6
+J,Information and communication,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,23,27,37
+J,Information and communication,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,19,14,14
+J,Information and communication,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,177,145,159
+J,Information and communication,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,312,409,560
+J,Information and communication,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,28,75,130
+J,Information and communication,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,307,814,1378
+J,Information and communication,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,20,62,111
+J,Information and communication,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,112,93,103
+J,Information and communication,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,2,2
+J,Information and communication,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,25,26,32
+J,Information and communication,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+J,Information and communication,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+J,Information and communication,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,14,8,8
+J,Information and communication,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,7,6,6
+J,Information and communication,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,6,3,3
+J,Information and communication,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+J,Information and communication,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,3,1,1
+J,Information and communication,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+J,Information and communication,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+J,Information and communication,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,7,6,6
+J,Information and communication,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,3,2,2
+J,Information and communication,521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,2,2,2
+J,Information and communication,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,2,4,5
+J,Information and communication,521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+J,Information and communication,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,4,2,2
+J,Information and communication,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+J,Information and communication,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+J,Information and communication,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,6,5,5
+J,Information and communication,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,1,3,4
+J,Information and communication,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,5,3,3
+J,Information and communication,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,4,6,7
+J,Information and communication,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,4,8,12
+J,Information and communication,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,20,13,13
+J,Information and communication,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+J,Information and communication,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+J,Information and communication,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,5,4,4
+J,Information and communication,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,5,5,5
+J,Information and communication,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,2,2,2
+J,Information and communication,528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+J,Information and communication,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,2,1,1
+J,Information and communication,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+J,Information and communication,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+J,Information and communication,528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+J,Information and communication,528439,811,8,Kožuchov,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+J,Information and communication,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,2,1,1
+J,Information and communication,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+J,Information and communication,528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+J,Information and communication,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+J,Information and communication,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,3,4,4
+J,Information and communication,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,2,1,1
+J,Information and communication,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+J,Information and communication,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+J,Information and communication,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,2,1,1
+J,Information and communication,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,1,3,4
+J,Information and communication,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+J,Information and communication,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+J,Information and communication,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+J,Information and communication,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,2,1,1
+J,Information and communication,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,75,68,79
+J,Information and communication,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,4,2,2
+J,Information and communication,543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+J,Information and communication,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+J,Information and communication,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,4,4,4
+J,Information and communication,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+J,Information and communication,544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+K,Financial and insurance activities,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,3,3,3
+K,Financial and insurance activities,526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+K,Financial and insurance activities,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,6,5,5
+K,Financial and insurance activities,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,87,98,112
+K,Financial and insurance activities,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,166,207,264
+K,Financial and insurance activities,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,23,22,22
+K,Financial and insurance activities,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,4,4,4
+K,Financial and insurance activities,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,3,3,3
+K,Financial and insurance activities,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,20,20,20
+K,Financial and insurance activities,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,10,10,10
+K,Financial and insurance activities,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,2,2,2
+K,Financial and insurance activities,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,13,13,13
+K,Financial and insurance activities,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,111,112,113
+K,Financial and insurance activities,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,181,201,225
+K,Financial and insurance activities,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,24,24,24
+K,Financial and insurance activities,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,115,276,398
+K,Financial and insurance activities,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,27,26,26
+K,Financial and insurance activities,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,128,127,127
+K,Financial and insurance activities,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,3,3,3
+K,Financial and insurance activities,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,17,16,16
+K,Financial and insurance activities,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+K,Financial and insurance activities,521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+K,Financial and insurance activities,559831,806,8,Bočiar,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,20,20,20
+K,Financial and insurance activities,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,5,5,5
+K,Financial and insurance activities,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+K,Financial and insurance activities,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+K,Financial and insurance activities,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,7,7,7
+K,Financial and insurance activities,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+K,Financial and insurance activities,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,5,5,5
+K,Financial and insurance activities,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+K,Financial and insurance activities,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,1,1,1
+K,Financial and insurance activities,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,5,4,4
+K,Financial and insurance activities,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+K,Financial and insurance activities,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+K,Financial and insurance activities,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,3,3,3
+K,Financial and insurance activities,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+K,Financial and insurance activities,521906,806,8,Rákoš,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+K,Financial and insurance activities,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+K,Financial and insurance activities,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,9,9,9
+K,Financial and insurance activities,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,8,7,7
+K,Financial and insurance activities,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+K,Financial and insurance activities,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,5,5,5
+K,Financial and insurance activities,522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+K,Financial and insurance activities,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,3,3,3
+K,Financial and insurance activities,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+K,Financial and insurance activities,522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,2,2,2
+K,Financial and insurance activities,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,7,7,7
+K,Financial and insurance activities,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,14,14,14
+K,Financial and insurance activities,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+K,Financial and insurance activities,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+K,Financial and insurance activities,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+K,Financial and insurance activities,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,3,3,3
+K,Financial and insurance activities,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,5,5,5
+K,Financial and insurance activities,528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,4,4,4
+K,Financial and insurance activities,528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+K,Financial and insurance activities,528226,811,8,Byšta,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+K,Financial and insurance activities,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+K,Financial and insurance activities,528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,3,3,3
+K,Financial and insurance activities,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,4,4,4
+K,Financial and insurance activities,528358,811,8,Egreš,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+K,Financial and insurance activities,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,4,4,4
+K,Financial and insurance activities,528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,4,4,4
+K,Financial and insurance activities,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,4,4,4
+K,Financial and insurance activities,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+K,Financial and insurance activities,528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+K,Financial and insurance activities,528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+K,Financial and insurance activities,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+K,Financial and insurance activities,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+K,Financial and insurance activities,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,6,6,6
+K,Financial and insurance activities,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+K,Financial and insurance activities,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,2,2,2
+K,Financial and insurance activities,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,6,6,6
+K,Financial and insurance activities,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,3,4,4
+K,Financial and insurance activities,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,87,86,86
+K,Financial and insurance activities,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,4,4,4
+K,Financial and insurance activities,543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+K,Financial and insurance activities,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,7,7,7
+K,Financial and insurance activities,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,8,8,8
+K,Financial and insurance activities,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+K,Financial and insurance activities,544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+L,Real estate activities,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,5,1,1
+L,Real estate activities,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,2,2,2
+L,Real estate activities,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,203,150,222
+L,Real estate activities,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,474,379,569
+L,Real estate activities,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,9,10,14
+L,Real estate activities,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,3,0,0
+L,Real estate activities,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,14,4,4
+L,Real estate activities,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,13,8,8
+L,Real estate activities,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+L,Real estate activities,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,17,24,41
+L,Real estate activities,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,66,32,42
+L,Real estate activities,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,241,186,301
+L,Real estate activities,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,38,37,48
+L,Real estate activities,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,363,425,703
+L,Real estate activities,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,23,18,23
+L,Real estate activities,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,82,31,41
+L,Real estate activities,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,2,0,0
+L,Real estate activities,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,16,156,205
+L,Real estate activities,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,4,0,0
+L,Real estate activities,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,13,5,5
+L,Real estate activities,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,5,1,1
+L,Real estate activities,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,3,1,1
+L,Real estate activities,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+L,Real estate activities,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+L,Real estate activities,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,4,1,1
+L,Real estate activities,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,6,1,1
+L,Real estate activities,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,11,5,6
+L,Real estate activities,580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,3,0,0
+L,Real estate activities,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+L,Real estate activities,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,5,1,1
+L,Real estate activities,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,3,1,1
+L,Real estate activities,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,3,0,0
+L,Real estate activities,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,6,1,1
+L,Real estate activities,522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,1,0,0
+L,Real estate activities,522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,2,1,1
+L,Real estate activities,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,8,0,0
+L,Real estate activities,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+L,Real estate activities,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,1,2,2
+L,Real estate activities,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,5,1,1
+L,Real estate activities,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,2,2,2
+L,Real estate activities,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,9,0,0
+L,Real estate activities,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+L,Real estate activities,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+L,Real estate activities,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+L,Real estate activities,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,2,0,0
+L,Real estate activities,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+L,Real estate activities,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,4,1,1
+L,Real estate activities,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,3,0,0
+L,Real estate activities,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,1,0,0
+L,Real estate activities,528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,2,0,0
+L,Real estate activities,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,2,1,1
+L,Real estate activities,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,4,0,0
+L,Real estate activities,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,6,6,7
+L,Real estate activities,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,2,0,0
+L,Real estate activities,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,60,70,122
+L,Real estate activities,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+L,Real estate activities,543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+L,Real estate activities,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,11,6,10
+L,Real estate activities,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+M,"Professional, scientific and technical activities",581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,8,10,11
+M,"Professional, scientific and technical activities",599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,11,18,24
+M,"Professional, scientific and technical activities",598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,23,24,29
+M,"Professional, scientific and technical activities",598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,674,891,1170
+M,"Professional, scientific and technical activities",598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,1338,2111,3239
+M,"Professional, scientific and technical activities",598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,32,22,22
+M,"Professional, scientific and technical activities",598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,17,13,14
+M,"Professional, scientific and technical activities",599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,2,1,1
+M,"Professional, scientific and technical activities",598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,59,63,75
+M,"Professional, scientific and technical activities",598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,48,35,36
+M,"Professional, scientific and technical activities",599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,6,4,4
+M,"Professional, scientific and technical activities",599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,51,219,348
+M,"Professional, scientific and technical activities",599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,459,392,419
+M,"Professional, scientific and technical activities",598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,790,800,984
+M,"Professional, scientific and technical activities",599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,96,125,171
+M,"Professional, scientific and technical activities",599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1090,1305,1740
+M,"Professional, scientific and technical activities",599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,76,66,70
+M,"Professional, scientific and technical activities",599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,301,297,354
+M,"Professional, scientific and technical activities",599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,4,11,20
+M,"Professional, scientific and technical activities",599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,65,56,59
+M,"Professional, scientific and technical activities",521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+M,"Professional, scientific and technical activities",521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+M,"Professional, scientific and technical activities",559831,806,8,Bočiar,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+M,"Professional, scientific and technical activities",521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,12,13,14
+M,"Professional, scientific and technical activities",521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,31,23,23
+M,"Professional, scientific and technical activities",521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,18,13,13
+M,"Professional, scientific and technical activities",521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,10,9,9
+M,"Professional, scientific and technical activities",521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,9,7,7
+M,"Professional, scientific and technical activities",521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,17,12,12
+M,"Professional, scientific and technical activities",521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,6,6,6
+M,"Professional, scientific and technical activities",559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,8,6,6
+M,"Professional, scientific and technical activities",521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,13,12,12
+M,"Professional, scientific and technical activities",521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,9,8,8
+M,"Professional, scientific and technical activities",582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,8,8,8
+M,"Professional, scientific and technical activities",521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,12,8,8
+M,"Professional, scientific and technical activities",521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,2,2,2
+M,"Professional, scientific and technical activities",580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+M,"Professional, scientific and technical activities",518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,6,4,5
+M,"Professional, scientific and technical activities",521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,10,9,9
+M,"Professional, scientific and technical activities",521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,5,3,3
+M,"Professional, scientific and technical activities",521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,3,3,3
+M,"Professional, scientific and technical activities",521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,4,4,4
+M,"Professional, scientific and technical activities",521906,806,8,Rákoš,Košice - okolie,Košický kraj,False,False,True,NULL,2,3,3
+M,"Professional, scientific and technical activities",521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,17,18,18
+M,"Professional, scientific and technical activities",521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,18,18,19
+M,"Professional, scientific and technical activities",521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,11,13,15
+M,"Professional, scientific and technical activities",521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,4,5,6
+M,"Professional, scientific and technical activities",518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+M,"Professional, scientific and technical activities",522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,10,14,23
+M,"Professional, scientific and technical activities",522015,806,8,Slanská Huta,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+M,"Professional, scientific and technical activities",522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,2,12,21
+M,"Professional, scientific and technical activities",522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,11,11,12
+M,"Professional, scientific and technical activities",559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,6,4,4
+M,"Professional, scientific and technical activities",522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,5,7,8
+M,"Professional, scientific and technical activities",522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,5,3,3
+M,"Professional, scientific and technical activities",522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,37,30,30
+M,"Professional, scientific and technical activities",522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+M,"Professional, scientific and technical activities",522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,9,5,5
+M,"Professional, scientific and technical activities",522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+M,"Professional, scientific and technical activities",522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,11,14,19
+M,"Professional, scientific and technical activities",528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+M,"Professional, scientific and technical activities",528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,3,2,2
+M,"Professional, scientific and technical activities",528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,2,1,1
+M,"Professional, scientific and technical activities",528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+M,"Professional, scientific and technical activities",528226,811,8,Byšta,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+M,"Professional, scientific and technical activities",528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,5,5,5
+M,"Professional, scientific and technical activities",528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+M,"Professional, scientific and technical activities",528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,2,0,0
+M,"Professional, scientific and technical activities",528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,5,5,5
+M,"Professional, scientific and technical activities",528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,4,4,4
+M,"Professional, scientific and technical activities",528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+M,"Professional, scientific and technical activities",528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,10,11,15
+M,"Professional, scientific and technical activities",528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,8,7,7
+M,"Professional, scientific and technical activities",528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,5,5,5
+M,"Professional, scientific and technical activities",528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,1,5,9
+M,"Professional, scientific and technical activities",528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,5,5,5
+M,"Professional, scientific and technical activities",528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+M,"Professional, scientific and technical activities",513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,3,2,2
+M,"Professional, scientific and technical activities",528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,11,13,14
+M,"Professional, scientific and technical activities",528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,3,3,3
+M,"Professional, scientific and technical activities",528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,4,5,5
+M,"Professional, scientific and technical activities",528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,5,3,3
+M,"Professional, scientific and technical activities",528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+M,"Professional, scientific and technical activities",543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+M,"Professional, scientific and technical activities",543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,5,6,7
+M,"Professional, scientific and technical activities",543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,10,6,6
+M,"Professional, scientific and technical activities",543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,11,8,8
+M,"Professional, scientific and technical activities",513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,1,0,0
+M,"Professional, scientific and technical activities",543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,14,13,14
+M,"Professional, scientific and technical activities",528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+M,"Professional, scientific and technical activities",528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,273,310,374
+M,"Professional, scientific and technical activities",543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,9,8,8
+M,"Professional, scientific and technical activities",513806,811,8,Veľká Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,3,2,2
+M,"Professional, scientific and technical activities",544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+M,"Professional, scientific and technical activities",544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,8,7,7
+M,"Professional, scientific and technical activities",544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,10,9,9
+M,"Professional, scientific and technical activities",544043,811,8,Zemplínsky Branč,Trebišov,Košický kraj,False,False,True,NULL,3,3,3
+N,Administrative and support service activities,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,5,3,3
+N,Administrative and support service activities,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,3,1,1
+N,Administrative and support service activities,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,16,14,14
+N,Administrative and support service activities,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,274,336,486
+N,Administrative and support service activities,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,562,1112,1793
+N,Administrative and support service activities,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,27,33,43
+N,Administrative and support service activities,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,4,1,1
+N,Administrative and support service activities,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,4,3,3
+N,Administrative and support service activities,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,27,26,29
+N,Administrative and support service activities,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,29,15,15
+N,Administrative and support service activities,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,6,11,16
+N,Administrative and support service activities,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,51,513,874
+N,Administrative and support service activities,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,240,284,379
+N,Administrative and support service activities,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,395,457,599
+N,Administrative and support service activities,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,62,83,120
+N,Administrative and support service activities,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,569,1079,1738
+N,Administrative and support service activities,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,44,60,85
+N,Administrative and support service activities,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,194,202,251
+N,Administrative and support service activities,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,6,3,3
+N,Administrative and support service activities,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,38,53,76
+N,Administrative and support service activities,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+N,Administrative and support service activities,521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,559831,806,8,Bočiar,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+N,Administrative and support service activities,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,3,4,5
+N,Administrative and support service activities,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,32,27,32
+N,Administrative and support service activities,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,9,9,9
+N,Administrative and support service activities,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+N,Administrative and support service activities,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,5,3,3
+N,Administrative and support service activities,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,7,2,2
+N,Administrative and support service activities,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+N,Administrative and support service activities,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,7,7,7
+N,Administrative and support service activities,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+N,Administrative and support service activities,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,4,5,5
+N,Administrative and support service activities,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,10,8,8
+N,Administrative and support service activities,521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,1,3,4
+N,Administrative and support service activities,580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+N,Administrative and support service activities,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+N,Administrative and support service activities,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,5,5,5
+N,Administrative and support service activities,521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,1,1,1
+N,Administrative and support service activities,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+N,Administrative and support service activities,521906,806,8,Rákoš,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,11,7,7
+N,Administrative and support service activities,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,8,5,5
+N,Administrative and support service activities,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+N,Administrative and support service activities,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,5,3,3
+N,Administrative and support service activities,518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,10,5,5
+N,Administrative and support service activities,522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,4,3,3
+N,Administrative and support service activities,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,1,1,1
+N,Administrative and support service activities,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+N,Administrative and support service activities,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,20,15,15
+N,Administrative and support service activities,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,3,1,1
+N,Administrative and support service activities,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,8,11,15
+N,Administrative and support service activities,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+N,Administrative and support service activities,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,6,4,4
+N,Administrative and support service activities,528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,2,1,1
+N,Administrative and support service activities,528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+N,Administrative and support service activities,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,3,3,3
+N,Administrative and support service activities,528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+N,Administrative and support service activities,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,7,5,5
+N,Administrative and support service activities,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+N,Administrative and support service activities,528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,2,1,1
+N,Administrative and support service activities,528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,3,5,6
+N,Administrative and support service activities,528439,811,8,Kožuchov,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+N,Administrative and support service activities,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+N,Administrative and support service activities,528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,3,3,3
+N,Administrative and support service activities,528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+N,Administrative and support service activities,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,2,1,1
+N,Administrative and support service activities,528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+N,Administrative and support service activities,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,2,1,1
+N,Administrative and support service activities,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,3,3,3
+N,Administrative and support service activities,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,3,3,3
+N,Administrative and support service activities,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+N,Administrative and support service activities,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+N,Administrative and support service activities,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,4,2,2
+N,Administrative and support service activities,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,10,7,7
+N,Administrative and support service activities,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,8,6,7
+N,Administrative and support service activities,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,3,3,3
+N,Administrative and support service activities,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,8,23,40
+N,Administrative and support service activities,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,3,6,10
+N,Administrative and support service activities,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,163,288,428
+N,Administrative and support service activities,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,6,5,5
+N,Administrative and support service activities,513806,811,8,Veľká Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,1,1,1
+N,Administrative and support service activities,543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,2,1,1
+N,Administrative and support service activities,543993,811,8,Zemplín,Trebišov,Košický kraj,True,True,True,NULL,2,0,0
+N,Administrative and support service activities,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,4,2,2
+N,Administrative and support service activities,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,4,1,1
+N,Administrative and support service activities,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,8,8,8
+N,Administrative and support service activities,544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,1,2,2
+O,Public administration and defence; compulsory social security,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,1,10,19
+O,Public administration and defence; compulsory social security,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,1,5,9
+O,Public administration and defence; compulsory social security,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,3,75,148
+O,Public administration and defence; compulsory social security,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,14,1375,2138
+O,Public administration and defence; compulsory social security,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,1,10,19
+O,Public administration and defence; compulsory social security,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,5,9
+O,Public administration and defence; compulsory social security,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,10,19
+O,Public administration and defence; compulsory social security,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,5,9
+O,Public administration and defence; compulsory social security,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,5,9
+O,Public administration and defence; compulsory social security,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,5,9
+O,Public administration and defence; compulsory social security,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,2,275,548
+O,Public administration and defence; compulsory social security,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,25,49
+O,Public administration and defence; compulsory social security,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,3,1200,2297
+O,Public administration and defence; compulsory social security,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,10,19
+O,Public administration and defence; compulsory social security,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,4,60,118
+O,Public administration and defence; compulsory social security,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,10,19
+O,Public administration and defence; compulsory social security,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,25,49
+O,Public administration and defence; compulsory social security,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,3,4
+O,Public administration and defence; compulsory social security,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,10,19
+O,Public administration and defence; compulsory social security,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,559831,806,8,Bočiar,Košice - okolie,Košický kraj,False,False,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,1,50,99
+O,Public administration and defence; compulsory social security,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,1,50,99
+O,Public administration and defence; compulsory social security,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,1,20,24
+O,Public administration and defence; compulsory social security,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,1,20,24
+O,Public administration and defence; compulsory social security,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,1,20,24
+O,Public administration and defence; compulsory social security,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,1,10,19
+O,Public administration and defence; compulsory social security,521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,1,3,4
+O,Public administration and defence; compulsory social security,580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,1,5,9
+O,Public administration and defence; compulsory social security,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,521906,806,8,Rákoš,Košice - okolie,Košický kraj,False,False,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,522015,806,8,Slanská Huta,Košice - okolie,Košický kraj,False,False,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,1,10,19
+O,Public administration and defence; compulsory social security,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,1,20,24
+O,Public administration and defence; compulsory social security,522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,1,3,4
+O,Public administration and defence; compulsory social security,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,1,20,24
+O,Public administration and defence; compulsory social security,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,1,50,99
+O,Public administration and defence; compulsory social security,522155,806,8,Veľká Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,1,5,9
+O,Public administration and defence; compulsory social security,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,1,20,24
+O,Public administration and defence; compulsory social security,528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528226,811,8,Byšta,Trebišov,Košický kraj,False,True,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,1,2,2
+O,Public administration and defence; compulsory social security,528358,811,8,Egreš,Trebišov,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,1,20,24
+O,Public administration and defence; compulsory social security,513831,811,8,Klin nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,528439,811,8,Kožuchov,Trebišov,Košický kraj,False,False,True,NULL,1,2,2
+O,Public administration and defence; compulsory social security,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,1,20,24
+O,Public administration and defence; compulsory social security,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,1,20,24
+O,Public administration and defence; compulsory social security,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,1,3,4
+O,Public administration and defence; compulsory social security,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,1,50,99
+O,Public administration and defence; compulsory social security,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,4,285,416
+O,Public administration and defence; compulsory social security,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,513806,811,8,Veľká Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,543993,811,8,Zemplín,Trebišov,Košický kraj,True,True,True,NULL,1,5,9
+O,Public administration and defence; compulsory social security,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,1,25,49
+O,Public administration and defence; compulsory social security,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,1,10,19
+O,Public administration and defence; compulsory social security,544043,811,8,Zemplínsky Branč,Trebišov,Košický kraj,False,False,True,NULL,1,3,4
+P,Education,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,1,0,0
+P,Education,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,4,2,2
+P,Education,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,116,2009,3876
+P,Education,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,211,2492,4732
+P,Education,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,4,3,3
+P,Education,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,4,5,5
+P,Education,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,3,128,202
+P,Education,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,7,31,56
+P,Education,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,6,4,4
+P,Education,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,0,0
+P,Education,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,9,136,262
+P,Education,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,75,268,458
+P,Education,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,162,889,1523
+P,Education,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,15,132,251
+P,Education,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,131,1107,1918
+P,Education,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,15,48,85
+P,Education,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,68,408,729
+P,Education,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,0,0
+P,Education,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,11,106,204
+P,Education,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+P,Education,559831,806,8,Bočiar,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+P,Education,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,3,26,50
+P,Education,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,7,58,109
+P,Education,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,2,26,50
+P,Education,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,1,2,2
+P,Education,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,1,25,49
+P,Education,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,1,10,19
+P,Education,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,2,11,20
+P,Education,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+P,Education,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,1,10,19
+P,Education,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,1,1,1
+P,Education,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,4,31,59
+P,Education,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,4,32,45
+P,Education,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+P,Education,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,1,25,49
+P,Education,518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+P,Education,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,1,50,99
+P,Education,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,4,6,7
+P,Education,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,3,12,21
+P,Education,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,11,82,154
+P,Education,522155,806,8,Veľká Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,1,1,1
+P,Education,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,3,76,149
+P,Education,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,3,25,49
+P,Education,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,2,26,50
+P,Education,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,1,25,49
+P,Education,528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+P,Education,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,3,31,44
+P,Education,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,1,25,49
+P,Education,528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+P,Education,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,2,26,50
+P,Education,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,3,27,51
+P,Education,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,2,26,50
+P,Education,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,2,26,50
+P,Education,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+P,Education,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+P,Education,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,3,36,69
+P,Education,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,1,10,19
+P,Education,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,8,57,109
+P,Education,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,39,668,1235
+P,Education,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+P,Education,543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+P,Education,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,3,36,69
+P,Education,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,1,0,0
+Q,Human health and social work activities,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,1,2,2
+Q,Human health and social work activities,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,1,0,0
+Q,Human health and social work activities,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,153,324,486
+Q,Human health and social work activities,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,273,1159,1846
+Q,Human health and social work activities,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,2,2,2
+Q,Human health and social work activities,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,5,4,4
+Q,Human health and social work activities,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,1,1,1
+Q,Human health and social work activities,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,14,64,93
+Q,Human health and social work activities,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,12,17,19
+Q,Human health and social work activities,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,2,6,10
+Q,Human health and social work activities,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,17,1018,2025
+Q,Human health and social work activities,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,58,107,143
+Q,Human health and social work activities,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,177,1280,2386
+Q,Human health and social work activities,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,14,178,238
+Q,Human health and social work activities,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,163,4676,6785
+Q,Human health and social work activities,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,20,41,53
+Q,Human health and social work activities,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,40,120,195
+Q,Human health and social work activities,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,3,3,3
+Q,Human health and social work activities,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,16,124,178
+Q,Human health and social work activities,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+Q,Human health and social work activities,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,4,4,4
+Q,Human health and social work activities,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,4,3,3
+Q,Human health and social work activities,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,1,0,0
+Q,Human health and social work activities,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,1,5,9
+Q,Human health and social work activities,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+Q,Human health and social work activities,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+Q,Human health and social work activities,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,1,2,2
+Q,Human health and social work activities,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,2,4,4
+Q,Human health and social work activities,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,3,12,21
+Q,Human health and social work activities,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,2,3,4
+Q,Human health and social work activities,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+Q,Human health and social work activities,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,4,7,7
+Q,Human health and social work activities,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,1,2,2
+Q,Human health and social work activities,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+Q,Human health and social work activities,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,3,5,6
+Q,Human health and social work activities,522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,3,8,10
+Q,Human health and social work activities,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,6,5,5
+Q,Human health and social work activities,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,2,2
+Q,Human health and social work activities,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,1,1,1
+Q,Human health and social work activities,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+Q,Human health and social work activities,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,2,2,2
+Q,Human health and social work activities,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,3,51,100
+Q,Human health and social work activities,528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,1,2,2
+Q,Human health and social work activities,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+Q,Human health and social work activities,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+Q,Human health and social work activities,528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+Q,Human health and social work activities,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,5,15,24
+Q,Human health and social work activities,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+Q,Human health and social work activities,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,4,34,62
+Q,Human health and social work activities,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+Q,Human health and social work activities,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+Q,Human health and social work activities,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,4,31,59
+Q,Human health and social work activities,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,2,1,1
+Q,Human health and social work activities,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,1,2,2
+Q,Human health and social work activities,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,9,42,60
+Q,Human health and social work activities,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,87,834,1457
+Q,Human health and social work activities,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,2,5,6
+Q,Human health and social work activities,543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,1,2,2
+Q,Human health and social work activities,543993,811,8,Zemplín,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+Q,Human health and social work activities,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,1,1,1
+Q,Human health and social work activities,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,2,2,2
+Q,Human health and social work activities,544043,811,8,Zemplínsky Branč,Trebišov,Košický kraj,False,False,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,2,0,0
+R,"Arts, entertainment and recreation",598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,8,51,100
+R,"Arts, entertainment and recreation",598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,155,57,73
+R,"Arts, entertainment and recreation",598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,259,752,1366
+R,"Arts, entertainment and recreation",598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,7,0,0
+R,"Arts, entertainment and recreation",598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,5,1,1
+R,"Arts, entertainment and recreation",598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,15,9,13
+R,"Arts, entertainment and recreation",598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,11,4,4
+R,"Arts, entertainment and recreation",599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,4,1,1
+R,"Arts, entertainment and recreation",599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,19,5,6
+R,"Arts, entertainment and recreation",599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,99,39,40
+R,"Arts, entertainment and recreation",598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,207,82,97
+R,"Arts, entertainment and recreation",599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,26,7,7
+R,"Arts, entertainment and recreation",599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,223,317,457
+R,"Arts, entertainment and recreation",599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,17,5,6
+R,"Arts, entertainment and recreation",599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,68,24,29
+R,"Arts, entertainment and recreation",599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,3,0,0
+R,"Arts, entertainment and recreation",599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,18,14,23
+R,"Arts, entertainment and recreation",521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,3,0,0
+R,"Arts, entertainment and recreation",521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+R,"Arts, entertainment and recreation",521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,18,5,6
+R,"Arts, entertainment and recreation",521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,24,2,2
+R,"Arts, entertainment and recreation",521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,10,5,5
+R,"Arts, entertainment and recreation",521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,5,1,1
+R,"Arts, entertainment and recreation",521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+R,"Arts, entertainment and recreation",559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,4,0,0
+R,"Arts, entertainment and recreation",521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,6,4,4
+R,"Arts, entertainment and recreation",521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,2,1,1
+R,"Arts, entertainment and recreation",582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,1,0,0
+R,"Arts, entertainment and recreation",521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,7,0,0
+R,"Arts, entertainment and recreation",521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,1,0,0
+R,"Arts, entertainment and recreation",521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,6,0,0
+R,"Arts, entertainment and recreation",521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,3,0,0
+R,"Arts, entertainment and recreation",521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,4,1,1
+R,"Arts, entertainment and recreation",521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,2,2,2
+R,"Arts, entertainment and recreation",522015,806,8,Slanská Huta,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,2,0,0
+R,"Arts, entertainment and recreation",559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,5,0,0
+R,"Arts, entertainment and recreation",522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,2,1,1
+R,"Arts, entertainment and recreation",522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,17,5,5
+R,"Arts, entertainment and recreation",522155,806,8,Veľká Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,1,0,0
+R,"Arts, entertainment and recreation",522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,3,2,2
+R,"Arts, entertainment and recreation",528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,3,1,1
+R,"Arts, entertainment and recreation",528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,4,0,0
+R,"Arts, entertainment and recreation",528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,1,1,1
+R,"Arts, entertainment and recreation",528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,5,1,1
+R,"Arts, entertainment and recreation",528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,3,0,0
+R,"Arts, entertainment and recreation",528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,5,2,2
+R,"Arts, entertainment and recreation",528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,3,0,0
+R,"Arts, entertainment and recreation",528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,3,0,0
+R,"Arts, entertainment and recreation",543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,2,1,1
+R,"Arts, entertainment and recreation",528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,76,62,101
+R,"Arts, entertainment and recreation",543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,2,0,0
+R,"Arts, entertainment and recreation",544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,1,0,0
+R,"Arts, entertainment and recreation",544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,2,1,1
+S,Other services activities,581704,406,4,Kuzmice,Topoľčany,Nitriansky kraj,False,False,True,NULL,10,3,3
+S,Other services activities,526118,608,6,Rákoš,Revúca,Banskobystrický kraj,False,False,True,NULL,3,1,1
+S,Other services activities,599891,802,8,Košice-Džungľa,Košice I,Košický kraj,NULL,NULL,NULL,NULL,6,0,0
+S,Other services activities,598119,802,8,Košice-Kavečany,Košice I,Košický kraj,NULL,NULL,NULL,NULL,16,4,4
+S,Other services activities,598151,802,8,Košice-Sever,Košice I,Košický kraj,NULL,NULL,NULL,NULL,414,166,200
+S,Other services activities,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,860,1288,2261
+S,Other services activities,598127,802,8,Košice-Ťahanovce,Košice I,Košický kraj,NULL,NULL,NULL,NULL,28,14,15
+S,Other services activities,598194,803,8,Košice-Lorinčík,Košice II,Košický kraj,NULL,NULL,NULL,NULL,6,1,1
+S,Other services activities,599972,803,8,Košice-Luník IX,Košice II,Košický kraj,NULL,NULL,NULL,NULL,14,9,14
+S,Other services activities,598216,803,8,Košice-Myslava,Košice II,Košický kraj,NULL,NULL,NULL,NULL,41,24,29
+S,Other services activities,598208,803,8,Košice-Pereš,Košice II,Košický kraj,NULL,NULL,NULL,NULL,28,21,27
+S,Other services activities,599859,803,8,Košice-Poľov,Košice II,Košický kraj,NULL,NULL,NULL,NULL,9,5,6
+S,Other services activities,599841,803,8,Košice-Šaca,Košice II,Košický kraj,NULL,NULL,NULL,NULL,73,11,12
+S,Other services activities,599883,803,8,Košice-Sídlisko KVP,Košice II,Košický kraj,NULL,NULL,NULL,NULL,289,144,158
+S,Other services activities,598224,803,8,Košice-Západ,Košice II,Košický kraj,NULL,NULL,NULL,NULL,588,285,345
+S,Other services activities,599093,805,8,Košice-Barca,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,72,44,49
+S,Other services activities,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,532,326,467
+S,Other services activities,599794,805,8,Košice-Krásna,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,47,24,28
+S,Other services activities,599816,805,8,Košice-Nad jazerom,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,252,131,159
+S,Other services activities,599786,805,8,Košice-Šebastovce,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,6,5,6
+S,Other services activities,599913,805,8,Košice-Vyšné Opátske,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,37,19,28
+S,Other services activities,521167,806,8,Belža,Košice - okolie,Košický kraj,False,False,True,NULL,3,0,0
+S,Other services activities,521191,806,8,Blažice,Košice - okolie,Košický kraj,False,False,True,NULL,4,2,2
+S,Other services activities,559831,806,8,Bočiar,Košice - okolie,Košický kraj,False,False,True,NULL,3,0,0
+S,Other services activities,521205,806,8,Bohdanovce,Košice - okolie,Košický kraj,False,False,True,NULL,12,5,5
+S,Other services activities,521299,806,8,Čaňa,Košice - okolie,Košický kraj,False,False,True,NULL,37,15,15
+S,Other services activities,521345,806,8,Družstevná pri Hornáde,Košice - okolie,Košický kraj,False,False,NULL,True,31,14,15
+S,Other services activities,521370,806,8,Geča,Košice - okolie,Košický kraj,False,False,True,NULL,16,13,13
+S,Other services activities,521388,806,8,Gyňov,Košice - okolie,Košický kraj,False,False,True,NULL,8,0,0
+S,Other services activities,521400,806,8,Haniska,Košice - okolie,Košický kraj,False,False,True,NULL,14,5,5
+S,Other services activities,521507,806,8,Kalša,Košice - okolie,Košický kraj,False,False,True,NULL,5,2,2
+S,Other services activities,559687,806,8,Kechnec,Košice - okolie,Košický kraj,False,False,True,NULL,7,1,1
+S,Other services activities,521558,806,8,Kokšov-Bakša,Košice - okolie,Košický kraj,False,False,True,NULL,8,4,4
+S,Other services activities,521582,806,8,Košická Polianka,Košice - okolie,Košický kraj,False,False,True,NULL,13,7,7
+S,Other services activities,582514,806,8,Kostoľany nad Hornádom,Košice - okolie,Košický kraj,False,False,NULL,True,15,6,6
+S,Other services activities,521639,806,8,Kysak,Košice - okolie,Košický kraj,False,False,NULL,True,13,11,12
+S,Other services activities,521663,806,8,Malá Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,2,0,0
+S,Other services activities,580252,806,8,Milhosť,Košice - okolie,Košický kraj,False,False,True,NULL,5,2,2
+S,Other services activities,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,4,2,2
+S,Other services activities,521736,806,8,Nižná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,23,7,7
+S,Other services activities,521744,806,8,Nižný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,2,0,0
+S,Other services activities,521809,806,8,Nový Salaš,Košice - okolie,Košický kraj,False,False,True,NULL,4,0,0
+S,Other services activities,521817,806,8,Obišovce,Košice - okolie,Košický kraj,False,False,NULL,True,4,1,1
+S,Other services activities,521825,806,8,Olšovany,Košice - okolie,Košický kraj,False,False,True,NULL,5,3,3
+S,Other services activities,521906,806,8,Rákoš,Košice - okolie,Košický kraj,False,False,True,NULL,3,0,0
+S,Other services activities,521957,806,8,Ruskov,Košice - okolie,Košický kraj,False,False,True,NULL,18,4,4
+S,Other services activities,521965,806,8,Sady nad Torysou,Košice - okolie,Košický kraj,False,False,True,NULL,13,13,22
+S,Other services activities,521973,806,8,Seňa,Košice - okolie,Košický kraj,False,False,True,NULL,18,5,5
+S,Other services activities,521981,806,8,Skároš,Košice - okolie,Košický kraj,False,False,True,NULL,9,3,3
+S,Other services activities,518115,806,8,Slančík,Košice - okolie,Košický kraj,False,False,True,NULL,4,2,2
+S,Other services activities,522007,806,8,Slanec,Košice - okolie,Košický kraj,False,False,True,NULL,15,7,7
+S,Other services activities,522015,806,8,Slanská Huta,Košice - okolie,Košický kraj,False,False,True,NULL,5,1,1
+S,Other services activities,522023,806,8,Slanské Nové Mesto,Košice - okolie,Košický kraj,False,False,True,NULL,5,1,1
+S,Other services activities,522031,806,8,Sokoľ,Košice - okolie,Košický kraj,False,False,NULL,True,18,8,8
+S,Other services activities,559865,806,8,Sokoľany,Košice - okolie,Košický kraj,False,False,True,NULL,4,0,0
+S,Other services activities,522082,806,8,Trebejov,Košice - okolie,Košický kraj,False,False,NULL,True,3,2,2
+S,Other services activities,522104,806,8,Trstené pri Hornáde,Košice - okolie,Košický kraj,False,False,True,NULL,12,2,2
+S,Other services activities,522139,806,8,Valaliky,Košice - okolie,Košický kraj,False,False,True,NULL,29,17,18
+S,Other services activities,522155,806,8,Veľká Lodina,Košice - okolie,Košický kraj,False,False,NULL,True,4,1,1
+S,Other services activities,522171,806,8,Vyšná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,8,7,7
+S,Other services activities,522198,806,8,Vyšná Myšľa,Košice - okolie,Košický kraj,False,False,True,NULL,7,2,2
+S,Other services activities,522201,806,8,Vyšný Čaj,Košice - okolie,Košický kraj,False,False,True,NULL,4,1,1
+S,Other services activities,522261,806,8,Ždaňa,Košice - okolie,Košický kraj,False,False,True,NULL,13,5,5
+S,Other services activities,528129,811,8,Bara,Trebišov,Košický kraj,True,True,True,NULL,2,0,0
+S,Other services activities,528170,811,8,Borša,Trebišov,Košický kraj,True,True,True,NULL,19,7,7
+S,Other services activities,528200,811,8,Brehov,Trebišov,Košický kraj,False,True,True,NULL,7,1,1
+S,Other services activities,528218,811,8,Brezina,Trebišov,Košický kraj,False,True,True,NULL,11,1,1
+S,Other services activities,528226,811,8,Byšta,Trebišov,Košický kraj,False,True,True,NULL,6,1,1
+S,Other services activities,528234,811,8,Cejkov,Trebišov,Košický kraj,False,True,True,NULL,9,27,51
+S,Other services activities,528242,811,8,Čeľovce,Trebišov,Košický kraj,False,False,True,NULL,7,1,1
+S,Other services activities,528251,811,8,Čerhov,Trebišov,Košický kraj,True,True,True,NULL,6,1,1
+S,Other services activities,528269,811,8,Černochov,Trebišov,Košický kraj,True,True,True,NULL,6,0,0
+S,Other services activities,528358,811,8,Egreš,Trebišov,Košický kraj,False,False,True,NULL,2,1,1
+S,Other services activities,528366,811,8,Hraň,Trebišov,Košický kraj,False,True,True,NULL,10,3,3
+S,Other services activities,528374,811,8,Hrčeľ,Trebišov,Košický kraj,False,True,True,NULL,2,0,0
+S,Other services activities,528412,811,8,Kašov,Trebišov,Košický kraj,False,True,True,NULL,5,1,1
+S,Other services activities,528421,811,8,Kazimír,Trebišov,Košický kraj,False,True,True,NULL,9,1,1
+S,Other services activities,513831,811,8,Klin nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,3,1,1
+S,Other services activities,528439,811,8,Kožuchov,Trebišov,Košický kraj,False,False,True,NULL,2,0,0
+S,Other services activities,528471,811,8,Kuzmice,Trebišov,Košický kraj,False,False,True,NULL,9,5,5
+S,Other services activities,528480,811,8,Kysta,Trebišov,Košický kraj,False,True,True,NULL,3,1,1
+S,Other services activities,528498,811,8,Ladmovce,Trebišov,Košický kraj,True,True,True,NULL,4,0,0
+S,Other services activities,528501,811,8,Lastovce,Trebišov,Košický kraj,False,False,True,NULL,8,0,0
+S,Other services activities,528528,811,8,Luhyňa,Trebišov,Košický kraj,False,True,True,NULL,3,0,0
+S,Other services activities,513792,811,8,Malá Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,10,6,10
+S,Other services activities,528561,811,8,Malý Kamenec,Trebišov,Košický kraj,False,True,True,NULL,8,2,2
+S,Other services activities,528587,811,8,Michaľany,Trebišov,Košický kraj,False,True,True,NULL,15,4,4
+S,Other services activities,528609,811,8,Nižný Žipov,Trebišov,Košický kraj,False,False,True,NULL,10,2,2
+S,Other services activities,528617,811,8,Novosad,Trebišov,Košický kraj,False,True,True,NULL,12,4,4
+S,Other services activities,528641,811,8,Plechotice,Trebišov,Košický kraj,False,False,True,NULL,5,3,3
+S,Other services activities,528706,811,8,Rad,Trebišov,Košický kraj,False,False,True,NULL,3,2,2
+S,Other services activities,543730,811,8,Sirník,Trebišov,Košický kraj,False,True,True,NULL,5,2,2
+S,Other services activities,543748,811,8,Slivník,Trebišov,Košický kraj,False,False,True,NULL,7,3,3
+S,Other services activities,543756,811,8,Slovenské Nové Mesto,Trebišov,Košický kraj,True,True,True,NULL,14,2,2
+S,Other services activities,543772,811,8,Somotor,Trebišov,Košický kraj,False,True,True,NULL,20,7,7
+S,Other services activities,513849,811,8,Stanča,Trebišov,Košický kraj,False,False,True,NULL,3,0,0
+S,Other services activities,543802,811,8,Streda nad Bodrogom,Trebišov,Košický kraj,False,True,True,NULL,25,9,9
+S,Other services activities,528153,811,8,Svätá Mária,Trebišov,Košický kraj,False,False,True,NULL,8,1,1
+S,Other services activities,528099,811,8,Trebišov,Trebišov,Košický kraj,NULL,NULL,NULL,NULL,215,121,159
+S,Other services activities,543845,811,8,Veľaty,Trebišov,Košický kraj,False,True,True,NULL,12,7,8
+S,Other services activities,513806,811,8,Veľká Tŕňa,Trebišov,Košický kraj,True,True,True,NULL,12,2,2
+S,Other services activities,543918,811,8,Veľký Kamenec,Trebišov,Košický kraj,False,True,True,NULL,8,4,4
+S,Other services activities,543926,811,8,Viničky,Trebišov,Košický kraj,True,True,True,NULL,12,3,3
+S,Other services activities,543993,811,8,Zemplín,Trebišov,Košický kraj,True,True,True,NULL,7,0,0
+S,Other services activities,544001,811,8,Zemplínska Nová Ves,Trebišov,Košický kraj,False,False,True,NULL,8,3,3
+S,Other services activities,544019,811,8,Zemplínska Teplica,Trebišov,Košický kraj,False,False,True,NULL,11,4,4
+S,Other services activities,544027,811,8,Zemplínske Hradište,Trebišov,Košický kraj,False,False,True,NULL,10,4,4
+S,Other services activities,544035,811,8,Zemplínske Jastrabie,Trebišov,Košický kraj,False,True,True,NULL,7,3,3
+S,Other services activities,544043,811,8,Zemplínsky Branč,Trebišov,Košický kraj,False,False,True,NULL,3,0,0
+U,Activities of extraterritorial organisations and bodies,598186,802,8,Košice-Staré Mesto,Košice I,Košický kraj,NULL,NULL,NULL,NULL,4,5,9
+U,Activities of extraterritorial organisations and bodies,599824,805,8,Košice-Juh,Košice IV,Košický kraj,NULL,NULL,NULL,NULL,1,0,0
+U,Activities of extraterritorial organisations and bodies,518140,806,8,Nižná Hutka,Košice - okolie,Košický kraj,False,False,True,NULL,1,0,0
