@@ -1,0 +1,7 @@
+﻿gid,objectid,registracn,typ,nazov,nerast,organizaci,sidloorgan,cislorozho,datumrozho,datumplatn,datumpla_1,datumbloka,predlzenie,pdf,typ_,ec_craw,rm_en
+2,22,P27/08,2,Košická kotlina,geotermálna energia,"GEOTERM KOŠICE, a.s.",Košice,481/2012-9.3,2018-04-17,2008-05-12,2020-05-12,NULL,4,P27_08.pdf,Určené PÚ,NULL,gheotermal energy
+4,65,P14/17,2,Zemplín,"polymetalické a Au, Ag rudy",Rodinia s.r.o.,Bratislava - Staré Mesto,4037/2017-5.3,2017-07-26,2017-08-01,2021-08-01,NULL,NULL,P14_17.pdf,Určené PÚ,NULL,"polymetalic Au, Ag ores"
+6,89,P14/18,2,Cejkov,"nerasty, z ktorých možno priemyselne vyrábať kovy - Au, Ag, Pb, Cu, Zn rudy","Prospech Slovakia, s.r.o.",Banská Štiavnica,8581/2018-5.3,2018-11-13,2018-11-21,2022-11-21,NULL,NULL,P14_18.pdf,Určené PÚ,NULL,"minerals from which metals can be industrially produced   - Au, Ag, Pb, Cu, Zn ores"
+3,26,P14/03,2,Východoslovenská nížina,horľavý zemný plyn,"NAFTA, a.s.",Bratislava,6114/2015-7.3,2015-10-21,2015-10-26,2019-11-04,NULL,NULL,P14_03.pdf,Určené PÚ,NULL,flammable natural gas
+5,83,P8/18,2,Beša,horľavý zemný plyn,NAFTA a.s.,Bratislava,8965/2018-5.3,2018-09-17,2018-09-26,2029-09-26,NULL,NULL,P8_18.pdf,Určené PÚ,NULL,flammable natural gas
+1,1,N20/09,1,Strážne,geotermálna energia,"GEO-SEARCH 3, s.r.o.",Košice,NULL,NULL,NULL,NULL,NULL,NULL,NULL,Návrhy PÚ,NULL,gheotermal energy
