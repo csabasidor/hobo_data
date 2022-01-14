@@ -1,0 +1,600 @@
+﻿osm_id,code,name,fclass,cat,idn4,nm4,idn3,nm3,idn2,nm2,wine_region_tokaj_law,wine_region_tokaj_mun_network,zemplin_geopark,mas,mun_network,se,nw
+1383440611,2725,NULL,artwork,historical and cultural,543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+6358678855,2725,NULL,artwork,historical and cultural,521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+1915114864,2721,Zvyšky hospodárskych objektov,attraction,community sites of interest,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2813445700,2721,Špirála,attraction,community sites of interest,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915087701,2721,Koscelek,attraction,community sites of interest,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2406607713,2721,Kysacká vápenka,attraction,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+3209738707,2721,Najnižšia nadmorská výška na Slovensku,attraction,community sites of interest,528170,Borša,811,Trebišov,8,Košický,FALSE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+1465961421,2721,Kresaná skala,attraction,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1608627017,2721,Skaly pod Garabošom,attraction,community sites of interest,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+760611581,2721,Tufové odkryvy,attraction,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1465961416,2721,Deravý kameň,attraction,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1915114862,2721,Replika zrubu,attraction,community sites of interest,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915114867,2721,Zvyšky príbytkov starých 3500 rokov,attraction,community sites of interest,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915114848,2721,Náznaková rekonštrukcia vstupnej brány do osady I.,attraction,community sites of interest,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+4325646890,2305,Santa Fe,bar,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2244765358,2305,Bar za Rohom,bar,"restaurants, cafes, pubs",544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+5144701927,2305,Matrix,bar,"restaurants, cafes, pubs",528587,Michaľany,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+3813690721,2303,NULL,cafe,"restaurants, cafes, pubs",528218,Brezina,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+4402860789,2303,ArtCafe,cafe,"restaurants, cafes, pubs",521400,Haniska,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3615284931,2303,NULL,cafe,"restaurants, cafes, pubs",528226,Byšta,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,NULL,Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+5066429622,2422,Ružínska skala,camp_site,accommodation,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4531622389,2422,rybačka,camp_site,accommodation,521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5066444221,2422,Zátoka 2,camp_site,accommodation,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2406614691,2731,Sokoľ,castle,historical and cultural,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1864185708,2731,Veľký Kamenec,castle,historical and cultural,543918,Veľký Kamenec,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+639177768,2731,Obišovský hrad,castle,historical and cultural,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7265843699,2731,Slanec,castle,historical and cultural,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1864218012,2731,Kaštieľ Vécseyovcov,castle,historical and cultural,543802,Streda nad Bodrogom,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+1865485260,2731,Skároš,castle,historical and cultural,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1383440576,2731,Kazimír,castle,historical and cultural,528421,Kazimír,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+639181302,2731,Kysacký hrad,castle,historical and cultural,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1916709741,2406,Myšľanka,chalet,historical and cultural,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+6379277385,2406,pozemok p. Šimon Byster,chalet,historical and cultural,521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+1200732749,2406,Karolka,chalet,historical and cultural,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1387849891,2406,NULL,chalet,historical and cultural,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1482735220,2406,Dolina,chalet,historical and cultural,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1608627013,2406,Garaboš,chalet,historical and cultural,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+401864499,2302,Izra,fast_food,"restaurants, cafes, pubs",522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+7916868840,2302,Bufet Izra,fast_food,"restaurants, cafes, pubs",522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2813434239,2302,NULL,fast_food,"restaurants, cafes, pubs",522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+379590237,2302,Cukráreň káva čaj,fast_food,"restaurants, cafes, pubs",522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4393345990,2302,Čaňa Burger,fast_food,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1914310906,2904,NULL,fountain,historical and cultural,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+849853686,2404,Tokaj Macik Winery,guesthouse,accommodation,513806,Veľká Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+2643534289,2404,Zlatá putňa,guesthouse,accommodation,543926,Viničky,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+272295634,2404,Pláž,guesthouse,accommodation,521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+4713906490,2401,NULL,hotel,accommodation,528218,Brezina,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+7798468074,2401,Chateau GRAND BARI,hotel,accommodation,543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+3889556437,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3889591235,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3889591249,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3889591252,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8418847234,2905,NULL,hunting_stand,community sites of interest,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+3890035261,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4062328860,2905,NULL,hunting_stand,community sites of interest,521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+4062328864,2905,NULL,hunting_stand,community sites of interest,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+4062328870,2905,NULL,hunting_stand,community sites of interest,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+4062328871,2905,NULL,hunting_stand,community sites of interest,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+4070093005,2905,NULL,hunting_stand,community sites of interest,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+4070108587,2905,NULL,hunting_stand,community sites of interest,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4332304449,2905,NULL,hunting_stand,community sites of interest,543748,Slivník,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+4332304443,2905,NULL,hunting_stand,community sites of interest,543748,Slivník,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+4172077153,2905,NULL,hunting_stand,community sites of interest,582514,Kostoľany nad Hornádom,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4173330339,2905,NULL,hunting_stand,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4173330378,2905,NULL,hunting_stand,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+8355245707,2905,NULL,hunting_stand,community sites of interest,528501,Lastovce,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+4177174159,2905,NULL,hunting_stand,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+8321840095,2905,NULL,hunting_stand,community sites of interest,528170,Borša,811,Trebišov,8,Košický,FALSE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+8321840082,2905,NULL,hunting_stand,community sites of interest,528170,Borša,811,Trebišov,8,Košický,FALSE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+401864538,2905,NULL,hunting_stand,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8108360667,2905,NULL,hunting_stand,community sites of interest,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7976929110,2905,NULL,hunting_stand,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7976929109,2905,NULL,hunting_stand,community sites of interest,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7976929107,2905,NULL,hunting_stand,community sites of interest,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7976929106,2905,NULL,hunting_stand,community sites of interest,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7976929105,2905,NULL,hunting_stand,community sites of interest,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7923047592,2905,NULL,hunting_stand,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7607903534,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7607903533,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7607903532,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7606799711,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7606799659,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7606799658,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7606799657,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7606799646,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7606799300,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7606799154,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7606799146,2905,NULL,hunting_stand,community sites of interest,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7397582416,2905,NULL,hunting_stand,community sites of interest,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7397573068,2905,NULL,hunting_stand,community sites of interest,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7394228248,2905,NULL,hunting_stand,community sites of interest,521906,Rákoš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8614127950,2905,NULL,hunting_stand,community sites of interest,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+8614078965,2905,NULL,hunting_stand,community sites of interest,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+7393386393,2905,NULL,hunting_stand,community sites of interest,518140,Nižná Hutka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+8613126380,2905,NULL,hunting_stand,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+760611547,2905,NULL,hunting_stand,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+760611563,2905,NULL,hunting_stand,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+760611570,2905,NULL,hunting_stand,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7214072283,2905,NULL,hunting_stand,community sites of interest,598119,Košice-Kavečany,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+7214072281,2905,NULL,hunting_stand,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7214072262,2905,NULL,hunting_stand,community sites of interest,598127,Košice-Ťahanovce,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+7201259874,2905,NULL,hunting_stand,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7201259844,2905,NULL,hunting_stand,community sites of interest,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7200384961,2905,NULL,hunting_stand,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7142185325,2905,NULL,hunting_stand,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7126173218,2905,NULL,hunting_stand,community sites of interest,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6960491895,2905,NULL,hunting_stand,community sites of interest,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6960491894,2905,NULL,hunting_stand,community sites of interest,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6960491829,2905,NULL,hunting_stand,community sites of interest,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6742674600,2905,NULL,hunting_stand,community sites of interest,521205,Bohdanovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6742674599,2905,NULL,hunting_stand,community sites of interest,521205,Bohdanovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6742674598,2905,NULL,hunting_stand,community sites of interest,521191,Blažice,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6742674388,2905,NULL,hunting_stand,community sites of interest,521205,Bohdanovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6466998719,2905,NULL,hunting_stand,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+849870835,2905,NULL,hunting_stand,community sites of interest,528129,Bara,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+6417298978,2905,NULL,hunting_stand,community sites of interest,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+997998768,2905,NULL,hunting_stand,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6417298977,2905,NULL,hunting_stand,community sites of interest,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6417298974,2905,NULL,hunting_stand,community sites of interest,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6417298942,2905,NULL,hunting_stand,community sites of interest,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1128203546,2905,NULL,hunting_stand,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1128204272,2905,NULL,hunting_stand,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1128205022,2905,NULL,hunting_stand,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6358390958,2905,NULL,hunting_stand,community sites of interest,521744,Nižný Čaj,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6358390948,2905,NULL,hunting_stand,community sites of interest,521744,Nižný Čaj,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1210976919,2905,NULL,hunting_stand,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1210977041,2905,NULL,hunting_stand,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6358390837,2905,NULL,hunting_stand,community sites of interest,521744,Nižný Čaj,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6358390836,2905,NULL,hunting_stand,community sites of interest,521744,Nižný Čaj,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6358390835,2905,NULL,hunting_stand,community sites of interest,521744,Nižný Čaj,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6358390824,2905,NULL,hunting_stand,community sites of interest,521744,Nižný Čaj,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6358390823,2905,NULL,hunting_stand,community sites of interest,521744,Nižný Čaj,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8595702523,2905,NULL,hunting_stand,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6272664924,2905,NULL,hunting_stand,community sites of interest,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6257317204,2905,NULL,hunting_stand,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2322052899,2905,NULL,hunting_stand,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5652469174,2905,NULL,hunting_stand,community sites of interest,521400,Haniska,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5375953733,2905,NULL,hunting_stand,community sites of interest,521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+5375953732,2905,NULL,hunting_stand,community sites of interest,521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+5375953590,2905,NULL,hunting_stand,community sites of interest,521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+5341636699,2905,NULL,hunting_stand,community sites of interest,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5341636656,2905,NULL,hunting_stand,community sites of interest,522261,Ždaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2538206067,2905,NULL,hunting_stand,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2538206068,2905,NULL,hunting_stand,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2581062096,2905,NULL,hunting_stand,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2581062423,2905,NULL,hunting_stand,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2581062601,2905,NULL,hunting_stand,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2581062663,2905,NULL,hunting_stand,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2628539881,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5237883838,2905,NULL,hunting_stand,community sites of interest,521906,Rákoš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5236296194,2905,NULL,hunting_stand,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2739251613,2905,NULL,hunting_stand,community sites of interest,521388,Gyňov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2739251616,2905,NULL,hunting_stand,community sites of interest,521388,Gyňov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5236296182,2905,NULL,hunting_stand,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5236296154,2905,NULL,hunting_stand,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5224420426,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8418847489,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5110994005,2905,NULL,hunting_stand,community sites of interest,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5094436596,2905,NULL,hunting_stand,community sites of interest,521507,Kalša,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5014898966,2905,NULL,hunting_stand,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+3175447426,2905,NULL,hunting_stand,community sites of interest,528218,Brezina,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+4856339738,2905,NULL,hunting_stand,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+8418847488,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3273682206,2905,NULL,hunting_stand,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+4474563455,2905,NULL,hunting_stand,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4474563453,2905,NULL,hunting_stand,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4474563451,2905,NULL,hunting_stand,community sites of interest,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4474563446,2905,NULL,hunting_stand,community sites of interest,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+3400632601,2905,NULL,hunting_stand,community sites of interest,513806,Veľká Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+3400632619,2905,NULL,hunting_stand,community sites of interest,513806,Veľká Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+3400632660,2905,NULL,hunting_stand,community sites of interest,513806,Veľká Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+8418847487,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4474563379,2905,NULL,hunting_stand,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4474563348,2905,NULL,hunting_stand,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4474563325,2905,NULL,hunting_stand,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4471718604,2905,NULL,hunting_stand,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+3613100288,2905,NULL,hunting_stand,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3613100338,2905,NULL,hunting_stand,community sites of interest,528471,Kuzmice,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+3689942538,2905,NULL,hunting_stand,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+8418847340,2905,NULL,hunting_stand,community sites of interest,521205,Bohdanovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3814356634,2905,NULL,hunting_stand,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+3814371948,2905,NULL,hunting_stand,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+8418847235,2905,NULL,hunting_stand,community sites of interest,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+3889556436,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3889560679,2905,NULL,hunting_stand,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1743443397,2007,NULL,library,historical and cultural,521507,Kalša,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8734696530,2007,Obecná knižnica Streda nad Bodrogom,library,historical and cultural,543802,Streda nad Bodrogom,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+8515370826,2007,Obecná knižnica v Plechoticiach,library,historical and cultural,528641,Plechotice,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+1128204656,2007,Obecná knižinca,library,historical and cultural,582514,Kostoľany nad Hornádom,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6299189993,2724,NULL,memorial,historical and cultural,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1383440579,2724,Padlým príslušníkom odboja,memorial,historical and cultural,528251,Čerhov,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+1383440577,2724,M. R. Štefánik,memorial,historical and cultural,543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+6358678858,2724,Daniel,memorial,historical and cultural,521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+1906786272,2724,NULL,memorial,historical and cultural,521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+678890135,2724,NULL,memorial,historical and cultural,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+728788511,2724,SNP,memorial,historical and cultural,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4347220757,2724,Pamätník protifašistickým bojovníkom,memorial,historical and cultural,582514,Kostoľany nad Hornádom,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2384778568,2724,NULL,memorial,historical and cultural,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+401864632,2724,NULL,memorial,historical and cultural,521507,Kalša,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6299189992,2724,NULL,memorial,historical and cultural,522139,Valaliky,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2306662459,2724,NULL,memorial,historical and cultural,528153,Svätá Mária,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,True,NULL
+3608387489,2724,Cyril a Metod,memorial,historical and cultural,543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+825101694,2724,bojovníkom Červenej armády,memorial,historical and cultural,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6358089711,2724,Slavomír Štelbacký,memorial,historical and cultural,518140,Nižná Hutka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+6519090351,2724,NULL,memorial,historical and cultural,559687,Kechnec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,True,NULL
+6490227722,2724,Gróf Štefan Forgáč,memorial,historical and cultural,522023,Slanské Nové Mesto,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1068961195,2724,Partizánom 1973,memorial,historical and cultural,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2385518273,2723,oslobodenie obce Skároš,monument,historical and cultural,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2244856020,2723,NULL,monument,historical and cultural,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+3815221295,2723,NULL,monument,historical and cultural,580252,Milhosť,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,True,NULL
+2244858108,2723,NULL,monument,historical and cultural,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+3400702585,2722,NULL,museum,historical and cultural,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6899122358,2722,Myšľanské obecné múzeum,museum,historical and cultural,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1914310890,2202,NULL,nightclub,adult entertainment,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+7239022080,2953,Pozorovateľňa vtáctva,observation_tower,community sites of interest,543802,Streda nad Bodrogom,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+4759563388,2953,Vyhliadková veža Tokaj,observation_tower,community sites of interest,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+2385518246,2741,NULL,picnic_site,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+849854257,2741,NULL,picnic_site,community sites of interest,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+2504625532,2741,Veľké drevo,picnic_site,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+801905679,2741,NULL,picnic_site,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2266226153,2741,NULL,picnic_site,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1637785287,2741,NULL,picnic_site,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+817803598,2741,NULL,picnic_site,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+4070095114,2741,NULL,picnic_site,community sites of interest,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1387849875,2741,NULL,picnic_site,community sites of interest,598119,Košice-Kavečany,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+1128203804,2741,NULL,picnic_site,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+728788797,2741,NULL,picnic_site,community sites of interest,598151,Košice-Sever,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+1420446516,2741,NULL,picnic_site,community sites of interest,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+393452044,2741,NULL,picnic_site,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1128205581,2741,NULL,picnic_site,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6798928787,2741,NULL,picnic_site,community sites of interest,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1420446478,2741,NULL,picnic_site,community sites of interest,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2813445674,2741,NULL,picnic_site,community sites of interest,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1128203100,2741,NULL,picnic_site,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+849853067,2741,NULL,picnic_site,community sites of interest,528251,Čerhov,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+1210976599,2741,NULL,picnic_site,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1865485265,2741,NULL,picnic_site,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2407984976,2741,NULL,picnic_site,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1128203812,2741,NULL,picnic_site,community sites of interest,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2407984892,2741,NULL,picnic_site,community sites of interest,598119,Košice-Kavečany,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+5908659158,2741,NULL,picnic_site,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2504625527,2741,NULL,picnic_site,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+678890153,2741,NULL,picnic_site,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+726809751,2741,NULL,picnic_site,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2504625531,2741,NULL,picnic_site,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2628539909,2741,NULL,picnic_site,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2628539902,2741,NULL,picnic_site,community sites of interest,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2229361676,2741,NULL,picnic_site,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6490227719,2741,NULL,picnic_site,community sites of interest,522023,Slanské Nové Mesto,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5094436386,2304,U Borisa,pub,"restaurants, cafes, pubs",521507,Kalša,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2813691641,2304,Bar Habanera,pub,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2813691645,2304,Pohostinstvo na Križovatke,pub,"restaurants, cafes, pubs",521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1497164599,2304,NULL,pub,"restaurants, cafes, pubs",521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2813691877,2304,NULL,pub,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+3848597120,2304,Pavla,pub,"restaurants, cafes, pubs",521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+379590927,2304,Kelt,pub,"restaurants, cafes, pubs",521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+272295629,2304,NULL,pub,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5323858001,2304,NULL,pub,"restaurants, cafes, pubs",543926,Viničky,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+572502401,2304,Veritas,pub,"restaurants, cafes, pubs",543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+272295547,2304,NULL,pub,"restaurants, cafes, pubs",521370,Geča,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+4393295191,2304,Pohostinstvo u Šándora,pub,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2384778587,2304,NULL,pub,"restaurants, cafes, pubs",521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2384778544,2304,Hostinec Minerál,pub,"restaurants, cafes, pubs",521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+572506107,2304,Piváreň,pub,"restaurants, cafes, pubs",528587,Michaľany,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+4393295091,2304,JUSICO,pub,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1914310852,2304,Bowling pub,pub,"restaurants, cafes, pubs",521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+660587505,2304,NULL,pub,"restaurants, cafes, pubs",521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+1916072688,2304,NULL,pub,"restaurants, cafes, pubs",521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1916072507,2304,Club Krčma 158,pub,"restaurants, cafes, pubs",521370,Geča,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915088001,2304,NULL,pub,"restaurants, cafes, pubs",522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1942800068,2304,U Jánošíka,pub,"restaurants, cafes, pubs",521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5805089101,2304,NULL,pub,"restaurants, cafes, pubs",522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5805086992,2304,NULL,pub,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+6105978525,2304,NULL,pub,"restaurants, cafes, pubs",522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1915071119,2304,Čajanka,pub,"restaurants, cafes, pubs",521744,Nižný Čaj,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8583386691,2304,NULL,pub,"restaurants, cafes, pubs",544043,Zemplínsky Branč,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS TOKAJ - ROVINA, oz.",HELMEC - združenie obcí,True,NULL
+1914310995,2304,NULL,pub,"restaurants, cafes, pubs",521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1909498998,2304,U Suseda,pub,"restaurants, cafes, pubs",522171,Vyšná Hutka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1906855839,2304,NULL,pub,"restaurants, cafes, pubs",599794,Košice-Krásna,805,Košice IV,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+2244829823,2304,Bar D,pub,"restaurants, cafes, pubs",544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+2385333655,2304,NULL,pub,"restaurants, cafes, pubs",522261,Ždaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1128204530,2304,Bufet TO-MA,pub,"restaurants, cafes, pubs",582514,Kostoľany nad Hornádom,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1355231466,2304,Patria,pub,"restaurants, cafes, pubs",521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2813434236,2304,Truck Expresso,pub,"restaurants, cafes, pubs",522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+890588224,2304,NULL,pub,"restaurants, cafes, pubs",521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2813434232,2304,IPO Bar,pub,"restaurants, cafes, pubs",522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+272295632,2301,Čarda,restaurant,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7394141559,2301,Mag,restaurant,"restaurants, cafes, pubs",521205,Bohdanovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+401864288,2301,U Helenky,restaurant,"restaurants, cafes, pubs",528471,Kuzmice,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+7733521162,2301,Reštaurácia Park,restaurant,"restaurants, cafes, pubs",582514,Kostoľany nad Hornádom,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1385182139,2301,Restaurant Báró,restaurant,"restaurants, cafes, pubs",543802,Streda nad Bodrogom,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+1914310904,2301,NULL,restaurant,"restaurants, cafes, pubs",521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5324000021,2301,NULL,restaurant,"restaurants, cafes, pubs",543802,Streda nad Bodrogom,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+6839028606,2301,U šeba,restaurant,"restaurants, cafes, pubs",559865,Sokoľany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5223914445,2301,Pizza Forest,restaurant,"restaurants, cafes, pubs",521205,Bohdanovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4393348289,2301,Bowling Čaňa,restaurant,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7798468075,2301,Reštaurácia Chateau GRAND BARI,restaurant,"restaurants, cafes, pubs",543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+5625634722,2301,Šebo,restaurant,"restaurants, cafes, pubs",521973,Seňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2643534289,2301,Zlatá putňa,restaurant,"restaurants, cafes, pubs",543926,Viničky,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+7798444319,2301,Troja Gabi Gyros,restaurant,"restaurants, cafes, pubs",543802,Streda nad Bodrogom,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+4971922265,2301,Ranč Silva,restaurant,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5804455642,2301,Leone,restaurant,"restaurants, cafes, pubs",559687,Kechnec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,True,NULL
+572516714,2301,Park,restaurant,"restaurants, cafes, pubs",543772,Somotor,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+755316847,2301,NULL,restaurant,"restaurants, cafes, pubs",521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4393348189,2301,Zlaté Slnko,restaurant,"restaurants, cafes, pubs",521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+8432461828,2732,Sokoľ,ruins,historical and cultural,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1383440722,2732,NULL,ruins,historical and cultural,528251,Čerhov,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+728788395,2732,Békefiho chata,ruins,historical and cultural,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2403211503,2732,Lovecký zámoček,ruins,historical and cultural,522023,Slanské Nové Mesto,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1915087701,2732,Koscelek,ruins,historical and cultural,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5916347219,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+401864547,2421,NULL,shelter,tourism infrastructure,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+401864564,2421,NULL,shelter,tourism infrastructure,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+728788797,2421,NULL,shelter,tourism infrastructure,598151,Košice-Sever,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+728788854,2421,NULL,shelter,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+728789372,2421,NULL,shelter,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+760611559,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+760611565,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+801904094,2421,NULL,shelter,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+817803675,2421,NULL,shelter,tourism infrastructure,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+849853040,2421,NULL,shelter,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+849853067,2421,NULL,shelter,tourism infrastructure,528251,Čerhov,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+1128203804,2421,NULL,shelter,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1128204079,2421,NULL,shelter,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1637785292,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1865485263,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915087915,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2230709082,2421,NULL,shelter,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2504625529,2421,NULL,shelter,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2812704489,2421,NULL,shelter,tourism infrastructure,522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2812704717,2421,NULL,shelter,tourism infrastructure,521388,Gyňov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+3192014079,2421,NULL,shelter,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+3400702583,2421,NULL,shelter,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3690009769,2421,NULL,shelter,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+3848597125,2421,Kuča,shelter,tourism infrastructure,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+3889591253,2421,NULL,shelter,tourism infrastructure,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4062328869,2421,NULL,shelter,tourism infrastructure,521965,Sady nad Torysou,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",NULL,True,NULL
+4062328873,2421,NULL,shelter,tourism infrastructure,521825,Olšovany,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS OLŠAVA - TORYSA, o.z.",Olšavský mikroregión združenie obcí,True,NULL
+4177173881,2421,NULL,shelter,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4177174135,2421,NULL,shelter,tourism infrastructure,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4332304325,2421,NULL,shelter,tourism infrastructure,543748,Slivník,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+4332304441,2421,NULL,shelter,tourism infrastructure,543748,Slivník,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+4759563384,2421,NULL,shelter,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+5007513721,2421,NULL,shelter,tourism infrastructure,543845,Veľaty,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+5094436452,2421,NULL,shelter,tourism infrastructure,521507,Kalša,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5224420537,2421,NULL,shelter,tourism infrastructure,521906,Rákoš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5591910068,2421,NULL,shelter,tourism infrastructure,528218,Brezina,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+5834657866,2421,NULL,shelter,tourism infrastructure,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5908659157,2421,NULL,shelter,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5916347220,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+6046408275,2421,NULL,shelter,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6046408823,2421,NULL,shelter,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6272518359,2421,NULL,shelter,tourism infrastructure,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6272690980,2421,NULL,shelter,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6272695688,2421,NULL,shelter,tourism infrastructure,521809,Nový Salaš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6337769484,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+6337770091,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+6337770123,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+6389246347,2421,NULL,shelter,tourism infrastructure,521906,Rákoš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6694722588,2421,NULL,shelter,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6694767827,2421,NULL,shelter,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+7126178761,2421,NULL,shelter,tourism infrastructure,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7397573038,2421,NULL,shelter,tourism infrastructure,521558,Kokšov-Bakša,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7397582413,2421,NULL,shelter,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7397582583,2421,NULL,shelter,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7642359580,2421,NULL,shelter,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+7729129911,2421,NULL,shelter,tourism infrastructure,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+7820143105,2421,NULL,shelter,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8363096940,2421,NULL,shelter,tourism infrastructure,543845,Veľaty,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+8568511960,2421,NULL,shelter,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+253213631,2701,Kalša,tourist_info,tourism infrastructure,521507,Kalša,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4474563214,2701,ZO SZZ Sokoľ-Uhrinč,tourist_info,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+3400702540,2701,Košice a okolie,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+3400629589,2701,Rozhľadňa,tourist_info,tourism infrastructure,513806,Veľká Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+3400629588,2701,Kúpele,tourist_info,tourism infrastructure,513806,Veľká Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+3273751970,2701,5. Odpočívadlo - Suchá hora,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+3218869136,2701,NULL,tourist_info,tourism infrastructure,521388,Gyňov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+4759563386,2701,Vyhliadková veža Tokaj,tourist_info,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+4759563387,2701,NULL,tourist_info,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+2951025156,2701,Slanec,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2950750106,2701,NULL,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4995528948,2701,Úradná tabuľa – Slanec,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+379590883,2701,Skároš,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5013680333,2701,Obišovský hrad,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5013680334,2701,Obišovský hrad,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5013680356,2701,NULL,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5013680360,2701,NULL,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5013680373,2701,NULL,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2813691844,2701,NULL,tourist_info,tourism infrastructure,521299,Čaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2813691646,2701,Replika zrubu z doby bronzovej,tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2813691644,2701,Opevnená osada II,tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2813691642,2701,Katastrofálny zosuv v Nižnej Myšli,tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2813445317,2701,NULL,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2813445112,2701,NULL,tourist_info,tourism infrastructure,522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+379590654,2701,Veľký Milič,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5094436487,2701,"Kalša, zastávka",tourist_info,tourism infrastructure,521507,Kalša,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2813434237,2701,Zelené oddychové zóny,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2813434233,2701,Obec Skároš a okolie,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2812704764,2701,NULL,tourist_info,tourism infrastructure,521388,Gyňov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2812704735,2701,NULL,tourist_info,tourism infrastructure,521388,Gyňov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+379590641,2701,"Veľký Milič, sedlo",tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2812704330,2701,Trstené pri Hornáde,tourist_info,tourism infrastructure,522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2739251596,2701,Trstené pri Hornáde,tourist_info,tourism infrastructure,522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2581061912,2701,NULL,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2581061841,2701,Okolo Svinky,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2514420417,2701,Kamenec,tourist_info,tourism infrastructure,521345,Družstevná pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2514420111,2701,Dzurova lúka,tourist_info,tourism infrastructure,521345,Družstevná pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5341636584,2701,NULL,tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2504625533,2701,Slanské sedlo,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2504625530,2701,NULL,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2504625500,2701,Veľké Drevo,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2504625498,2701,Ortáše,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+2504625497,2701,Jazero Izra,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+2407985022,2701,7. Pytliacka drážka,tourist_info,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2366901431,2701,NULL,tourist_info,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2366803084,2701,Sokoľ,tourist_info,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2366803081,2701,Kráľova studňa,tourist_info,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2229361655,2701,NULL,tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1915114861,2701,Preskúmaná plocha pohrebiska,tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915114860,2701,"Preskúmaná plocha osady II., Plánovaný archeologický skanzen Myssle, osada II.",tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915114859,2701,"Preskúmaná plocha osady I. Plánovaný archeologický skanzen Myssle, osada I.",tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915114844,2701,Nižná Myšľa,tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915114841,2701,Archeologický výskum osady,tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5855721271,2701,NULL,tourist_info,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+1915114837,2701,"Archeologická lokalita Varhegy, Plánovaný archeologický skanzen Myssle",tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915114834,2701,"Archeologická lokalita Varhegy, Plánovaný archeologický skanzen Myssle",tourist_info,tourism infrastructure,521736,Nižná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5855721275,2701,Po Tokajských cyklotrasách,tourist_info,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+5855723347,2701,NULL,tourist_info,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+1915087702,2701,Koscelek,tourist_info,tourism infrastructure,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5916347196,2701,NULL,tourist_info,tourism infrastructure,522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5916347197,2701,NULL,tourist_info,tourism infrastructure,522104,Trstené pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1915071093,2701,NULL,tourist_info,tourism infrastructure,521744,Nižný Čaj,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1914310991,2701,NULL,tourist_info,tourism infrastructure,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+28851370,2701,Zemplínska Teplica,tourist_info,tourism infrastructure,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+379590534,2701,Magyar-Szlovák Államhatár,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1914310918,2701,NULL,tourist_info,tourism infrastructure,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+5963646831,2701,Lipová aleja priateľov prírody,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5976430876,2701,Pevnostný areál východ,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5976430877,2701,NULL,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6046408264,2701,Košické lesy a okolie,tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+379590523,2701,Vlašská lúka,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1914310855,2701,Klub slovenských turistov,tourist_info,tourism infrastructure,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1909499002,2701,NULL,tourist_info,tourism infrastructure,522171,Vyšná Hutka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+6272664902,2701,NULL,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6272664903,2701,Slanská Huta,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6272664950,2701,NULL,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6272690979,2701,NULL,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1865485259,2701,Geológia,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1820609716,2701,Družstevná pri Hornáde,tourist_info,tourism infrastructure,521345,Družstevná pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+379590515,2701,Malá Márovka,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+379590450,2701,Veľká Márovka,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+379590430,2701,Dobrák,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+379590266,2701,NULL,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6347378574,2701,Regeta,tourist_info,tourism infrastructure,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1420444211,2701,Slanec,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+1387849894,2701,6. Prameň Irenka,tourist_info,tourism infrastructure,598119,Košice-Kavečany,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+6358090075,2701,NULL,tourist_info,tourism infrastructure,518140,Nižná Hutka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1383440780,2701,NULL,tourist_info,tourism infrastructure,528587,Michaľany,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+1250383022,2701,NULL,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1201869324,2701,Zelené oddychové zóny,tourist_info,tourism infrastructure,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1128205181,2701,Kráľova studňa,tourist_info,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1128205135,2701,1. Obec Kostoľany nad Hornádom,tourist_info,tourism infrastructure,582514,Kostoľany nad Hornádom,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1128204160,2701,8. Prameň Kráľova studňa,tourist_info,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1128203847,2701,"Kráľova studňa, sedlo",tourist_info,tourism infrastructure,598151,Košice-Sever,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+1128203090,2701,5. Strašný jarok,tourist_info,tourism infrastructure,522031,Sokoľ,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1068962298,2701,NULL,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1068407111,2701,Obišovce,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+1068406987,2701,NULL,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+873537400,2701,NULL,tourist_info,tourism infrastructure,522171,Vyšná Hutka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+849854439,2701,NULL,tourist_info,tourism infrastructure,543926,Viničky,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+6490224168,2701,NULL,tourist_info,tourism infrastructure,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+849854414,2701,Náučný chodník krajinného hospodárenia,tourist_info,tourism infrastructure,543993,Zemplín,811,Trebišov,8,Košický,FALSE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+6490227720,2701,Lovecký zámoček na Okrúhlom vrchu,tourist_info,tourism infrastructure,522023,Slanské Nové Mesto,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+849853772,2701,Cyklotrasy v Tokaji,tourist_info,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+849853677,2701,NULL,tourist_info,tourism infrastructure,543993,Zemplín,811,Trebišov,8,Košický,FALSE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+849853283,2701,"Slovenská Tokajská vinohradnícka oblasť, Malá Tŕňa",tourist_info,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+253312006,2701,NULL,tourist_info,tourism infrastructure,543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+849852922,2701,Cyklotrasy v Tokaji,tourist_info,tourism infrastructure,513806,Veľká Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+849852893,2701,NULL,tourist_info,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+849736451,2701,NULL,tourist_info,tourism infrastructure,528129,Bara,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+6749434081,2701,Hrad Kysak,tourist_info,tourism infrastructure,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+849736269,2701,NULL,tourist_info,tourism infrastructure,543926,Viničky,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+849735868,2701,NULL,tourist_info,tourism infrastructure,543926,Viničky,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+6835371898,2701,Dom tradicii Cerhov,tourist_info,tourism infrastructure,528251,Čerhov,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+6835394729,2701,Tokajska vinna cesta,tourist_info,tourism infrastructure,528251,Čerhov,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+6937075047,2701,Kostoľany nad Hornádom,tourist_info,tourism infrastructure,582514,Kostoľany nad Hornádom,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+825101814,2701,NULL,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+825101705,2701,Hrad Slanec,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+825101655,2701,Po Rákócziho stopách,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6969588175,2701,Krčmárka,tourist_info,tourism infrastructure,522023,Slanské Nové Mesto,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+824838760,2701,NULL,tourist_info,tourism infrastructure,528251,Čerhov,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+817803666,2701,"Cyklotrasy: Slanské vrchy, Tokaj, 2009",tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+817803654,2701,NULL,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+817803552,2701,Veľká Izra,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+817803491,2701,Jazero Izra,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+801905843,2701,Kašajovka,tourist_info,tourism infrastructure,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+757752416,2701,"Kráľova studňa, prameň",tourist_info,tourism infrastructure,598151,Košice-Sever,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+755316852,2701,"Jánošíkova Bašta, vyhliadka",tourist_info,tourism infrastructure,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+728789311,2701,Vysoký vrch,tourist_info,tourism infrastructure,598151,Košice-Sever,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+728789285,2701,Mestské lesy Košice,tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+728789124,2701,Sedlo pod Vysokým vrchom,tourist_info,tourism infrastructure,598151,Košice-Sever,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+728789075,2701,NULL,tourist_info,tourism infrastructure,598151,Košice-Sever,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+728788580,2701,Sivec,tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+728788554,2701,Košické lesy a okolie,tourist_info,tourism infrastructure,598151,Košice-Sever,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+728788360,2701,Košické lesy a okolie,tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7394241188,2701,NULL,tourist_info,tourism infrastructure,521906,Rákoš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+726809741,2701,"Ružín, zastávka",tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+726809630,2701,Malá Lodina,tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+253214028,2701,Brezina,tourist_info,tourism infrastructure,528218,Brezina,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+726809619,2701,NULL,tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+680114796,2701,Kysak,tourist_info,tourism infrastructure,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+247120281,2701,Vyšná Myšľa,tourist_info,tourism infrastructure,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+7397582585,2701,Fauna,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+678890179,2701,NULL,tourist_info,tourism infrastructure,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+677175688,2701,"Brezie, mládežnícky tábor",tourist_info,tourism infrastructure,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+677175539,2701,"Sopotnica, ústie",tourist_info,tourism infrastructure,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+676294068,2701,Chata Kopáska,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+671371490,2701,NULL,tourist_info,tourism infrastructure,522261,Ždaňa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+671371484,2701,NULL,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+662535081,2701,Veľká Lodina,tourist_info,tourism infrastructure,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+662534746,2701,Prielohy,tourist_info,tourism infrastructure,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+8734698265,2701,Kultúrno Informačné centrum,tourist_info,tourism infrastructure,543802,Streda nad Bodrogom,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+247120203,2701,NULL,tourist_info,tourism infrastructure,522198,Vyšná Myšľa,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+659871875,2701,"Kuzmice, stanica",tourist_info,tourism infrastructure,528471,Kuzmice,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+644549397,2701,NULL,tourist_info,tourism infrastructure,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+644548271,2701,NULL,tourist_info,tourism infrastructure,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+626336193,2701,Maliniak,tourist_info,tourism infrastructure,522023,Slanské Nové Mesto,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+626336093,2701,Okrúhly vrch,tourist_info,tourism infrastructure,522023,Slanské Nové Mesto,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+626336008,2701,"Črepník, chata Rakaťa",tourist_info,tourism infrastructure,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+7929087355,2701,Hrad Kysak - okolie,tourist_info,tourism infrastructure,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+626057532,2701,Farský les,tourist_info,tourism infrastructure,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+626057340,2701,Ruskov,tourist_info,tourism infrastructure,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+625985521,2701,Baňardový,tourist_info,tourism infrastructure,544019,Zemplínska Teplica,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS Sečovský región, o.z.",NULL,True,NULL
+581922853,2701,Trebľa,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+581922700,2701,"Malý Milič, sedlo",tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+581922648,2701,"Malá Izra, CHPV",tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+8019061423,2701,Kameňolom,tourist_info,tourism infrastructure,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+8019061428,2701,Ujházyovci,tourist_info,tourism infrastructure,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+8019107290,2701,Obyvatelia lesa,tourist_info,tourism infrastructure,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+581922561,2701,Pod Babiou Horou,tourist_info,tourism infrastructure,528218,Brezina,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+8121767305,2701,Flóra,tourist_info,tourism infrastructure,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+581922390,2701,Byšta,tourist_info,tourism infrastructure,528226,Byšta,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,NULL,Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+581882515,2701,ATC Maria,tourist_info,tourism infrastructure,528587,Michaľany,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+581882401,2701,Veľká Tŕňa,tourist_info,tourism infrastructure,513806,Veľká Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+581882356,2701,NULL,tourist_info,tourism infrastructure,543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+572502668,2701,Slovenské Nové Mesto,tourist_info,tourism infrastructure,543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+431039701,2701,"Regeta, horáreň",tourist_info,tourism infrastructure,521957,Ruskov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+401864503,2701,"Izra, jazero",tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+401864448,2701,Čatorňa,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+401864424,2701,Bodnár,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+401864386,2701,Pod Izrou,tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+393472675,2701,"Izra, Miličský potok",tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+393451439,2701,Pagaštanová alej,tourist_info,tourism infrastructure,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8363096941,2701,Les nie je smetisko,tourist_info,tourism infrastructure,543845,Veľaty,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+8363138048,2701,Úradná tabuľa,tourist_info,tourism infrastructure,513849,Stanča,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+388506224,2701,Prokopov mlyn,tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+388506129,2701,Bystrá,tourist_info,tourism infrastructure,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+8390795053,2701,Poľovnícke združenie 30-06 Veľaty,tourist_info,tourism infrastructure,543845,Veľaty,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS ROŇAVA, o.z.",Mikroregión obcí ROŇAVA - združenie obcí,True,NULL
+4307873922,2701,"Slanská Huta, Irmasek",tourist_info,tourism infrastructure,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4342396830,2701,NULL,tourist_info,tourism infrastructure,528251,Čerhov,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+3871307634,2701,NULL,tourist_info,tourism infrastructure,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+3628557598,2701,Gyňov,tourist_info,tourism infrastructure,521388,Gyňov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+5110993972,2950,NULL,tower,historical and cultural,521507,Kalša,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6313107550,2950,NULL,tower,historical and cultural,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+7377832882,2950,NULL,tower,historical and cultural,528153,Svätá Mária,811,Trebišov,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,True,NULL
+3314797596,2950,NULL,tower,historical and cultural,543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+8021280050,2950,NULL,tower,historical and cultural,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6337769480,2742,NULL,viewpoint,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+3192014072,2742,Skalka,viewpoint,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4759563362,2742,NULL,viewpoint,community sites of interest,528129,Bara,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+3192014078,2742,NULL,viewpoint,community sites of interest,521817,Obišovce,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4856339734,2742,NULL,viewpoint,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+4856339729,2742,NULL,viewpoint,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+4759563361,2742,NULL,viewpoint,community sites of interest,543756,Slovenské Nové Mesto,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+4833381072,2742,NULL,viewpoint,community sites of interest,543918,Veľký Kamenec,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+8744588328,2742,NULL,viewpoint,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4759563388,2742,Vyhliadková veža Tokaj,viewpoint,community sites of interest,513792,Malá Tŕňa,811,Trebišov,8,Košický,TRUE,TRUE,TRUE,"MAS TOKAJ - ROVINA, oz.",NULL,True,NULL
+8744588327,2742,NULL,viewpoint,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6934977550,2742,NULL,viewpoint,community sites of interest,521639,Kysak,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+3768517695,2742,NULL,viewpoint,community sites of interest,521582,Košická Polianka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+6960491822,2742,NULL,viewpoint,community sites of interest,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6960491823,2742,NULL,viewpoint,community sites of interest,522082,Trebejov,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+5464886187,2742,NULL,viewpoint,community sites of interest,543802,Streda nad Bodrogom,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+2406610170,2742,Rozlomity,viewpoint,community sites of interest,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+2406599877,2742,NULL,viewpoint,community sites of interest,598151,Košice-Sever,802,Košice I,8,Košický,FALSE,FALSE,FALSE,NULL,NULL,NULL,NULL
+2229361742,2742,NULL,viewpoint,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+7126173249,2742,NULL,viewpoint,community sites of interest,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4204561539,2742,NULL,viewpoint,community sites of interest,521345,Družstevná pri Hornáde,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+778154721,2742,NULL,viewpoint,community sites of interest,522023,Slanské Nové Mesto,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+7239022080,2742,Pozorovateľňa vtáctva,viewpoint,community sites of interest,543802,Streda nad Bodrogom,811,Trebišov,8,Košický,FALSE,FALSE,TRUE,"MAS BODROG, oz.",Mikroregión Tarbucka - združenie obcí,True,NULL
+755316463,2742,Jánošíkova Bašta,viewpoint,community sites of interest,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+8073999039,2742,NULL,viewpoint,community sites of interest,522155,Veľká Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+4332304067,2742,NULL,viewpoint,community sites of interest,522015,Slanská Huta,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+8744588331,2742,NULL,viewpoint,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+728788559,2742,Sivec,viewpoint,community sites of interest,521663,Malá Lodina,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - ČIERNA HORA, o.z.",NULL,NULL,True
+6337769481,2742,NULL,viewpoint,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+1420446503,2742,NULL,viewpoint,community sites of interest,522007,Slanec,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",NULL,True,NULL
+4637435354,2742,NULL,viewpoint,community sites of interest,521981,Skároš,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
+6358090059,2742,NULL,viewpoint,community sites of interest,518140,Nižná Hutka,806,Košice - okolie,8,Košický,FALSE,FALSE,FALSE,"MAS HORNÁD - SLANSKÉ VRCHY, o.z.",Regionálne združenie obcí Hornád,True,NULL
