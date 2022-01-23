@@ -1,0 +1,78 @@
+﻿index,nm4,name,adr,category,unit,police_scope,lat,lon,google_place_id
+64,Borša,DHZ Borša,"Ružová 188, 076 32 Borša",Voluntary fire brigade (Category a),Fire brigade,NULL,48.3924832,21.7042323,ChIJO0CyylfOOEcR_yvXDWTHFhk
+65,Čerhov,DHZ Čerhov,"Dlhá 100, 07681 Čerhov",Voluntary fire brigade (Category b),Fire brigade,NULL,48.464659,21.649184,ChIJLV_uamDSOEcRZfLHPIk9xPI
+68,Hraň,DHZ Hraň,"SNP 165, 076 03 Hraň",Voluntary fire brigade (Category b),Fire brigade,NULL,48.5463652,21.7862568,ChIJhR4FQXzWOEcROgweM6Gy7hU
+20,Kalša,DHZ Kalša,044 18 Kalša,Voluntary fire brigade (Category b),Fire brigade,NULL,48.6130079,21.5272364,ChIJ2e8wVrcpP0cRgEaXxtH3AAQ
+25,Košická Polianka,DHZ Košická Polianka,"Košická Polianka 122, 044 41 Košická Polianka",Voluntary fire brigade (Category b),Fire brigade,NULL,48.6927335,21.3438769,ChIJX82vzhTfPkcRARobDDzzVxY
+27,Kysak,DHZ Kysak,044 81 Kysak,Voluntary fire brigade (Category b),Fire brigade,NULL,48.8534279,21.2209867,ChIJq9KJX5nlPkcRIEeXxtH3AAQ
+75,Novosad,DHZ Novosad,"Hlavná 144/47, 076 02 Novosad",Voluntary fire brigade (Category b),Fire brigade,NULL,48.5254693,21.7418136,ChIJx9Y5TBfUOEcRLdqcU5dYM1k
+32,Nový Salaš,DHZ Nový Salaš,"Nový Salaš 75, 044 17 Nový Salaš",Voluntary fire brigade (Category b),Fire brigade,NULL,48.611331,21.4733791,ChIJgz5rEGcoP0cRqZfg02tleXM
+39,Rákoš,DHZ Rákoš,"Rákoš 95, 044 16 Rákoš",Voluntary fire brigade (Category b),Fire brigade,NULL,48.6420047,21.4298171,ChIJx2bWMZInP0cRXXdwFVQUxHg
+NULL,Streda nad Bodrogom,OO PZ Streda nad Bodrogom,"Ružová 431/14, 076 31 Streda nad Bodrogom",Police station,Police,"Streda nad Bodrogom, Bara, Borša, Černochov, Klin nad Bodrogom, Ladmovce, Malý Kamenec, Rad, Slovenské Nové Mesto, Somotor, Svätá Mária, Svinice, Veľký Kamenec, Viničky, Zemplín",48.3758164,21.7507814,EjYxNCwgUnXFvm92w6EgNDMxLCAwNzYgMzEgU3RyZWRhIG5hZCBCb2Ryb2dvbSwgU2xvdmFraWEiHhocChYKFAoSCfmcgAl6zzhHESJvj1q6OpJ1EgIxNA
+NULL,Michaľany,OO PZ Michaľany,"Na sídlisku 353, 076 14 Michaľany",Police station,Police,"Michaľany, Brehov, Brezina, Byšta, Cejkov, Čerhov, Hraň, Hrčeľ, Kašov, Kazimír, Kuzmice, Kysta, Lastovce, Luhyňa, Malá Tŕňa, Novosad, Sirník, Slivník, Veľaty, Veľká Tŕňa, Zemplínske Jastrabie, Zemplínsky Branč",48.5151577,21.6209296,ChIJqTPx4LQsP0cRbdMzRJlX8nM
+NULL,Trebišov,OO PZ Trebišov,"Nám. Mieru 1496/6, 075 01 Trebišov",Police station,Police,"	Trebišov, Čeľovce, Kožuchov, Nižný žipov, Nový Ruskov, Plechotice, Stanča, Vojčice, Zemplínska Nová Ves, Zemplínske Hradište",48.6201319,21.7181817,EjM2LCBOw6FtZXN0aWUgbWllcnUgMTQ5NiwgMDc1IDAxIFRyZWJpxaFvdiwgU2xvdmFraWEiHRobChYKFAoSCdWJFOv1KzlHEdmN_h7VsfMNEgE2
+NULL,Košice-Staré mesto,OO PZ Košice-Staré mesto,"Pribinova 6, 040 01 Košice",Police station,Police,Košice-Staré Mesto,48.7174242,21.2585242,ChIJM1EEOnDgPkcRC15O0GPEDvE
+NULL,Košice-Sever,OO PZ Košice - Sever,"Tolstého 34, 040 39 Košice",Police station,Police,"Košice-Sever, Košice-Džungľa, Košice-Kavečany",48.735815,21.2507802,EiZUb2xzdMOpaG8gMzQsIDA0MCAwMSBLb8WhaWNlLCBTbG92YWtpYSIaEhgKFAoSCWFA-WX04D5HEToBvMxO7670ECI
+NULL,Košice-Ťahanovce,OO PZ Košice - Ťahanovce,"Juhoslovanská 2, 040 13 Košice",Police station,Police,"Košice-Ťahanovce, Košice-Sídlisko Ťahanovce",48.7545843,21.2712706,EipKdWhvc2xvdmFuc2vDoSAyLCAwNDAgMTMgS2_FoWljZSwgU2xvdmFraWEiGhIYChQKEgknwEe7uOA-RxEwFLXWoez1VhAC
+NULL,Košice-Dargovských hrdinov,OO PZ - Dargovských hrdinov,"Trieda L. Svobodu 14, 040 22 Košice",Police station,Police,"Košice-Dargovských hrdinov, Košice-Košická Nová Ves",48.7359573,21.2843299,EjJUci4gYXJtLiBnZW4uIFN2b2JvZHUgMTQsIDA0MCAyMiBLb8WhaWNlLCBTbG92YWtpYSIaEhgKFAoSCYOFmC-d4D5HEa1BLhJXvulTEA4
+NULL,Košice-Západ,OO PZ Košice - Západ,"Považská 38, 040 01 Košice",Police station,Police,Košice-Západ,48.7170909,21.2397151,EidQb3Zhxb5za8OhIDM4LCAwNDAgMTEgS2_FoWljZSwgU2xvdmFraWEiGhIYChQKEgl1THnlQeA-RxEwjhPtXDSAaBAm
+NULL,Košice-Juh,OO PZ Košice - Juh,"Južná trieda 64, 040 01 Košice",Police station,Police,"Košice-Juh, Košice-Barca, Košice-Šebastovce",48.6987153,21.2637977,EitKdcW-bsOhIHRyaWVkYSA2NCwgMDQwIDAxIEtvxaFpY2UsIFNsb3Zha2lhIhoSGAoUChIJp9tHP-PfPkcRbpRGB8rpnPcQQA
+NULL,Košice-Nad Jazerom,OO PZ Košice - Nad Jazerom,"Ladožská 1, 040 12 Košice",Police station,Police,"Košice-Nad jazerom, Košice-Krásna, Košice-Vyšné Opátske",48.6829648,21.2909966,ChIJK4x0R4jfPkcRm3E6H-xnFNo
+NULL,Košice-KVP,OO PZ Košice - KVP,"Dénešova 53, 040 11 Košice",Police station,Police,"Košice-Sídlisko KVP, Košice-Myslava, Košice-Luník IX, Košice-Lorinčík, Košice-Pereš",48.7108643,21.2139834,EidEw6luZcWhb3ZhIDUzLCAwNDAgMjMgS2_FoWljZSwgU2xvdmFraWEiGhIYChQKEgk95C1rMeA-RxG6QUZN-ZcP7RA1
+4,Trebišov,HS Trebišov,"T. G. Masaryka 13, 075 01 Trebišov",Professionall,Fire brigade,NULL,48.62790659,21.71312134,NULL
+NULL,Čaňa,OO PZ Čaňa,"Sídlisko 9, 044 14 Čaňa",Police station,Police,"Čaňa, Belža, Bočiar, Geča, Gyňov, Haniska, Kechnec, Kokšov – Bakša, Milhosť, Nižná Myšľa, Seňa, Skároš, Sokoľany, Trstené pri Hornáde, Valaliky, Ždaňa",48.60782039,21.32442305,NULL
+42,Ruskov,DHZ Ruskov,"Slančícka 94, 044 19 Ruskov",Voluntary fire brigade (Category b),Fire brigade,NULL,48.6837508,21.4375108,ChIJpy0S2ffYPkcR_pU1MaUCLho
+23,Kostoľany nad Hornádom,DHZ Kostoľany nad Hornádom,"Košická 131, 044 31 Kostoľany nad Hornádom",Voluntary fire brigade (Category c),Fire brigade,NULL,48.7962673,21.2405125,ChIJswDIHcDmPkcRIRRuO1nFVCw
+NULL,Bohdanovce,OO PZ Bohdanovce,"Bohdanovce 65, 044 16",Police station,Police,"Bohdanovce, Blažice, Ďurkov, Kalša, Košická Polianka, Nižná Hutka, Nižný Čaj, Nový Salaš, Olšovany, Rakoš,Ruskov, Slančík, Slanec, Slanská Huta, Slanské Nové Mesto,  Vyšná Hutka, Vyšná Myšľa, Vyšný Čaj",48.6573932,21.4040401,ChIJmy9WG30nP0cRRPLrmkujUQM
+NULL,Kysak,OO PZ Kysak,"Kysak 308, 044 81",Police station,Police,"Kysak, Družstevná pri Hornáde, Košická Belá, Malá Lodina, Kostoľany nad Hornádom, Obišovce, Opátka, Sokoľ, Trebejov, Veľká Lodina",48.858795,21.2168632,ChIJOfdbB4zlPkcRS40J_5cEako
+NULL,Trebišov,Ambulancia rýchlej zdravotnej pomoci (Záchranná služba Košice),"SNP 76, 075 01 Trebišov",Medical emergency service,Hospitals and Emergency services,NULL,48.6193393,21.7167999,ChIJ2XIj38kqOUcRY0zpnZrr2ug
+NULL,Košice-Šaca,OO PZ Košice - Šaca,"Železiarenská 9, 040 15 Košice",Police station,Police,"Košice-Šaca, Košice-Poľov",48.6338168,21.1704907,ChIJR_tUpjkfP0cRG18NNCyroJ0
+3,Čaňa,HS Čaňa,"Skladná 809, 044 14 Čaňa",Professionall,Fire brigade,NULL,48.6089613,21.3256832,ChIJCezL9rYmP0cRCcjmUznU7Ng
+63,Bara,DHZ Bara,"Bara 7, 07632",Voluntary fire brigade (Category c),Fire brigade,NULL,48.4281811,21.7163705,ChIJ02z3xijOOEcRkG2XxtH3AAQ
+6,Bohdanovce,DHZ Bohdanovce,044 16 Bohdanovce,Voluntary fire brigade (Category c),Fire brigade,NULL,48.6565193,21.4011716,ChIJM6XednwnP0cR0ESXxtH3AAQ
+67,Čeľovce,DHZ Čeľovce,"Hlavná 72, 076 17 Čeľovce",Voluntary fire brigade (Category c),Fire brigade,NULL,48.6007175,21.6277226,ChIJN6EO_YkqP0cRA1xo_O_wMkM
+66,Černochov,DHZ Černochov,"Hlavná 12, 076 32 Černochov",Voluntary fire brigade (Category c),Fire brigade,NULL,48.437573,21.7350573,ChIJ4zvpTMXROEcRSI5I4XSqIbY
+69,Kazimír,DHZ Kazimír,"Hlavná 105, 076 13 Kazimír",Voluntary fire brigade (Category c),Fire brigade,NULL,48.5253545,21.5849342,ChIJX-Dy7ZEsP0cRhHFtr7wU_xU
+71,Kysta,DHZ Kysta,"Kvetná 73/2, 076 02 Kysta",Voluntary fire brigade (Category c),Fire brigade,NULL,48.5145865,21.7191364,ChIJ4wwtrgrUOEcR14eAGehwyfE
+73,Malá Tŕňa,DHZ Malá Tŕňa,"Tokajská 113/17, 076 82 Malá Tŕňa",Voluntary fire brigade (Category c),Fire brigade,NULL,48.4539059,21.6810445,ChIJj0Hl0BbSOEcR1pTEmUepykw
+33,Olšovany,DHZ Olšovany,"Olšovany 35, 044 19 Olšovany",Voluntary fire brigade (Category c),Fire brigade,NULL,48.7059034,21.4108107,ChIJ0Zzt1iXZPkcR2LMNutxmAiE
+76,Plechotice,DHZ Plechotice,"Hlavná 179, 075 01 Plechotice",Voluntary fire brigade (Category c),Fire brigade,NULL,48.6260871,21.6451154,ChIJayVOpJ3VPkcRTbIARHVduWc
+NULL,Trebišov,Nemocnica Svet zdravia a.s.,"SNP 76, 075 01 Trebišov",General and specialized hospitals,Hospitals and Emergency services,NULL,48.6193393,21.7167999,ChIJ2XIj38kqOUcRY0zpnZrr2ug
+NULL,Košice - Juh,Ambulancia rýchlej zdravotnej pomoci (Záchranná služba Košice),"Rastislavova 63, Košice",Medical emergency service,Hospitals and Emergency services,NULL,48.7016468,21.2608712,ChIJ88dUdOLfPkcR1Xs6JCgPqDM
+NULL,Košice - Juh,Univerzitná nemocnica L. Pasteura Košice,"Rastislavova 63, Košice",General and specialized hospitals,Hospitals and Emergency services,NULL,48.7016468,21.2608712,ChIJ88dUdOLfPkcR1Xs6JCgPqDM
+NULL,Košice - Šaca,Nemocnica AGEL,"Lúčna 57, 040 15 Šaca",Medical emergency service,Hospitals and Emergency services,NULL,48.6424142,21.1730377,ChIJuZntExYfP0cRFUh42RQ4nLU
+NULL,Košice - Šaca,Nemocnica AGEL,"Lúčna 57, 040 15 Šaca",General and specialized hospitals,Hospitals and Emergency services,NULL,48.6424142,21.1730377,ChIJuZntExYfP0cRFUh42RQ4nLU
+NULL,Košice - Západ,Ambulancia rýchlej zdravotnej pomoci (Záchranná služba Košice),"Trieda SNP 1, 040 11 Košice - mestská časť Západ",Medical emergency service,Hospitals and Emergency services,NULL,48.723221,21.2368717,ChIJc23arUTgPkcRJ7UPzA-hqTY
+NULL,Košice - Západ,Univerzitná nemocnica L. Pasteura Košice,"Trieda SNP 1, 040 11 Košice - mestská časť Západ",General and specialized hospitals,Hospitals and Emergency services,NULL,48.723221,21.2368717,ChIJc23arUTgPkcRJ7UPzA-hqTY
+NULL,Čaňa,Egomed Poliklinika,"Osloboditeľov 651/22, 044 14 Čaňa",Medical emergency service,Hospitals and Emergency services,NULL,48.6072102,21.3307105,ChIJv93dwrkmP0cR_PH21yF-IwA
+NULL,Košice - Sever,"Ambulancia rýchlej zdravotnej pomoci, Košice, (Záchranná služba Košice)",Tomášikova 32040 01 Košice,Medical emergency service,Hospitals and Emergency services,NULL,48.7346608,21.2515532,ChIJjUo56PTgPkcRlKojxgMKQRk
+NULL,Košice - Staré Mesto,"Ambulancia rýchlej zdravotnej pomoci, Košice, (Záchranná služba Košice)","Bačíkova 321/7, 040 01 Košice",Medical emergency service,Hospitals and Emergency services,NULL,48.7256689,21.2513692,ChIJCx4mKmfgPkcR-SsWg_tN-84
+78,Slovenské Nové Mesto,DHZ Slovenské Nové Mesto,"Hlavná 79, 076 33 Slovenské Nové Mesto",Voluntary fire brigade (Category b),Fire brigade,NULL,48.4108358,21.6678004,EjU3OSAmIEhsYXZuw6EsIDA3NiAzMyBTbG92ZW5za8OpIE5vdsOpIE1lc3RvLCBTbG92YWtpYSJmImQKFAoSCW1_dNp3zjhHEVn6U-0dXf1EEhQKEgltf3Tad844RxFZ-lPtHV39RBoUChIJc_Qc8zkpOUcRN_HGGqnIaAMaFAoSCX1Tsql7zjhHESWvPt6edBETIgoNRujaHBV0PuoM
+NULL,Slovenské Nové Mesto,Ambulancia rýchlej zdravotnej pomoci (Záchranná služba Košice),"Hlavná 79, 076 33 Slovenské Nové Mesto",Medical emergency service,Hospitals and Emergency services,NULL,48.4108358,21.6678004,EjU3OSAmIEhsYXZuw6EsIDA3NiAzMyBTbG92ZW5za8OpIE5vdsOpIE1lc3RvLCBTbG92YWtpYSJmImQKFAoSCW1_dNp3zjhHEVn6U-0dXf1EEhQKEgltf3Tad844RxFZ-lPtHV39RBoUChIJc_Qc8zkpOUcRN_HGGqnIaAMaFAoSCX1Tsql7zjhHESWvPt6edBETIgoNRujaHBV0PuoM
+46,Slančík,DHZ Slančík,"Slančík 83, 044 17 Slančík",Voluntary fire brigade (Category c),Fire brigade,NULL,48.662258,21.489129,ChIJY-Jy4_TXPkcR0oJycJsv9XE
+50,Sokoľ,DHZ Sokoľ,"Kostolianska 159, 044 31 Sokoľ",Voluntary fire brigade (Category c),Fire brigade,NULL,48.8115219,21.2200721,ChIJVVVZpYLmPkcRSQ6oWI72eRI
+88,Zemplínska Teplica,DHZ Zemplínska Teplica,"Zemplínska Teplica, 07664",Voluntary fire brigade (Category b),Fire brigade,NULL,48.6460968,21.573834,ChIJAxgEl1zWPkcRAHyXxtH3AAQ
+1,Košice-Juh,HS Košice - Teplárenská,Teplárenská 2,Professionall,Fire brigade,NULL,48.6983516,21.277177,EilUZXBsw6FyZW5za8OhIDIsIDA0MCAxMiBLb8WhaWNlLCBTbG92YWtpYSIaEhgKFAoSCYMkYwPv3z5HET7qCuSiqpOlEAI
+0,Košice-Juh,HS Košice - Požiarnická,Požiarnická 4,Professionall,Fire brigade,NULL,48.7130121,21.263684,EilQb8W-aWFybmlja8OhIDQsIDA0MCAwMSBLb8WhaWNlLCBTbG92YWtpYSIaEhgKFAoSCR1zuR104D5HEZbMsf36yR1YEAQ
+2,Košice-Šaca,HS Košice - Šaca,"Ranná 4, 040 15 Košice Šaca",Professionall,Fire brigade,NULL,48.6314349,21.1705289,ChIJO8bHKTgfP0cRjnIsCk79vI8
+53,Trebejov,DHZ Trebejov,"Trebejov 68, 044 81 Trebejov",Voluntary fire brigade (Category c),Fire brigade,NULL,48.8334842,21.2200943,ChIJn59wNMXlPkcRpKhsby84ajc
+60,Vyšný Čaj,DHZ Vyšný Čaj,"Vyšný Čaj 86, 044 16 Vyšný Čaj",Voluntary fire brigade (Category c),Fire brigade,NULL,48.6839046,21.3986901,ChIJsepn0cDYPkcR7DR1stJyQvE
+NULL,Trebišov,21. zmiešaný mechanizovaný prápor,"Kpt. Nálepku 3644, 075 01 Trebišov",Mechanized battalion,Army,NULL,48.63689,21.7116796,ChIJrX7tWinVPkcR1JtOEf30v9w
+15,Geča,DHZ Geča,"Kostolná 382, 044 10 Geča",Voluntary fire brigade (Category b),Fire brigade,NULL,48.6296796,21.3111822,EiVLb3N0b2xuw6EgMzgyLCAwNDQgMTAgR2XEjWEsIFNsb3Zha2lhIhsSGQoUChIJb9PZMyQhP0cRm8xrLSPhbqEQ_gI
+22,Kokšov-Bakša,DHZ Kokšov-Bakša,"Kokšov - Bakša 178, 044 13 Kokšov - Bakša",Voluntary fire brigade (Category b),Fire brigade,NULL,48.6478946,21.3234584,ChIJD2COFMQgP0cRbk99VWB68sw
+70,Kuzmice,DHZ Kuzmice,"Hlavná 286, 076 12 Kuzmice",Voluntary fire brigade (Category b),Fire brigade,NULL,48.5781105,21.5693735,ChIJQzDt0s4rP0cRNIegP87dmnc
+74,Michaľany,DHZ Michaľany,"Hlavná 105, 076 14 Michaľany",Voluntary fire brigade (Category b),Fire brigade,NULL,48.51341,21.6205169,ChIJQ3cJRrUsP0cR_PXZnSPEwPs
+44,Seňa,DHZ Seňa,044 58 Seňa,Voluntary fire brigade (Category b),Fire brigade,NULL,48.558853,21.2572586,ChIJM0LcHJojP0cRIEmXxtH3AAQ
+NULL,Košice - Nad jazerom,Ambulancia rýchlej zdravotnej pomoci (Záchranná služba Košice),"Poludníková 7, 040 12 Nad jazerom",Medical emergency service,Hospitals and Emergency services,NULL,48.6826956,21.2963514,Ei1Qb2x1ZG7DrWtvdsOhIDcsIDA0MCAxMiBOYWQgamF6ZXJvbSwgU2xvdmFraWEiGhIYChQKEgl7mg-8h98-RxEI7TrojwZythAH
+NULL,Košice - Staré Mesto,Železničná nemocnica s poliklinikou Košice,"Masarykova 9, 040 01 Košice",General and specialized hospitals,Hospitals and Emergency services,NULL,48.7279742,21.2591257,EiZNYXNhcnlrb3ZhIDksIDA0MCAwMSBLb8WhaWNlLCBTbG92YWtpYSIaEhgKFAoSCRX5qD5i4D5HEUkUzrFkMHspEAk
+72,Ladmovce,DHZ Ladmovce,"Ladmovce 46, 076 34 Ladmovce",Voluntary fire brigade (Category c),Fire brigade,NULL,48.412194,21.7811121,ChIJuQ-wW_vPOEcR6FUBtiuKyCw
+43,Sady nad Torysou,DHZ Sady nad Torysou,044 41 Sady nad Torysou-Byster,Voluntary fire brigade (Category c),Fire brigade,NULL,48.7076557,21.3461661,ChIJMeBBqB3fPkcRf2u2Adgpbog
+45,Skároš,DHZ Skároš,044 11 Skároš,Voluntary fire brigade (Category c),Fire brigade,NULL,48.5884089,21.3760949,ChIJMeJRoyMmP0cRMEmXxtH3AAQ
+47,Slanec,DHZ Slanec,"Hlavná 55/114, 044 17 Slanec",Voluntary fire brigade (Category b),Fire brigade,NULL,48.6354108,21.4756052,ChIJu_0MfwUoP0cRFnYRP8vpGP4
+77,Slivník,DHZ Slivník,"Slivník 9, 076 12 Slivník",Voluntary fire brigade (Category b),Fire brigade,NULL,48.5980286,21.5545424,ChIJZzgxEIYpP0cRZEobjrBReW4
+81,Streda nad Bodrogom,DHZ Streda nad Bodrogom,"Hlavná 391, 076 31 Streda nad Bodrogom",Voluntary fire brigade (Category a),Fire brigade,NULL,48.3699291,21.7533705,ChIJbdJ2oWTPOEcRX-ejxKpxPks
+82,Trebišov,DHZ Trebišov,"M. R. Štefánika 862, 075 01 Trebišov",Voluntary fire brigade (Category b),Fire brigade,NULL,48.6190079,21.7191003,ChIJ5-xEKMgqOUcRGrMi1Z4bg4c
+57,Valaliky,DHZ Valaliky,"Poľná 165, 044 13 Valaliky",Voluntary fire brigade (Category b),Fire brigade,NULL,48.6332542,21.2978209,ChIJC3GyLBkhP0cRcG5WkKpEM04
+NULL,Košice - Staré Mesto,Univerzitná nemocnica - Nemocnica sv. Michala pracovisko Košice,"Murgašova 1, 040 01 Košice",General and specialized hospitals,Hospitals and Emergency services,NULL,48.7178092,21.2562805,ChIJHfH3z2_gPkcRlEUOyN5q6FE
+83,Veľaty,DHZ Veľaty,"Staničná 8/12, 076 15 Veľaty",Voluntary fire brigade (Category b),Fire brigade,NULL,48.5236918,21.6627071,ChIJM9OQcmDTOEcRxv5qkNeRe9Q
+87,Zemplínska Nová Ves,DHZ Zemplínska Nová Ves,"Hlavná 43, 076 16 Zemplínska Nová Ves-Úpor",Voluntary fire brigade (Category b),Fire brigade,NULL,48.5766431,21.6680035,ChIJe01WgM0qP0cRGE4-AcfrwCs
